@@ -10,7 +10,7 @@
         { "weight": 70,
           "pool": [
             {
-                "weight": 14,
+                "weight": 13,
                 "item": {
                 "id": "the_vault:wooden_chunk",
                 "count": {
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "weight": 12,
+                "weight": 11,
                 "item": {
                 "id": "the_vault:sandy_rocks",
                 "count": {
@@ -32,7 +32,7 @@
                 }
             },
             {
-              "weight": 10,
+              "weight": 9,
               "item": {
               "id": "the_vault:vault_sweets",
               "count": {
@@ -43,7 +43,7 @@
               }
             },
             {
-              "weight": 4,
+              "weight": 5,
               "item": {
                 "id": "the_vault:driftwood",
                 "count": {
@@ -54,7 +54,7 @@
               }
             },
             {
-              "weight": 4,
+              "weight": 5,
               "item": {
                 "id": "the_vault:vault_plating",
                 "count": {
@@ -69,7 +69,7 @@
         { "weight": 20,
         "pool": [
           {
-              "weight": 6,
+              "weight": 7,
               "item": {
                 "id": "the_vault:magic_silk",
                 "count": {
@@ -80,7 +80,7 @@
               }
           },
           {
-            "weight": 10,
+            "weight": 14,
             "item": {
               "id": "the_vault:carbon_nugget",
               "count": {
@@ -91,7 +91,7 @@
             }
           },
           {
-            "weight": 10,
+            "weight": 14,
             "item": {
               "id": "the_vault:driftwood",
               "count": {
@@ -102,7 +102,7 @@
             }
           },
           {
-            "weight": 6,
+            "weight": 8,
             "item": {
               "id": "the_vault:vault_plating",
               "count": {
@@ -128,7 +128,7 @@
               }
             },
             {
-              "weight": 10,
+              "weight": 12,
               "item": {
                 "id": "the_vault:vault_essence",
                 "count": {
@@ -139,7 +139,7 @@
               }
             },
             {
-              "weight": 10,
+              "weight": 12,
               "item": {
                 "id": "the_vault:silver_scrap",
                 "count": {
@@ -154,7 +154,7 @@
         { "weight": 2,
           "pool": [
             {
-              "weight": 1,
+              "weight": 2,
               "item": {
                 "id": "the_vault:wooden_chest_scroll",
                 "count": {
@@ -165,7 +165,7 @@
               }
             },
             {
-              "weight": 1,
+              "weight": 9,
               "item": {
                 "id": "the_vault:mod_box",
                 "count": {
@@ -176,7 +176,7 @@
               }
             },
             {
-              "weight": 8,
+              "weight": 56,
               "item": {
                 "id": "the_vault:bounty_pearl",
                 "count": {

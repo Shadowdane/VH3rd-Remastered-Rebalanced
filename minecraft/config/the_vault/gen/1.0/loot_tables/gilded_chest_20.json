@@ -95,7 +95,7 @@
         { "weight": 8,
           "pool": [
             {
-              "weight": 1,
+              "weight": 22,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -106,7 +106,7 @@
               }
             },
             {
-              "weight": 16,
+              "weight": 240,
               "item": {
                 "id": "the_vault:vault_diamond",
                 "count": {
@@ -117,7 +117,7 @@
               }
             },
             {
-              "weight": 10,
+              "weight": 110,
               "item": {
                 "id": "the_vault:dreamstone",
                 "count": {
@@ -133,7 +133,7 @@
           "weight": 2,
           "pool": [
             {
-              "weight": 27,
+              "weight": 64,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -144,7 +144,18 @@
               }
             },
             {
-              "weight": 126,
+              "weight": 16,
+              "item": {
+                "id": "the_vault:jewel_pouch",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 256,
               "item": {
                 "id": "the_vault:vault_diamond",
                 "count": {
@@ -155,7 +166,7 @@
               }
             },
             {
-              "weight": 9,
+              "weight": 11,
               "item": {
                 "id": "the_vault:gilded_chest_scroll",
                 "count": {
@@ -166,7 +177,7 @@
               }
             },
             {
-              "weight": 36,
+              "weight": 75,
               "item": {
                 "id": "the_vault:magnet",
                 "nbt": {
@@ -180,7 +191,7 @@
               }
             },
             {
-              "weight": 2,
+              "weight": 5,
               "item": {
                 "id": "the_vault:trinket",
                 "count": {

@@ -3,14 +3,14 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 1,
-        "max": 1
+        "min": 2,
+        "max": 3
       },
       "pool": [
         { "weight": 80,
           "pool": [
             {
-              "weight": 1,
+              "weight": 6,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -19,28 +19,50 @@
                   "max": 1
                   }
               }
-            }
-          ]
-        },
-        { "weight": 20,
-        "pool": [
+          },
           {
-            "weight": 1,
+            "weight": 16,
             "item": {
-              "id": "the_vault:jewel_pouch",
+              "id": "the_vault:vault_essence",
               "count": {
                 "type": "uniform",
                 "min": 1,
                 "max": 1
                 }
-            }
+             }
+          }
+        ]
+        },
+        { "weight": 20,
+        "pool": [
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:jewel_pouch",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+          },
+          {
+            "weight": 16,
+            "item": {
+              "id": "the_vault:vault_essence",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
+                }
+             }
           }
         ]
         },
         { "weight": 8,
           "pool": [
             {
-              "weight": 1,
+              "weight": 8,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -51,7 +73,7 @@
               }
             },
             {
-              "weight": 6,
+              "weight": 48,
               "item": {
                 "id": "the_vault:dreamstone",
                 "count": {
@@ -62,11 +84,11 @@
               }
             },
             {
-              "weight": 3,
+              "weight": 30,
               "item": {
                 "id": "the_vault:magnet",
                 "nbt": {
-                  "the_vault:gear_roll_type_pool": "strong_common"
+                  "the_vault:gear_roll_type_pool": "strong_rare"
                 },
                 "count": {
                   "type": "uniform",
@@ -81,7 +103,7 @@
           "weight": 2,
           "pool": [
             {
-              "weight": 60,
+              "weight": 30,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -92,7 +114,7 @@
               }
             },
             {
-              "weight": 20,
+              "weight": 8,
               "item": {
                 "id": "the_vault:gilded_chest_scroll",
                 "count": {
@@ -103,7 +125,7 @@
               }
             },
             {
-              "weight": 20,
+              "weight": 16,
               "item": {
                 "id": "the_vault:key_piece",
                 "count": {
@@ -114,11 +136,11 @@
               }
             },
             {
-              "weight": 160,
+              "weight": 128,
               "item": {
                 "id": "the_vault:magnet",
                 "nbt": {
-                  "the_vault:gear_roll_type_pool": "strong_rare"
+                  "the_vault:gear_roll_type_pool": "strong_epic"
                 },
                 "count": {
                   "type": "uniform",
@@ -128,7 +150,7 @@
               }
             },
             {
-              "weight": 15,
+              "weight": 10,
               "item": {
                 "id": "the_vault:trinket",
                 "count": {

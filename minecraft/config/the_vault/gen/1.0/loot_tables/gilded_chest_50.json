@@ -95,7 +95,7 @@
         { "weight": 8,
           "pool": [
             {
-              "weight": 1,
+              "weight": 22,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -106,7 +106,7 @@
               }
             },
             {
-              "weight": 14,
+              "weight": 240,
               "item": {
                 "id": "the_vault:vault_diamond",
                 "count": {
@@ -117,7 +117,7 @@
               }
             },
             {
-              "weight": 6,
+              "weight": 110,
               "item": {
                 "id": "the_vault:dreamstone",
                 "count": {
@@ -133,7 +133,7 @@
           "weight": 2,
           "pool": [
             {
-              "weight": 75,
+              "weight": 128,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -144,7 +144,18 @@
               }
             },
             {
-              "weight": 450,
+              "weight": 32,
+              "item": {
+                "id": "the_vault:jewel_pouch",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 554,
               "item": {
                 "id": "the_vault:vault_diamond",
                 "count": {
@@ -155,7 +166,7 @@
               }
             },
             {
-              "weight": 250,
+              "weight": 320,
               "item": {
                 "id": "the_vault:dreamstone",
                 "count": {
@@ -166,7 +177,7 @@
               }
             },
             {
-              "weight": 25,
+              "weight": 38,
               "item": {
                 "id": "the_vault:gilded_chest_scroll",
                 "count": {
@@ -177,7 +188,7 @@
               }
             },
             {
-              "weight": 75,
+              "weight": 130,
               "item": {
                 "id": "the_vault:key_piece",
                 "count": {
@@ -188,7 +199,7 @@
               }
             },
             {
-              "weight": 125,
+              "weight": 192,
               "item": {
                 "id": "the_vault:magnet",
                 "nbt": {
@@ -202,7 +213,7 @@
               }
             },
             {
-              "weight": 5,
+              "weight": 10,
               "item": {
                 "id": "the_vault:trinket",
                 "count": {
