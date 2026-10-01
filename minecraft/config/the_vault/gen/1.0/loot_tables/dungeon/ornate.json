@@ -4,13 +4,13 @@
       "roll": {
         "type": "uniform",
         "min": 1,
-        "max": 1
+        "max": 2
       },
       "pool": [
         { "weight": 1,
           "pool": [
             {
-              "weight": 7,
+              "weight": 80,
               "item": {
                 "id": "the_vault:helmet",
                 "nbt": {
@@ -24,7 +24,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 80,
               "item": {
                 "id": "the_vault:chestplate",
                 "nbt": {
@@ -38,7 +38,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 80,
               "item": {
                 "id": "the_vault:leggings",
                 "nbt": {
@@ -52,7 +52,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 80,
               "item": {
                 "id": "the_vault:boots",
                 "nbt": {
@@ -66,7 +66,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 80,
               "item": {
                 "id": "the_vault:sword",
                 "nbt": {
@@ -80,7 +80,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 80,
               "item": {
                 "id": "the_vault:axe",
                 "nbt": {
@@ -94,7 +94,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 80,
               "item": {
                 "id": "the_vault:shield",
                 "nbt": {
@@ -108,7 +108,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 80,
               "item": {
                 "id": "the_vault:focus",
                 "nbt": {
@@ -122,7 +122,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 80,
               "item": {
                 "id": "the_vault:wand",
                 "nbt": {
@@ -136,7 +136,7 @@
               }
             },
             {
-              "weight": 20,
+              "weight": 160,
               "item": {
               "id": "the_vault:waning_focus",
               "count": {
@@ -147,7 +147,7 @@
               }
             },
             {
-              "weight": 20,
+              "weight": 160,
               "item": {
               "id": "the_vault:waxing_focus",
               "count": {
@@ -158,7 +158,7 @@
               }
             },
             {
-              "weight": 4,
+              "weight": 80,
               "item": {
               "id": "the_vault:fundamental_focus",
               "count": {
@@ -169,7 +169,7 @@
               }
             },
             {
-              "weight": 1,
+              "weight": 40,
               "item": {
               "id": "the_vault:opportunistic_focus",
               "count": {
@@ -180,7 +180,7 @@
               }
             },
             {
-              "weight": 1,
+              "weight": 10,
               "item": {
                 "id": "the_vault:vault_necklace",
                 "count": {

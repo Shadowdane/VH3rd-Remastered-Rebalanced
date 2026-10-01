@@ -172,7 +172,7 @@
           },
           {
             "value": "Omega",
-            "weight": 10
+            "weight": 20
           }
         ]
       }
@@ -259,15 +259,15 @@
         "rollTypeOutcomes": [
           {
             "value": "Common",
-            "weight": 100
+            "weight": 64
           },
           {
             "value": "Rare",
-            "weight": 20
+            "weight": 16
           },
           {
             "value": "Epic",
-            "weight": 5
+            "weight": 4
           }
         ]
       }
@@ -278,15 +278,15 @@
         "rollTypeOutcomes": [
           {
             "value": "Rare",
-            "weight": 20
+            "weight": 16
           },
           {
             "value": "Epic",
-            "weight": 5
+            "weight": 8
           },
           {
             "value": "Omega",
-            "weight": 2
+            "weight": 4
           }
         ]
       }

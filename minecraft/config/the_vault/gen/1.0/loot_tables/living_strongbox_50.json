@@ -10,27 +10,13 @@
         { "weight": 70,
           "pool": [
             {
-              "weight": 344,
+              "weight": 8,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
                   "type": "uniform",
-                  "min": 2,
-                  "max": 4
-                  }
-              }
-            },
-            {
-              "weight": 4,
-              "item": {
-                "id": "the_vault:vault_god_charm",
-                "nbt": {
-                    "the_vault:gear_roll_type_pool": "strong_common"
-                  },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
+                  "min": 5,
+                  "max": 7
                   }
               }
             }
@@ -39,18 +25,44 @@
         { "weight": 20,
         "pool": [
           {
-            "weight": 384,
+            "weight": 8,
             "item": {
               "id": "the_vault:knowledge_star_essence",
               "count": {
                 "type": "uniform",
-                "min": 4,
-                "max": 7
+                "min": 8,
+                "max": 11
                 }
             }
-          },
-          {
-              "weight": 8,
+          }
+        ]
+        },
+        { "weight": 8,
+          "pool": [
+            {
+              "weight": 14,
+              "item": {
+                "id": "the_vault:knowledge_star_essence",
+                "count": {
+                  "type": "uniform",
+                  "min": 12,
+                  "max": 16
+                  }
+              }
+            },
+            {
+              "weight": 4,
+              "item": {
+                "id": "the_vault:inscription_piece",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 2,
               "item": {
                 "id": "the_vault:vault_god_charm",
                 "nbt": {
@@ -65,21 +77,43 @@
            }
         ]
         },
-        { "weight": 8,
+        { "weight": 2,
           "pool": [
             {
-              "weight": 272,
+              "weight": 20,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
                   "type": "uniform",
-                  "min": 7,
-                  "max": 11
+                  "min": 17,
+                  "max": 22
                   }
               }
             },
             {
-              "weight": 48,
+              "weight": 16,
+              "item": {
+                "id": "the_vault:mystery_egg",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "the_vault:living_chest_scroll",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 8,
               "item": {
                 "id": "the_vault:inscription_piece",
                 "count": {
@@ -90,7 +124,7 @@
               }
             },
             {
-              "weight": 8,
+              "weight": 12,
               "item": {
                 "id": "the_vault:vault_god_charm",
                 "nbt": {
@@ -102,71 +136,9 @@
                   "max": 1
                   }
               }
-           }
-        ]
-        },
-        { "weight": 2,
-          "pool": [
-            {
-              "weight": 128,
-              "item": {
-                "id": "the_vault:knowledge_star_essence",
-                "count": {
-                  "type": "uniform",
-                  "min": 11,
-                  "max": 16
-                  }
-              }
             },
             {
-              "weight": 48,
-              "item": {
-                "id": "the_vault:mystery_egg",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 9,
-              "item": {
-                "id": "the_vault:living_chest_scroll",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 20,
-              "item": {
-                "id": "the_vault:inscription_piece",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 15,
-              "item": {
-                "id": "the_vault:vault_god_charm",
-                "nbt": {
-                    "the_vault:gear_roll_type_pool": "strong_omega"
-                  },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 10,
+              "weight": 4,
               "item": {
                 "id": "the_vault:inscription",
                 "nbt": {
