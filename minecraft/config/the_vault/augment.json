@@ -1,5 +1,5 @@
 {
-  "dropChance": 0.2,
+  "dropChance": 0.35,
   "drops": {
     "the_vault:classic_vault_ice": {
       "the_vault:augment{theme:\"the_vault:classic_vault_ice\"}": 5,
@@ -64,15 +64,15 @@
       "the_vault:augment{theme:\"the_vault:classic_vault_nether_soul\"}": 5
     },
     "the_vault:classic_vault_sweet": {
-      "the_vault:augment{theme:\"the_vault:classic_vault_festive\"}": 1,
-      "the_vault:augment{theme:\"the_vault:classic_vault_gingerbread\"}": 1,
-      "the_vault:augment{theme:\"the_vault:classic_vault_sweet\"}": 4
+      "the_vault:augment{theme:\"the_vault:classic_vault_festive\"}": 3,
+      "the_vault:augment{theme:\"the_vault:classic_vault_gingerbread\"}": 3,
+      "the_vault:augment{theme:\"the_vault:classic_vault_sweet\"}": 5
     },
     "the_vault:classic_vault_festive": {
-      "the_vault:augment{theme:\"the_vault:classic_vault_festive\"}": 1
+      "the_vault:augment{theme:\"the_vault:classic_vault_festive\"}": 3
     },
     "the_vault:classic_vault_gingerbread": {
-      "the_vault:augment{theme:\"the_vault:classic_vault_gingerbread\"}": 1
+      "the_vault:augment{theme:\"the_vault:classic_vault_gingerbread\"}": 3
     },
     "the_vault:raw_vault_cave": {
       "minecraft:air": 1
@@ -297,8 +297,8 @@
     },
     "the_vault:random": {
       "the_vault:augment{theme:\"the_vault:classic_vault_sweet\"}": 10,
-      "the_vault:augment{theme:\"the_vault:classic_vault_ice\"}": 9,
-      "the_vault:augment{theme:\"the_vault:classic_vault_ice_cave\"}": 9,
+      "the_vault:augment{theme:\"the_vault:classic_vault_ice\"}": 10,
+      "the_vault:augment{theme:\"the_vault:classic_vault_ice_cave\"}": 10,
       "the_vault:augment{theme:\"the_vault:classic_vault_cave\"}": 29,
       "the_vault:augment{theme:\"the_vault:classic_vault_cave_deepslate\"}": 29,
       "the_vault:augment{theme:\"the_vault:classic_vault_cave_geode\"}": 29,
@@ -321,19 +321,19 @@
       "the_vault:augment{theme:\"the_vault:classic_vault_nether_warped\"}": 10,
       "the_vault:augment{theme:\"the_vault:classic_vault_nether_blackstone\"}": 10,
       "the_vault:augment{theme:\"the_vault:classic_vault_nether_soul\"}": 10,
-      "the_vault:augment{theme:\"the_vault:classic_vault_void\"}": 7,
-      "the_vault:augment{theme:\"the_vault:classic_vault_end_void\"}": 7,
-      "the_vault:augment{theme:\"the_vault:classic_vault_factory_void\"}": 7,
-      "the_vault:augment{theme:\"the_vault:classic_vault_easter_egg\"}": 5,
-      "the_vault:augment{theme:\"the_vault:classic_vault_easter_pastel\"}": 5,
+      "the_vault:augment{theme:\"the_vault:classic_vault_void\"}": 10,
+      "the_vault:augment{theme:\"the_vault:classic_vault_end_void\"}": 10,
+      "the_vault:augment{theme:\"the_vault:classic_vault_factory_void\"}": 10,
+      "the_vault:augment{theme:\"the_vault:classic_vault_easter_egg\"}": 7,
+      "the_vault:augment{theme:\"the_vault:classic_vault_easter_pastel\"}": 7,
       "the_vault:augment{theme:\"the_vault:classic_vault_blood_moon\"}": 20,
       "the_vault:augment{theme:\"the_vault:classic_vault_flesh\"}": 0,
       "the_vault:augment{theme:\"the_vault:classic_vault_blood\"}": 20,
       "the_vault:augment{theme:\"the_vault:classic_vault_season_spring\"}": 38,
       "the_vault:augment{theme:\"the_vault:classic_vault_season_summer\"}": 19,
       "the_vault:augment{theme:\"the_vault:classic_vault_season_fall\"}": 29,
-      "the_vault:augment{theme:\"the_vault:classic_vault_season_winter\"}": 9,
-      "the_vault:augment{theme:\"the_vault:classic_vault_aurora_cave\"}": 9,
+      "the_vault:augment{theme:\"the_vault:classic_vault_season_winter\"}": 10,
+      "the_vault:augment{theme:\"the_vault:classic_vault_aurora_cave\"}": 10,
       "the_vault:augment{theme:\"the_vault:classic_vault_plastic\"}": 0
     }
   }

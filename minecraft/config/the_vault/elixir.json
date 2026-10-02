@@ -60,7 +60,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -90,7 +90,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -120,7 +120,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -150,7 +150,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -173,10 +173,18 @@
               },
               "weight": 5
             },
+			{
+              "value": {
+                "min": 3,
+                "max": 3,
+                "type": "uniform"
+              },
+              "weight": 2
+            },
             {
               "value": {
-                "min": 2,
-                "max": 2,
+                "min": 4,
+                "max": 5,
                 "type": "uniform"
               },
               "weight": 1
@@ -200,7 +208,7 @@
                 "max": 4,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -328,7 +336,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -372,7 +380,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -402,7 +410,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -432,7 +440,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -462,7 +470,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -485,10 +493,18 @@
               },
               "weight": 5
             },
-            {
+			{
               "value": {
                 "min": 2,
-                "max": 2,
+                "max": 3,
+                "type": "uniform"
+              },
+              "weight": 2
+            },
+            {
+              "value": {
+                "min": 4,
+                "max": 5,
                 "type": "uniform"
               },
               "weight": 1
@@ -512,7 +528,7 @@
                 "max": 4,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -640,7 +656,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -684,7 +700,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -714,7 +730,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -744,7 +760,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -774,7 +790,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -797,10 +813,18 @@
               },
               "weight": 5
             },
-            {
+			{
               "value": {
                 "min": 2,
-                "max": 2,
+                "max": 3,
+                "type": "uniform"
+              },
+              "weight": 2
+            },
+            {
+              "value": {
+                "min": 4,
+                "max": 5,
                 "type": "uniform"
               },
               "weight": 1
@@ -824,7 +848,7 @@
                 "max": 4,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -952,7 +976,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -990,6 +1014,14 @@
               },
               "weight": 5
             },
+			{
+              "value": {
+                "min": 4,
+                "max": 4,
+                "type": "uniform"
+              },
+              "weight": 2
+            },
             {
               "value": {
                 "min": 5,
@@ -1018,7 +1050,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -1048,7 +1080,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -1078,7 +1110,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -1101,10 +1133,18 @@
               },
               "weight": 5
             },
-            {
+			{
               "value": {
                 "min": 2,
                 "max": 2,
+                "type": "uniform"
+              },
+              "weight": 2
+            },
+            {
+              "value": {
+                "min": 3,
+                "max": 4,
                 "type": "uniform"
               },
               "weight": 1
@@ -1128,7 +1168,7 @@
                 "max": 4,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -1256,7 +1296,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -1294,6 +1334,14 @@
               },
               "weight": 5
             },
+			{
+              "value": {
+                "min": 4,
+                "max": 4,
+                "type": "uniform"
+              },
+              "weight": 2
+            },
             {
               "value": {
                 "min": 5,
@@ -1322,7 +1370,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -1352,7 +1400,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -1382,7 +1430,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -1405,10 +1453,18 @@
               },
               "weight": 5
             },
-            {
+			{
               "value": {
                 "min": 2,
                 "max": 2,
+                "type": "uniform"
+              },
+              "weight": 2
+            },
+            {
+              "value": {
+                "min": 3,
+                "max": 4,
                 "type": "uniform"
               },
               "weight": 1
@@ -1432,7 +1488,7 @@
                 "max": 4,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
@@ -1560,7 +1616,7 @@
                 "max": 5,
                 "type": "uniform"
               },
-              "weight": 1
+              "weight": 2
             },
             {
               "value": {
