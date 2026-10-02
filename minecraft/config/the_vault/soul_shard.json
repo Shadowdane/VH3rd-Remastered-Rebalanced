@@ -217,13 +217,13 @@
                     "minPrice": 600,
                     "maxPrice": 1800
                 },
-                "weight": 24
+                "weight": 32
             },
             {
                 "value": {
                     "item": {
                         "ITEM": "the_vault:black_chromatic_steel_nugget",
-                        "AMOUNT": 4,
+                        "AMOUNT": 6,
                         "NBT": "{}"
                     },
                     "minPrice": 1200,
@@ -283,7 +283,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:chromatic_steel_ingot",
-                        "AMOUNT": 6,
+                        "AMOUNT": 8,
                         "NBT": "{}"
                     },
                     "minPrice": 1200,
@@ -317,6 +317,18 @@
                     },
                     "minPrice": 300,
                     "maxPrice": 600
+                },
+                "weight": 40
+            },
+			{
+                "value": {
+                    "item": {
+                        "ITEM": "minecraft:elytra",
+                        "AMOUNT": 1,
+                        "NBT": "{}"
+                    },
+                    "minPrice": 700,
+                    "maxPrice": 2000
                 },
                 "weight": 40
             },
@@ -755,7 +767,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:black_chromatic_steel_ingot",
-                        "AMOUNT": 1,
+                        "AMOUNT": 2,
                         "NBT": "{}"
                     },
                     "minPrice": 1800,
@@ -803,7 +815,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:chromatic_steel_ingot",
-                        "AMOUNT": 6,
+                        "AMOUNT": 8,
                         "NBT": "{}"
                     },
                     "minPrice": 1200,
@@ -1108,10 +1120,10 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:jewel_pouch",
-                        "AMOUNT": 1
+                        "AMOUNT": 2
                     },
-                    "minPrice": 1200,
-                    "maxPrice": 3200
+                    "minPrice": 1400,
+                    "maxPrice": 3400
                 },
                 "weight": 48
             },
@@ -1383,7 +1395,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:black_chromatic_steel_ingot",
-                        "AMOUNT": 1,
+                        "AMOUNT": 2,
                         "NBT": "{}"
                     },
                     "minPrice": 1800,
@@ -1419,7 +1431,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:chromatic_steel_ingot",
-                        "AMOUNT": 7,
+                        "AMOUNT": 9,
                         "NBT": "{}"
                     },
                     "minPrice": 1200,
@@ -1844,10 +1856,10 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:jewel_pouch",
-                        "AMOUNT": 1
+                        "AMOUNT": 3
                     },
-                    "minPrice": 1200,
-                    "maxPrice": 3200
+                    "minPrice": 1400,
+                    "maxPrice": 3400
                 },
                 "weight": 40
             },
@@ -2107,7 +2119,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:black_chromatic_steel_ingot",
-                        "AMOUNT": 1,
+                        "AMOUNT": 2,
                         "NBT": "{}"
                     },
                     "minPrice": 1800,
