@@ -137,8 +137,8 @@
   ],
   "Shield": {
     "Enabled": true,
-    "RequiredRunes": 20,
-    "CooldownTicks": 400,
+    "RequiredRunes": 30,
+    "CooldownTicks": 600,
     "DurationTicks": 100,
     "BossBarColor": "WHITE",
     "ParticleRadius": 2.5,
@@ -146,8 +146,8 @@
   },
   "WaveBlast": {
     "Enabled": true,
-    "RequiredRunes": 40,
-    "CooldownTicks": 800,
+    "RequiredRunes": 45,
+    "CooldownTicks": 1200,
     "Radius": 30.0,
     "DamageMultiplier": 1.0,
     "CooldownReductionPerHaste": 0,
@@ -158,7 +158,7 @@
     "RequiredRunes": 60,
     "AdditionalRunesPerStack": 20,
     "MaxStacks": 0,
-    "HealthPercent": 1.0,
-    "InvulnerabilityTicks": 60
+    "HealthPercent": 0.6,
+    "InvulnerabilityTicks": 40
   }
 }

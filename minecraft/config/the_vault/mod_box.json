@@ -19,7 +19,7 @@
         {"value": {"id": "sophisticatedstorage:copper_to_iron_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 70},
         {"value": {"id": "sophisticatedstorage:iron_to_gold_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 65},
         {"value": {"id": "sophisticatedstorage:gold_to_diamond_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 60},
-        {"value": {"id": "sophisticatedstorage:diamond_to_netherite_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 5},
+        {"value": {"id": "sophisticatedstorage:diamond_to_netherite_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 10},
         {"value": {"id": "sophisticatedstorage:upgrade_base", "amountMin": 4, "amountMax": 4}, "weight": 100},
         {"value": {"id": "sophisticatedstorage:void_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 80},
         {"value": {"id": "sophisticatedstorage:compression_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 80}
@@ -28,7 +28,7 @@
     },
     "Sophisticated Interface": {
       "entries": [
-        { "value": { "id": "sophisticatedstorage:controller", "amountMin": 1, "amountMax": 1 }, "weight": 10 },
+        { "value": { "id": "sophisticatedstorage:controller", "amountMin": 1, "amountMax": 1 }, "weight": 25 },
         { "value": { "id": "sophisticatedstorage:storage_link", "amountMin": 1, "amountMax": 1 }, "weight": 90 }
       ],
       "weight": 1
@@ -38,12 +38,12 @@
         {"value": {"id": "refinedstorage:1k_storage_disk", "amountMin": 1, "amountMax": 1}, "weight": 80},
         {"value": {"id": "refinedstorage:4k_storage_disk", "amountMin": 1, "amountMax": 1}, "weight": 70},
         {"value": {"id": "refinedstorage:16k_storage_disk", "amountMin": 1, "amountMax": 1}, "weight": 25},
-        {"value": {"id": "refinedstorage:64k_storage_disk", "amountMin": 1, "amountMax": 1}, "weight": 5},
+        {"value": {"id": "refinedstorage:64k_storage_disk", "amountMin": 1, "amountMax": 1}, "weight": 10},
         {"value": {"id": "refinedstorage:grid", "amountMin": 1, "amountMax": 1}, "weight": 40},
         {"value": {"id": "refinedstorage:disk_drive", "amountMin": 1, "amountMax": 1}, "weight": 50},
         {"value": {"id": "refinedstorage:speed_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 100},
         {"value": {"id": "refinedstorage:stack_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 75},
-        {"value": {"id": "refinedstorage:crafting_grid", "amountMin": 1, "amountMax": 1}, "weight": 10},
+        {"value": {"id": "refinedstorage:crafting_grid", "amountMin": 1, "amountMax": 1}, "weight": 15},
         {"value": {"id": "refinedstorage:external_storage", "amountMin": 1, "amountMax": 1}, "weight": 65}
       ],
       "weight": 1
@@ -54,9 +54,9 @@
         {"value": {"id": "ae2:item_storage_cell_1k", "amountMin": 1, "amountMax": 1}, "weight": 80},
         {"value": {"id": "ae2:item_storage_cell_4k", "amountMin": 1, "amountMax": 1}, "weight": 75},
         {"value": {"id": "ae2:item_storage_cell_16k", "amountMin": 1, "amountMax": 1}, "weight": 70},
-        {"value": {"id": "ae2:item_storage_cell_64k", "amountMin": 1, "amountMax": 1}, "weight": 5},
+        {"value": {"id": "ae2:item_storage_cell_64k", "amountMin": 1, "amountMax": 1}, "weight": 10},
         {"value": {"id": "ae2:terminal", "amountMin": 1, "amountMax": 1}, "weight": 40},
-        {"value": {"id": "ae2:crafting_terminal", "amountMin": 1, "amountMax": 1}, "weight": 10},
+        {"value": {"id": "ae2:crafting_terminal", "amountMin": 1, "amountMax": 1}, "weight": 15},
         {"value": {"id": "ae2:drive", "amountMin": 1, "amountMax": 1}, "weight": 50},
         {"value": {"id": "ae2:speed_card", "amountMin": 2, "amountMax": 2}, "weight": 75},
         {"value": {"id": "ae2:storage_bus", "amountMin": 1, "amountMax": 1}, "weight": 65}
@@ -68,18 +68,20 @@
         {"value": {"id": "powah:furnator_starter", "amountMin": 1, "amountMax": 1}, "weight": 120},
         {"value": {"id": "powah:furnator_hardened", "amountMin": 1, "amountMax": 1}, "weight": 70},
         {"value": {"id": "powah:furnator_blazing", "amountMin": 1, "amountMax": 1}, "weight": 40},
-        {"value": {"id": "powah:furnator_spirited", "amountMin": 1, "amountMax": 1}, "weight": 5},
-        {"value": {"id": "powah:solar_panel_starter", "amountMin": 1, "amountMax": 1}, "weight": 80},
+        {"value": {"id": "powah:furnator_spirited", "amountMin": 1, "amountMax": 1}, "weight": 10},
+        {"value": {"id": "powah:solar_panel_starter", "amountMin": 1, "amountMax": 1}, "weight": 100},
         {"value": {"id": "powah:solar_panel_hardened", "amountMin": 1, "amountMax": 1}, "weight": 70},
         {"value": {"id": "powah:solar_panel_blazing", "amountMin": 1, "amountMax": 1}, "weight": 40},
-        {"value": {"id": "powah:thermo_generator_basic", "amountMin": 1, "amountMax": 1}, "weight": 80},
+		{"value": {"id": "powah:solar_panel_spirited", "amountMin": 1, "amountMax": 1}, "weight": 10},
+        {"value": {"id": "powah:thermo_generator_basic", "amountMin": 1, "amountMax": 1}, "weight": 100},
         {"value": {"id": "powah:thermo_generator_hardened", "amountMin": 1, "amountMax": 1}, "weight": 70},
         {"value": {"id": "powah:thermo_generator_blazing", "amountMin": 1, "amountMax": 1}, "weight": 40},
-        {"value": {"id": "powah:thermo_generator_niotic", "amountMin": 1, "amountMax": 1}, "weight": 5},
+        {"value": {"id": "powah:thermo_generator_niotic", "amountMin": 1, "amountMax": 1}, "weight": 10},
         {"value": {"id": "powah:energizing_rod_blazing", "amountMin": 1, "amountMax": 1}, "weight": 40},
         {"value": {"id": "powah:energizing_rod_niotic", "amountMin": 1, "amountMax": 1}, "weight": 10},
+		{"value": {"id": "powah:energy_cell_hardened", "amountMin": 1, "amountMax": 1}, "weight": 80},
         {"value": {"id": "powah:energy_cell_blazing", "amountMin": 1, "amountMax": 1}, "weight": 40},
-        {"value": {"id": "powah:energy_cell_spirited", "amountMin": 1, "amountMax": 1}, "weight": 5},
+        {"value": {"id": "powah:energy_cell_spirited", "amountMin": 1, "amountMax": 1}, "weight": 10},
         {"value": {"id": "powah:ender_cell_hardened", "amountMin": 1, "amountMax": 1}, "weight": 40}
       ],
       "weight": 1
@@ -116,10 +118,10 @@
       "entries": [
         {"value": {"id": "mekanismgenerators:solar_generator", "amountMin": 1, "amountMax": 1}, "weight": 80},
         {"value": {"id": "mekanismgenerators:bio_generator", "amountMin": 1, "amountMax": 1}, "weight": 80},
-        {"value": {"id": "mekanismgenerators:advanced_solar_generator", "amountMin": 1, "amountMax": 1}, "weight": 20},
+        {"value": {"id": "mekanismgenerators:advanced_solar_generator", "amountMin": 1, "amountMax": 1}, "weight": 25},
         {"value": {"id": "mekanismgenerators:heat_generator", "amountMin": 1, "amountMax": 1}, "weight": 100},
-        {"value": {"id": "mekanismgenerators:gas_burning_generator", "amountMin": 1, "amountMax": 1}, "weight": 10},
-        {"value": {"id": "mekanismgenerators:wind_generator", "amountMin": 1, "amountMax": 1}, "weight": 5}
+        {"value": {"id": "mekanismgenerators:gas_burning_generator", "amountMin": 1, "amountMax": 1}, "weight": 15},
+        {"value": {"id": "mekanismgenerators:wind_generator", "amountMin": 1, "amountMax": 1}, "weight": 10}
       ],
       "weight": 1
     },
@@ -132,7 +134,7 @@
         {"value": {"id": "create:large_water_wheel", "amountMin": 1, "amountMax": 1}, "weight": 40},
         {"value": {"id": "create:blaze_burner", "amountMin": 1, "amountMax": 1}, "weight": 40},
         {"value": {"id": "create:mechanical_arm", "amountMin": 1, "amountMax": 1}, "weight": 20},
-        {"value": {"id": "create:cart_assembler", "amountMin": 1, "amountMax": 1}, "weight": 5}
+        {"value": {"id": "create:cart_assembler", "amountMin": 1, "amountMax": 1}, "weight": 10}
       ],
       "weight": 1
     },
@@ -142,10 +144,10 @@
         {"value": {"id": "mekanism:upgrade_energy", "amountMin": 4, "amountMax": 4}, "weight": 120},
         {"value": {"id": "mekanism:basic_tier_installer", "amountMin": 1, "amountMax": 1}, "weight": 75},
         {"value": {"id": "mekanism:advanced_tier_installer", "amountMin": 1, "amountMax": 1}, "weight": 40},
-        {"value": {"id": "mekanism:elite_tier_installer", "amountMin": 1, "amountMax": 1}, "weight": 10},
+        {"value": {"id": "mekanism:elite_tier_installer", "amountMin": 1, "amountMax": 1}, "weight": 15},
         {"value": {"id": "mekanism:basic_energy_cube", "amountMin": 1, "amountMax": 1}, "weight": 80},
         {"value": {"id": "mekanism:advanced_energy_cube", "amountMin": 1, "amountMax": 1}, "weight": 20},
-        {"value": {"id": "mekanism:elite_energy_cube", "amountMin": 1, "amountMax": 1}, "weight": 5}
+        {"value": {"id": "mekanism:elite_energy_cube", "amountMin": 1, "amountMax": 1}, "weight": 10}
       ],
       "weight": 1
     },
@@ -162,17 +164,17 @@
         {"value": {"id": "botania:marimorphosis", "amountMin": 1, "amountMax": 1}, "weight": 40},
         {"value": {"id": "botania:bellethorn", "amountMin": 1, "amountMax": 1}, "weight": 30},
         {"value": {"id": "botania:exoflame", "amountMin": 1, "amountMax": 1}, "weight": 20},
-        {"value": {"id": "botania:orechid", "amountMin": 1, "amountMax": 1}, "weight": 5},
-        {"value": {"id": "botania:loonium", "amountMin": 1, "amountMax": 1}, "weight": 5}
+        {"value": {"id": "botania:orechid", "amountMin": 1, "amountMax": 1}, "weight": 10},
+        {"value": {"id": "botania:loonium", "amountMin": 1, "amountMax": 1}, "weight": 10}
       ],
       "weight": 1
     },
     "Easy Villagers": {
       "entries": [
         {"value": {"id": "easy_villagers:trader", "amountMin": 1, "amountMax": 1}, "weight": 100},
-        {"value": {"id": "easy_villagers:farmer", "amountMin": 1, "amountMax": 1}, "weight": 20},
-        {"value": {"id": "easy_villagers:auto_trader", "amountMin": 1, "amountMax": 1}, "weight": 2},
-        {"value": {"id": "easy_villagers:iron_farm", "amountMin": 1, "amountMax": 1}, "weight": 5}
+        {"value": {"id": "easy_villagers:farmer", "amountMin": 1, "amountMax": 1}, "weight": 30},
+        {"value": {"id": "easy_villagers:auto_trader", "amountMin": 1, "amountMax": 1}, "weight": 10},
+        {"value": {"id": "easy_villagers:iron_farm", "amountMin": 1, "amountMax": 1}, "weight": 20}
       ],
       "weight": 1
     },
@@ -184,7 +186,7 @@
         {"value": {"id": "ironfurnaces:emerald_furnace", "amountMin": 1, "amountMax": 1}, "weight": 60},
         {"value": {"id": "ironfurnaces:obsidian_furnace", "amountMin": 1, "amountMax": 1}, "weight": 60},
         {"value": {"id": "ironfurnaces:netherite_furnace", "amountMin": 1, "amountMax": 1}, "weight": 30},
-        {"value": {"id": "ironfurnaces:million_furnace", "amountMin": 1, "amountMax": 1}, "weight": 5}
+        {"value": {"id": "ironfurnaces:million_furnace", "amountMin": 1, "amountMax": 1}, "weight": 10}
       ],
       "weight": 1
     },
