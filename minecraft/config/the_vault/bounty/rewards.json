@@ -16,15 +16,15 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 4
+              "weight": 6
             },
             {
               "value": {
                 "stack": {
                   "item": "the_vault:chromatic_iron_ingot"
                 },
-                "minCount": 14,
-                "maxCount": 32
+                "minCount": 18,
+                "maxCount": 40
               },
               "weight": 60
             },
@@ -33,8 +33,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 4,
-                "maxCount": 11
+                "minCount": 6,
+                "maxCount": 17
               },
               "weight": 50
             },
@@ -298,15 +298,15 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 4
+              "weight": 6
             },
             {
               "value": {
                 "stack": {
                   "item": "the_vault:chromatic_iron_ingot"
                 },
-                "minCount": 18,
-                "maxCount": 40
+                "minCount": 22,
+                "maxCount": 48
               },
               "weight": 60
             },
@@ -315,8 +315,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 6,
-                "maxCount": 15
+                "minCount": 8,
+                "maxCount": 21
               },
               "weight": 70
             },
@@ -567,7 +567,7 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 10
+              "weight": 20
             }
           ],
           "minTotalStacks": 4,
@@ -590,15 +590,15 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 6
+              "weight": 9
             },
             {
               "value": {
                 "stack": {
                   "item": "the_vault:chromatic_iron_ingot"
                 },
-                "minCount": 32,
-                "maxCount": 64
+                "minCount": 36,
+                "maxCount": 72
               },
               "weight": 60
             },
@@ -607,8 +607,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 7,
-                "maxCount": 16
+                "minCount": 9,
+                "maxCount": 22
               },
               "weight": 80
             },
@@ -854,10 +854,20 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:mystery_egg"
+                  "item": "minecraft:elytra"
                 },
                 "minCount": 1,
                 "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:mystery_egg"
+                },
+                "minCount": 1,
+                "maxCount": 2
               },
               "weight": 6
             },
@@ -887,7 +897,7 @@
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 3
               },
               "weight": 8
             },
@@ -930,17 +940,17 @@
                   "item": "the_vault:jewel_pouch"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 2
               },
-              "weight": 8
+              "weight": 12
             },
             {
               "value": {
                 "stack": {
                   "item": "the_vault:chromatic_iron_ingot"
                 },
-                "minCount": 64,
-                "maxCount": 128
+                "minCount": 68,
+                "maxCount": 136
               },
               "weight": 50
             },
@@ -949,8 +959,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 8,
-                "maxCount": 16
+                "minCount": 10,
+                "maxCount": 22
               },
               "weight": 80
             },
@@ -1136,10 +1146,20 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:mystery_egg"
+                  "item": "minecraft:elytra"
                 },
                 "minCount": 1,
                 "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:mystery_egg"
+                },
+                "minCount": 1,
+                "maxCount": 2
               },
               "weight": 8
             },
@@ -1169,7 +1189,7 @@
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 3
               },
               "weight": 12
             },
@@ -1223,9 +1243,9 @@
                   "item": "the_vault:jewel_pouch"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 2
               },
-              "weight": 6
+              "weight": 9
             },
             {
               "value": {
@@ -1242,8 +1262,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_iron_ingot"
                 },
-                "minCount": 64,
-                "maxCount": 128
+                "minCount": 68,
+                "maxCount": 136
               },
               "weight": 20
             },
@@ -1252,8 +1272,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 8,
-                "maxCount": 16
+                "minCount": 10,
+                "maxCount": 22
               },
               "weight": 50
             },
@@ -1442,7 +1462,7 @@
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 2
               },
               "weight": 10
             },
@@ -1462,7 +1482,7 @@
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
                 "minCount": 1,
-                "maxCount": 3
+                "maxCount": 4
               },
               "weight": 12
             },
@@ -1526,9 +1546,9 @@
                   "item": "the_vault:jewel_pouch"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 2
               },
-              "weight": 6
+              "weight": 9
             },
             {
               "value": {
@@ -1545,8 +1565,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 8,
-                "maxCount": 16
+                "minCount": 10,
+                "maxCount": 22
               },
               "weight": 50
             },
@@ -1705,7 +1725,7 @@
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 3
               },
               "weight": 10
             },
@@ -1725,7 +1745,7 @@
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
                 "minCount": 1,
-                "maxCount": 3
+                "maxCount": 4
               },
               "weight": 12
             },
@@ -1819,9 +1839,9 @@
                   "item": "the_vault:jewel_pouch"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 2
               },
-              "weight": 6
+              "weight": 9
             },
             {
               "value": {
@@ -1838,8 +1858,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 8,
-                "maxCount": 16
+                "minCount": 10,
+                "maxCount": 22
               },
               "weight": 50
             },
@@ -1998,7 +2018,7 @@
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 3
               },
               "weight": 10
             },
@@ -2018,7 +2038,7 @@
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
                 "minCount": 1,
-                "maxCount": 3
+                "maxCount": 4
               },
               "weight": 12
             },
@@ -2114,17 +2134,17 @@
                   "item": "the_vault:jewel_pouch"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 2
               },
-              "weight": 4
+              "weight": 6
             },
             {
               "value": {
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 4,
-                "maxCount": 11
+                "minCount": 6,
+                "maxCount": 17
               },
               "weight": 70
             },
@@ -2386,17 +2406,17 @@
                   "item": "the_vault:jewel_pouch"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 2
               },
-              "weight": 4
+              "weight": 6
             },
             {
               "value": {
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 8,
-                "maxCount": 17
+                "minCount": 10,
+                "maxCount": 23
               },
               "weight": 70
             },
@@ -2622,6 +2642,16 @@
             {
               "value": {
                 "stack": {
+                  "item": "minecraft:elytra"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 20
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:repair_core"
                 },
                 "minCount": 1,
@@ -2647,18 +2677,18 @@
                 "stack": {
                   "item": "the_vault:jewel_pouch"
                 },
-                "minCount": 1,
-                "maxCount": 1
+                "minCount": 2,
+                "maxCount": 2
               },
-              "weight": 8
+              "weight": 12
             },
             {
               "value": {
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 8,
-                "maxCount": 18
+                "minCount": 10,
+                "maxCount": 24
               },
               "weight": 70
             },
@@ -2894,10 +2924,20 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:mystery_egg"
+                  "item": "minecraft:elytra"
                 },
                 "minCount": 1,
                 "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:mystery_egg"
+                },
+                "minCount": 1,
+                "maxCount": 2
               },
               "weight": 6
             },
@@ -2917,7 +2957,7 @@
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 3
               },
               "weight": 8
             },
@@ -2959,18 +2999,18 @@
                 "stack": {
                   "item": "the_vault:jewel_pouch"
                 },
-                "minCount": 1,
-                "maxCount": 1
+                "minCount": 2,
+                "maxCount": 2
               },
-              "weight": 8
+              "weight": 12
             },
             {
               "value": {
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 10,
-                "maxCount": 20
+                "minCount": 12,
+                "maxCount": 26
               },
               "weight": 80
             },
@@ -3156,10 +3196,20 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:mystery_egg"
+                  "item": "minecraft:elytra"
                 },
                 "minCount": 1,
                 "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:mystery_egg"
+                },
+                "minCount": 1,
+                "maxCount": 2
               },
               "weight": 8
             },
@@ -3179,7 +3229,7 @@
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 3
               },
               "weight": 12
             },
@@ -3232,10 +3282,10 @@
                 "stack": {
                   "item": "the_vault:jewel_pouch"
                 },
-                "minCount": 1,
-                "maxCount": 1
+                "minCount": 2,
+                "maxCount": 3
               },
-              "weight": 6
+              "weight": 9
             },
             {
               "value": {
@@ -3282,8 +3332,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 16,
-                "maxCount": 22
+                "minCount": 18,
+                "maxCount": 28
               },
               "weight": 50
             },
@@ -3472,7 +3522,7 @@
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 2,
-                "maxCount": 2
+                "maxCount": 3
               },
               "weight": 10
             },
@@ -3492,7 +3542,7 @@
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
                 "minCount": 2,
-                "maxCount": 4
+                "maxCount": 5
               },
               "weight": 10
             },
@@ -3565,10 +3615,10 @@
                 "stack": {
                   "item": "the_vault:jewel_pouch"
                 },
-                "minCount": 1,
-                "maxCount": 1
+                "minCount": 2,
+                "maxCount": 3
               },
-              "weight": 6
+              "weight": 9
             },
             {
               "value": {
@@ -3615,8 +3665,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 16,
-                "maxCount": 22
+                "minCount": 18,
+                "maxCount": 28
               },
               "weight": 50
             },
@@ -3785,7 +3835,7 @@
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 2,
-                "maxCount": 2
+                "maxCount": 3
               },
               "weight": 10
             },
@@ -3805,7 +3855,7 @@
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
                 "minCount": 2,
-                "maxCount": 4
+                "maxCount": 5
               },
               "weight": 10
             },
@@ -3918,10 +3968,10 @@
                 "stack": {
                   "item": "the_vault:jewel_pouch"
                 },
-                "minCount": 1,
-                "maxCount": 1
+                "minCount": 2,
+                "maxCount": 3
               },
-              "weight": 6
+              "weight": 9
             },
             {
               "value": {
@@ -3938,8 +3988,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 8,
-                "maxCount": 16
+                "minCount": 10,
+                "maxCount": 22
               },
               "weight": 50
             },
@@ -4098,7 +4148,7 @@
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 3
               },
               "weight": 10
             },
@@ -4118,7 +4168,7 @@
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
                 "minCount": 1,
-                "maxCount": 3
+                "maxCount": 4
               },
               "weight": 12
             },
@@ -4223,10 +4273,10 @@
                 "stack": {
                   "item": "the_vault:jewel_pouch"
                 },
-                "minCount": 1,
-                "maxCount": 1
+                "minCount": 2,
+                "maxCount": 2
               },
-              "weight": 12
+              "weight": 18
             },
             {
               "value": {
@@ -4393,10 +4443,10 @@
                 "stack": {
                   "item": "the_vault:jewel_pouch"
                 },
-                "minCount": 1,
-                "maxCount": 1
+                "minCount": 2,
+                "maxCount": 2
               },
-              "weight": 12
+              "weight": 18
             },
             {
               "value": {
@@ -4574,10 +4624,10 @@
                 "stack": {
                   "item": "the_vault:jewel_pouch"
                 },
-                "minCount": 1,
-                "maxCount": 1
+                "minCount": 3,
+                "maxCount": 3
               },
-              "weight": 12
+              "weight": 18
             },
             {
               "value": {
@@ -4755,10 +4805,10 @@
                 "stack": {
                   "item": "the_vault:jewel_pouch"
                 },
-                "minCount": 1,
-                "maxCount": 1
+                "minCount": 3,
+                "maxCount": 3
               },
-              "weight": 12
+              "weight": 18
             },
             {
               "value": {
@@ -4936,10 +4986,10 @@
                 "stack": {
                   "item": "the_vault:jewel_pouch"
                 },
-                "minCount": 1,
-                "maxCount": 1
+                "minCount": 3,
+                "maxCount": 4
               },
-              "weight": 8
+              "weight": 12
             },
             {
               "value": {
@@ -5122,15 +5172,15 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 4
+              "weight": 6
             },
             {
               "value": {
                 "stack": {
                   "item": "the_vault:chromatic_iron_ingot"
                 },
-                "minCount": 8,
-                "maxCount": 30
+                "minCount": 12,
+                "maxCount": 38
               },
               "weight": 60
             },
@@ -5139,8 +5189,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 4,
-                "maxCount": 9
+                "minCount": 6,
+                "maxCount": 15
               },
               "weight": 70
             },
@@ -5391,17 +5441,17 @@
                   "item": "the_vault:jewel_pouch"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 2
               },
-              "weight": 6
+              "weight": 9
             },
             {
               "value": {
                 "stack": {
                   "item": "the_vault:chromatic_iron_ingot"
                 },
-                "minCount": 64,
-                "maxCount": 80
+                "minCount": 68,
+                "maxCount": 88
               },
               "weight": 40
             },
@@ -5410,8 +5460,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 5,
-                "maxCount": 13
+                "minCount": 7,
+                "maxCount": 19
               },
               "weight": 80
             },
@@ -5632,6 +5682,16 @@
                 "maxCount": 4
               },
               "weight": 40
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "minecraft:elytra"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
             }
           ],
           "minTotalStacks": 4,
@@ -5652,17 +5712,17 @@
                   "item": "the_vault:jewel_pouch"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 3
               },
-              "weight": 6
+              "weight": 9
             },
             {
               "value": {
                 "stack": {
                   "item": "the_vault:chromatic_iron_ingot"
                 },
-                "minCount": 64,
-                "maxCount": 100
+                "minCount": 68,
+                "maxCount": 108
               },
               "weight": 40
             },
@@ -5671,8 +5731,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 8,
-                "maxCount": 16
+                "minCount": 10,
+                "maxCount": 22
               },
               "weight": 50
             },
@@ -5860,7 +5920,7 @@
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 2
               },
               "weight": 10
             },
@@ -5890,7 +5950,7 @@
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 3
               },
               "weight": 6
             },
