@@ -1,0 +1,59 @@
+Bingo Changes
+
+objectives "loot_chest" or "mine_block"
+decrease target values for "min" & "max" by 15%
+
+--------
+
+For the "find_vault_room" for Omega room target
+
+- difficulty (the_vault:default)
+set the target "min" = 1
+set the target "max" = 1
+
+- difficulty (the_vault:adept)
+set the target "min" = 1
+set the target "max" = 2
+
+- difficulty (the_vault:expert)
+set the target "min" = 1
+set the target "max" = 3
+
+- difficulty (the_vault:master)
+set the target "min" = 2
+set the target "max" = 3
+
+- difficulty (the_vault:veteran)
+set the target "min" = 3
+set the target "max" = 4
+
+- difficulty (the_vault:legend)
+set the target "min" = 4
+set the target "max" = 5
+
+--------
+
+Timed Objective with "sliding_timed_target", count values are in ticks listed below.
+
+Count values (ticks)
+5 = 20
+6.25 = 20
+6.5 = 20
+7.5 = 20
+8.75 = 20
+12.5 = 40
+17.5 = 40
+120 = 200
+150 = 300
+180 = 400
+210 = 400
+300 = 600
+420 = 800
+600 = 1200
+750 = 1200
+900 = 1800
+1050 = 2000
+1500 = 2400
+2100 = 3000
+
+
