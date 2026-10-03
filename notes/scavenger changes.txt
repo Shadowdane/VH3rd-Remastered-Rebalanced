@@ -1,0 +1,3 @@
+- Reduced all multiplier values for all scavenger items by 30%
+
+Including the multiplierOverrides section for harder difficulties

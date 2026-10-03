@@ -1,0 +1,4 @@
+
+- All 12 Guardian variants: attack damage -20%, max health -10%
+- White Wraith: attack damage -15%, max health +5%
+- Yellow Wraith: attack damage -15%, max health -20%
