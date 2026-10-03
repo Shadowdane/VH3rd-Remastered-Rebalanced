@@ -35,7 +35,7 @@
       "type": "floating_item_reward",
       "item": {
         "id": "minecraft:diamond",
-        "count": 3
+        "count": 4
       },
       "color1": "0xFF00FFFF",
       "color2": "0xFF6600FF"
@@ -133,10 +133,9 @@
       "item": {
         "id": "the_vault:helmet",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
-
-                },
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -149,10 +148,9 @@
       "item": {
         "id": "the_vault:chestplate",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
-
-                },
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -165,10 +163,9 @@
       "item": {
         "id": "the_vault:leggings",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
-
-                },
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -181,10 +178,9 @@
       "item": {
         "id": "the_vault:boots",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
-
-                },
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -197,10 +193,9 @@
       "item": {
         "id": "the_vault:sword",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
-
-                },
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -213,10 +208,9 @@
       "item": {
         "id": "the_vault:axe",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
-
-                },
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -229,10 +223,9 @@
       "item": {
         "id": "the_vault:shield",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
-
-                },
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -245,10 +238,9 @@
       "item": {
         "id": "the_vault:wand",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
-
-                },
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -261,10 +253,9 @@
       "item": {
         "id": "the_vault:focus",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
-
-                },
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -384,7 +375,7 @@
       "name": "Jewel Pouch",
       "item": {
         "id": "the_vault:jewel_pouch",
-        "count": 3
+        "count": 4
       },
       "color1": "0xFFabc839",
       "color2": "0xFFab763f"
@@ -785,93 +776,100 @@
       "name": "Echo Gems",
       "item": {
         "id": "the_vault:gem_echo",
-        "count": 3
+        "count": 4
       },
       "color1": "0xFF6b00cf",
       "color2": "0xFF10021e"
     },
     "gilded_chest": {
       "type": "tile_reward",
-	    "name": "Gilded Chests",
+      "name": "Gilded Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=gilded_chest,facing=up]{Hidden:1b,template_tags:[\"no_trap\"]}",
-      "count": 7
+      "count": 9
     },
     "gilded_chest_big": {
       "type": "tile_reward",
-	    "name": "Gilded Chests",
+      "name": "Gilded Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=gilded_chest,facing=up]{Hidden:1b,template_tags:[\"no_trap\"]}",
-      "count": 10
+      "count": 12
     },
     "ornate_chest": {
       "type": "tile_reward",
-	    "name": "Ornate Chests",
+      "name": "Ornate Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=ornate_chest,facing=up]{Hidden:1b,template_tags:[\"no_trap\"]}",
-      "count": 7
+      "count": 9
     },
     "ornate_chest_big": {
       "type": "tile_reward",
-	    "name": "Ornate Chests",
+      "name": "Ornate Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=ornate_chest,facing=up]{Hidden:1b,template_tags:[\"no_trap\"]}",
-      "count": 10
+      "count": 12
     },
     "coin_pile": {
       "type": "tile_reward",
-	    "name": "Coin Piles",
+      "name": "Coin Piles",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=coin_stacks,facing=up]{Hidden:1b}",
-      "count": 8
+      "count": 10
     },
     "coin_pile_big": {
       "type": "tile_reward",
-	    "name": "Coin Piles",
+      "name": "Coin Piles",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=coin_stacks,facing=up]{Hidden:1b}",
-      "count": 12
+      "count": 14
     },
     "living_chest": {
       "type": "tile_reward",
-	    "name": "Living Chests",
+      "name": "Living Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=living_chest,facing=up]{Hidden:1b,template_tags:[\"no_trap\"]}",
-      "count": 7
+      "count": 9
     },
     "living_chest_big": {
       "type": "tile_reward",
-	    "name": "Living Chests",
+      "name": "Living Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=living_chest,facing=up]{Hidden:1b,template_tags:[\"no_trap\"]}",
-      "count": 10
+      "count": 12
     },
     "wooden_chest": {
       "type": "tile_reward",
-	    "name": "Wooden Chests",
+      "name": "Wooden Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=wooden_chest,facing=up]{Hidden:1b,template_tags:[\"no_trap\"]}",
-      "count": 12
+      "count": 14
     },
     "wooden_chest_big": {
       "type": "tile_reward",
-	    "name": "Wooden Chests",
+      "name": "Wooden Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=wooden_chest,facing=up]{Hidden:1b,template_tags:[\"no_trap\"]}",
-      "count": 16
+      "count": 18
     },
     "add_pillager": {
       "type": "mob_spawn",
       "entity": {
         "id": "minecraft:pillager",
-        "Tags": ["no_champion", "ethereal_immune", "dont_fall"],
+        "Tags": [
+          "no_champion",
+          "ethereal_immune",
+          "dont_fall"
+        ],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
           "#the_vault:modifier_type/entity_effect"
         ],
         "Modifiers": {
-          "minecraft:generic.knockback_resistance": { "Value": 1.0, "Operation": 0 }
+          "minecraft:generic.knockback_resistance": {
+            "Value": 1.0,
+            "Operation": 0
+          }
         }
       },
       "count": 1,
@@ -881,7 +879,10 @@
       "type": "mob_spawn",
       "entity": {
         "id": "minecraft:vindicator",
-        "Tags": ["no_champion", "ethereal_immune"],
+        "Tags": [
+          "no_champion",
+          "ethereal_immune"
+        ],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
@@ -895,7 +896,9 @@
       "type": "mob_spawn",
       "entity": {
         "id": "the_vault:blood_orb",
-        "Tags": ["no_champion"]
+        "Tags": [
+          "no_champion"
+        ]
       },
       "count": 1,
       "spawner": "ground"
@@ -905,7 +908,10 @@
       "name": "Healer",
       "entity": {
         "id": "the_vault:healer",
-        "Tags": ["no_champion", "ethereal_immune"],
+        "Tags": [
+          "no_champion",
+          "ethereal_immune"
+        ],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
@@ -920,7 +926,11 @@
       "name": "Guardians",
       "entity": {
         "id": "the_vault:bruiser_guardian",
-        "Tags": ["no_champion", "ethereal_immune", "no_drops"]
+        "Tags": [
+          "no_champion",
+          "ethereal_immune",
+          "no_drops"
+        ]
       },
       "count": 10,
       "spawner": "elevated"
@@ -930,7 +940,11 @@
       "name": "Guardians",
       "entity": {
         "id": "the_vault:bruiser_guardian",
-        "Tags": ["no_champion", "ethereal_immune", "no_drops"]
+        "Tags": [
+          "no_champion",
+          "ethereal_immune",
+          "no_drops"
+        ]
       },
       "count": 4,
       "spawner": "elevated"
@@ -940,7 +954,11 @@
       "name": "Guardians",
       "entity": {
         "id": "the_vault:bruiser_guardian",
-        "Tags": ["no_champion", "ethereal_immune", "no_drops"]
+        "Tags": [
+          "no_champion",
+          "ethereal_immune",
+          "no_drops"
+        ]
       },
       "count": 8,
       "spawner": "elevated"
@@ -950,7 +968,11 @@
       "name": "Guardians",
       "entity": {
         "id": "the_vault:bruiser_guardian",
-        "Tags": ["no_champion", "ethereal_immune", "no_drops"]
+        "Tags": [
+          "no_champion",
+          "ethereal_immune",
+          "no_drops"
+        ]
       },
       "count": 12,
       "spawner": "elevated"
@@ -960,7 +982,11 @@
       "name": "Puzzle Guardians",
       "entity": {
         "id": "the_vault:puzzle_bruiser_guardian",
-        "Tags": ["no_champion", "ethereal_immune", "no_drops"]
+        "Tags": [
+          "no_champion",
+          "ethereal_immune",
+          "no_drops"
+        ]
       },
       "count": 5,
       "spawner": "elevated"
@@ -970,7 +996,11 @@
       "name": "Puzzle Arbalist Guardians",
       "entity": {
         "id": "the_vault:puzzle_arbalist_guardian",
-        "Tags": ["no_champion", "ethereal_immune", "no_drops"]
+        "Tags": [
+          "no_champion",
+          "ethereal_immune",
+          "no_drops"
+        ]
       },
       "count": 5,
       "spawner": "elevated"
@@ -979,7 +1009,10 @@
       "type": "mob_spawn",
       "entity": {
         "id": "minecraft:vex",
-        "Tags": ["no_champion", "ethereal_immune"],
+        "Tags": [
+          "no_champion",
+          "ethereal_immune"
+        ],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
@@ -993,7 +1026,10 @@
       "type": "mob_spawn",
       "entity": {
         "id": "minecraft:evoker",
-        "Tags": ["no_champion", "ethereal_immune"],
+        "Tags": [
+          "no_champion",
+          "ethereal_immune"
+        ],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
@@ -1008,7 +1044,9 @@
       "entity": {
         "id": "minecraft:zombie"
       },
-      "Tags": ["ethereal_immune"],
+      "Tags": [
+        "ethereal_immune"
+      ],
       "count": 1,
       "spawner": "ground"
     },
@@ -1017,7 +1055,10 @@
       "name": "Ravager",
       "entity": {
         "id": "minecraft:ravager",
-        "Tags": ["no_champion", "ethereal_immune"],
+        "Tags": [
+          "no_champion",
+          "ethereal_immune"
+        ],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
@@ -1033,7 +1074,11 @@
       "textColor": "0xFFff7575",
       "entity": {
         "id": "minecraft:vindicator",
-        "Tags": ["vault_champion","no_drops", "ethereal_immune"],
+        "Tags": [
+          "vault_champion",
+          "no_drops",
+          "ethereal_immune"
+        ],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
@@ -1049,7 +1094,11 @@
       "textColor": "0xFFff7575",
       "entity": {
         "id": "minecraft:vex",
-        "Tags": ["vault_champion","no_drops", "ethereal_immune"],
+        "Tags": [
+          "vault_champion",
+          "no_drops",
+          "ethereal_immune"
+        ],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
@@ -1065,17 +1114,24 @@
       "textColor": "0xFFff7575",
       "entity": {
         "id": "minecraft:pillager",
-        "Tags": ["vault_champion","no_drops", "ethereal_immune", "dont_fall"],
+        "Tags": [
+          "vault_champion",
+          "no_drops",
+          "ethereal_immune",
+          "dont_fall"
+        ],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
           "#the_vault:modifier_type/entity_effect"
         ],
         "Modifiers": {
-          "minecraft:generic.knockback_resistance": { "Value": 1.0, "Operation": 0 }
+          "minecraft:generic.knockback_resistance": {
+            "Value": 1.0,
+            "Operation": 0
+          }
         }
       },
-
       "count": 1,
       "spawner": "elevated"
     },
@@ -1085,7 +1141,11 @@
       "textColor": "0xFFff7575",
       "entity": {
         "id": "minecraft:ravager",
-        "Tags": ["vault_champion","no_drops", "ethereal_immune"],
+        "Tags": [
+          "vault_champion",
+          "no_drops",
+          "ethereal_immune"
+        ],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
@@ -1100,103 +1160,367 @@
       "name": "Double Rewards & Modifiers",
       "textColor": "0xFFFF78DD"
     },
-
     "negative": [
-      { "value": "mob_damage", "weight": 4 },
-      { "value": "mob_health", "weight": 4 },
-      { "value": "mob_movement_speed", "weight": 4 }
+      {
+        "value": "mob_damage",
+        "weight": 4
+      },
+      {
+        "value": "mob_health",
+        "weight": 4
+      },
+      {
+        "value": "mob_movement_speed",
+        "weight": 4
+      }
     ],
     "positive": {
       "type": "pool",
       "levels": [
-        { "level": 0, "pool": [
-          { "value": "gilded_chest", "weight": 100 },
-          { "value": "gilded_chest_big", "weight": 100 },
-          { "value": "ornate_chest", "weight": 100 },
-          { "value": "ornate_chest_big", "weight": 100 },
-          { "value": "living_chest", "weight": 100 },
-          { "value": "living_chest_big", "weight": 100 },
-          { "value": "wooden_chest", "weight": 100 },
-          { "value": "wooden_chest_big", "weight": 100 },
-          { "value": "coin_pile", "weight": 100 },
-          { "value": "coin_pile_big", "weight": 100 },
-          { "value": "rare_helmet", "weight": 40 },
-          { "value": "rare_chestplate", "weight": 40 },
-          { "value": "rare_leggings", "weight": 40 },
-          { "value": "rare_boots", "weight": 40 },
-          { "value": "rare_sword", "weight": 40 },
-          { "value": "rare_axe", "weight": 40 },
-          { "value": "rare_shield", "weight": 40 },
-          { "value": "rare_focus", "weight": 40 },
-          { "value": "rare_wand", "weight": 40 },
-          { "value": "jewel_pouch", "weight": 100 },
-          { "value": "leg_helmet", "weight": 2 },
-          { "value": "leg_chestplate", "weight": 2 },
-          { "value": "leg_leggings", "weight": 2 },
-          { "value": "leg_boots", "weight": 2 },
-          { "value": "leg_sword", "weight": 2 },
-          { "value": "leg_axe", "weight": 2 },
-          { "value": "leg_shield", "weight": 2 },
-          { "value": "leg_wand", "weight": 2 },
-          { "value": "leg_focus", "weight": 2 },
-          { "value": "castle_chestplate", "weight": 2 },
-          { "value": "warbound_helmet", "weight": 2 },
-          { "value": "inferno_reach", "weight": 2 },
-          { "value": "frozen_orb", "weight": 2 },
-          { "value": "grim_shield", "weight": 2 },
-          { "value": "starforge", "weight": 2 },
-          { "value": "swarmwalkers", "weight": 2 },
-          { "value": "stormcrown", "weight": 2 },
-          { "value": "inflated_justice", "weight": 2 },
-          { "value": "raid_rock_infinite", "weight": 40 },
-          { "value": "double_everything", "weight": 4 }
-        ]
+        {
+          "level": 0,
+          "pool": [
+            {
+              "value": "gilded_chest",
+              "weight": 100
+            },
+            {
+              "value": "gilded_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "ornate_chest",
+              "weight": 100
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "living_chest",
+              "weight": 100
+            },
+            {
+              "value": "living_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "wooden_chest",
+              "weight": 100
+            },
+            {
+              "value": "wooden_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "coin_pile",
+              "weight": 90
+            },
+            {
+              "value": "coin_pile_big",
+              "weight": 80
+            },
+            {
+              "value": "rare_helmet",
+              "weight": 42
+            },
+            {
+              "value": "rare_chestplate",
+              "weight": 42
+            },
+            {
+              "value": "rare_leggings",
+              "weight": 42
+            },
+            {
+              "value": "rare_boots",
+              "weight": 42
+            },
+            {
+              "value": "rare_sword",
+              "weight": 42
+            },
+            {
+              "value": "rare_axe",
+              "weight": 42
+            },
+            {
+              "value": "rare_shield",
+              "weight": 42
+            },
+            {
+              "value": "rare_focus",
+              "weight": 42
+            },
+            {
+              "value": "rare_wand",
+              "weight": 42
+            },
+            {
+              "value": "jewel_pouch",
+              "weight": 50
+            },
+            {
+              "value": "leg_helmet",
+              "weight": 8
+            },
+            {
+              "value": "leg_chestplate",
+              "weight": 8
+            },
+            {
+              "value": "leg_leggings",
+              "weight": 8
+            },
+            {
+              "value": "leg_boots",
+              "weight": 8
+            },
+            {
+              "value": "leg_sword",
+              "weight": 8
+            },
+            {
+              "value": "leg_axe",
+              "weight": 8
+            },
+            {
+              "value": "leg_shield",
+              "weight": 8
+            },
+            {
+              "value": "leg_wand",
+              "weight": 8
+            },
+            {
+              "value": "leg_focus",
+              "weight": 8
+            },
+            {
+              "value": "castle_chestplate",
+              "weight": 7
+            },
+            {
+              "value": "warbound_helmet",
+              "weight": 7
+            },
+            {
+              "value": "inferno_reach",
+              "weight": 7
+            },
+            {
+              "value": "frozen_orb",
+              "weight": 7
+            },
+            {
+              "value": "grim_shield",
+              "weight": 7
+            },
+            {
+              "value": "starforge",
+              "weight": 7
+            },
+            {
+              "value": "swarmwalkers",
+              "weight": 7
+            },
+            {
+              "value": "stormcrown",
+              "weight": 7
+            },
+            {
+              "value": "inflated_justice",
+              "weight": 7
+            },
+            {
+              "value": "raid_rock_infinite",
+              "weight": 30
+            },
+            {
+              "value": "double_everything",
+              "weight": 6
+            }
+          ]
         },
-        { "level": 50, "pool": [
-          { "value": "gilded_chest", "weight": 100 },
-          { "value": "gilded_chest_big", "weight": 100 },
-          { "value": "ornate_chest", "weight": 100 },
-          { "value": "ornate_chest_big", "weight": 100 },
-          { "value": "living_chest", "weight": 100 },
-          { "value": "living_chest_big", "weight": 100 },
-          { "value": "wooden_chest", "weight": 100 },
-          { "value": "wooden_chest_big", "weight": 100 },
-          { "value": "coin_pile", "weight": 100 },
-          { "value": "coin_pile_big", "weight": 100 },
-          { "value": "rare_helmet", "weight": 40 },
-          { "value": "rare_chestplate", "weight": 40 },
-          { "value": "rare_leggings", "weight": 40 },
-          { "value": "rare_boots", "weight": 40 },
-          { "value": "rare_sword", "weight": 40 },
-          { "value": "rare_axe", "weight": 40 },
-          { "value": "rare_shield", "weight": 40 },
-          { "value": "rare_focus", "weight": 40 },
-          { "value": "rare_wand", "weight": 40 },
-          { "value": "jewel_pouch", "weight": 100 },
-          { "value": "pyretic_focus", "weight": 50 },
-          { "value": "empowered_chaotic_focus", "weight": 70 },
-          { "value": "resource_booster_pack", "weight": 50 },
-          { "value": "arcane_booster_pack", "weight": 30 },
-          { "value": "leg_helmet", "weight": 2 },
-          { "value": "leg_chestplate", "weight": 2 },
-          { "value": "leg_leggings", "weight": 2 },
-          { "value": "leg_boots", "weight": 2 },
-          { "value": "leg_sword", "weight": 2 },
-          { "value": "leg_axe", "weight": 2 },
-          { "value": "leg_shield", "weight": 2 },
-          { "value": "leg_wand", "weight": 2 },
-          { "value": "leg_focus", "weight": 2 },
-          { "value": "castle_chestplate", "weight": 2 },
-          { "value": "warbound_helmet", "weight": 2 },
-          { "value": "inferno_reach", "weight": 2 },
-          { "value": "frozen_orb", "weight": 2 },
-          { "value": "grim_shield", "weight": 2 },
-          { "value": "starforge", "weight": 2 },
-          { "value": "swarmwalkers", "weight": 2 },
-          { "value": "stormcrown", "weight": 2 },
-          { "value": "inflated_justice", "weight": 2 },
-          { "value": "raid_rock_infinite", "weight": 40 },
-          { "value": "double_everything", "weight": 4 }
+        {
+          "level": 50,
+          "pool": [
+            {
+              "value": "gilded_chest",
+              "weight": 100
+            },
+            {
+              "value": "gilded_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "ornate_chest",
+              "weight": 100
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "living_chest",
+              "weight": 100
+            },
+            {
+              "value": "living_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "wooden_chest",
+              "weight": 100
+            },
+            {
+              "value": "wooden_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "coin_pile",
+              "weight": 90
+            },
+            {
+              "value": "coin_pile_big",
+              "weight": 80
+            },
+            {
+              "value": "rare_helmet",
+              "weight": 42
+            },
+            {
+              "value": "rare_chestplate",
+              "weight": 42
+            },
+            {
+              "value": "rare_leggings",
+              "weight": 42
+            },
+            {
+              "value": "rare_boots",
+              "weight": 42
+            },
+            {
+              "value": "rare_sword",
+              "weight": 42
+            },
+            {
+              "value": "rare_axe",
+              "weight": 42
+            },
+            {
+              "value": "rare_shield",
+              "weight": 42
+            },
+            {
+              "value": "rare_focus",
+              "weight": 42
+            },
+            {
+              "value": "rare_wand",
+              "weight": 42
+            },
+            {
+              "value": "jewel_pouch",
+              "weight": 60
+            },
+            {
+              "value": "pyretic_focus",
+              "weight": 60
+            },
+            {
+              "value": "empowered_chaotic_focus",
+              "weight": 60
+            },
+            {
+              "value": "resource_booster_pack",
+              "weight": 50
+            },
+            {
+              "value": "arcane_booster_pack",
+              "weight": 40
+            },
+            {
+              "value": "leg_helmet",
+              "weight": 8
+            },
+            {
+              "value": "leg_chestplate",
+              "weight": 8
+            },
+            {
+              "value": "leg_leggings",
+              "weight": 8
+            },
+            {
+              "value": "leg_boots",
+              "weight": 8
+            },
+            {
+              "value": "leg_sword",
+              "weight": 8
+            },
+            {
+              "value": "leg_axe",
+              "weight": 8
+            },
+            {
+              "value": "leg_shield",
+              "weight": 8
+            },
+            {
+              "value": "leg_wand",
+              "weight": 8
+            },
+            {
+              "value": "leg_focus",
+              "weight": 8
+            },
+            {
+              "value": "castle_chestplate",
+              "weight": 7
+            },
+            {
+              "value": "warbound_helmet",
+              "weight": 7
+            },
+            {
+              "value": "inferno_reach",
+              "weight": 7
+            },
+            {
+              "value": "frozen_orb",
+              "weight": 7
+            },
+            {
+              "value": "grim_shield",
+              "weight": 7
+            },
+            {
+              "value": "starforge",
+              "weight": 7
+            },
+            {
+              "value": "swarmwalkers",
+              "weight": 7
+            },
+            {
+              "value": "stormcrown",
+              "weight": 7
+            },
+            {
+              "value": "inflated_justice",
+              "weight": 7
+            },
+            {
+              "value": "raid_rock_infinite",
+              "weight": 30
+            },
+            {
+              "value": "double_everything",
+              "weight": 6
+            }
           ]
         }
       ]
@@ -1204,92 +1528,342 @@
     "positive_base": {
       "type": "pool",
       "levels": [
-        { "level": 0, "pool": [
-          { "value": "gilded_chest", "weight": 100 },
-          { "value": "gilded_chest_big", "weight": 100 },
-          { "value": "ornate_chest", "weight": 100 },
-          { "value": "ornate_chest_big", "weight": 100 },
-          { "value": "living_chest", "weight": 100 },
-          { "value": "living_chest_big", "weight": 100 },
-          { "value": "wooden_chest", "weight": 100 },
-          { "value": "wooden_chest_big", "weight": 100 },
-          { "value": "coin_pile", "weight": 100 },
-          { "value": "coin_pile_big", "weight": 100 },
-          { "value": "rare_helmet", "weight": 40 },
-          { "value": "rare_chestplate", "weight": 40 },
-          { "value": "rare_leggings", "weight": 40 },
-          { "value": "rare_boots", "weight": 40 },
-          { "value": "rare_sword", "weight": 40 },
-          { "value": "rare_axe", "weight": 40 },
-          { "value": "rare_shield", "weight": 40 },
-          { "value": "rare_focus", "weight": 40 },
-          { "value": "rare_wand", "weight": 40 },
-          { "value": "jewel_pouch", "weight": 100 },
-          { "value": "leg_helmet", "weight": 2 },
-          { "value": "leg_chestplate", "weight": 2 },
-          { "value": "leg_leggings", "weight": 2 },
-          { "value": "leg_boots", "weight": 2 },
-          { "value": "leg_sword", "weight": 2 },
-          { "value": "leg_axe", "weight": 2 },
-          { "value": "leg_shield", "weight": 2 },
-          { "value": "leg_wand", "weight": 2 },
-          { "value": "leg_focus", "weight": 2 },
-          { "value": "castle_chestplate", "weight": 2 },
-          { "value": "warbound_helmet", "weight": 2 },
-          { "value": "inferno_reach", "weight": 2 },
-          { "value": "frozen_orb", "weight": 2 },
-          { "value": "grim_shield", "weight": 2 },
-          { "value": "swarmwalkers", "weight": 2 },
-          { "value": "starforge", "weight": 2 },
-          { "value": "stormcrown", "weight": 2 },
-          { "value": "inflated_justice", "weight": 2 },
-          { "value": "raid_rock", "weight": 40 }
-        ]
+        {
+          "level": 0,
+          "pool": [
+            {
+              "value": "gilded_chest",
+              "weight": 100
+            },
+            {
+              "value": "gilded_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "ornate_chest",
+              "weight": 100
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "living_chest",
+              "weight": 100
+            },
+            {
+              "value": "living_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "wooden_chest",
+              "weight": 100
+            },
+            {
+              "value": "wooden_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "coin_pile",
+              "weight": 90
+            },
+            {
+              "value": "coin_pile_big",
+              "weight": 80
+            },
+            {
+              "value": "rare_helmet",
+              "weight": 42
+            },
+            {
+              "value": "rare_chestplate",
+              "weight": 42
+            },
+            {
+              "value": "rare_leggings",
+              "weight": 42
+            },
+            {
+              "value": "rare_boots",
+              "weight": 42
+            },
+            {
+              "value": "rare_sword",
+              "weight": 42
+            },
+            {
+              "value": "rare_axe",
+              "weight": 42
+            },
+            {
+              "value": "rare_shield",
+              "weight": 42
+            },
+            {
+              "value": "rare_focus",
+              "weight": 42
+            },
+            {
+              "value": "rare_wand",
+              "weight": 42
+            },
+            {
+              "value": "jewel_pouch",
+              "weight": 50
+            },
+            {
+              "value": "leg_helmet",
+              "weight": 8
+            },
+            {
+              "value": "leg_chestplate",
+              "weight": 8
+            },
+            {
+              "value": "leg_leggings",
+              "weight": 8
+            },
+            {
+              "value": "leg_boots",
+              "weight": 8
+            },
+            {
+              "value": "leg_sword",
+              "weight": 8
+            },
+            {
+              "value": "leg_axe",
+              "weight": 8
+            },
+            {
+              "value": "leg_shield",
+              "weight": 8
+            },
+            {
+              "value": "leg_wand",
+              "weight": 8
+            },
+            {
+              "value": "leg_focus",
+              "weight": 8
+            },
+            {
+              "value": "castle_chestplate",
+              "weight": 7
+            },
+            {
+              "value": "warbound_helmet",
+              "weight": 7
+            },
+            {
+              "value": "inferno_reach",
+              "weight": 7
+            },
+            {
+              "value": "frozen_orb",
+              "weight": 7
+            },
+            {
+              "value": "grim_shield",
+              "weight": 7
+            },
+            {
+              "value": "swarmwalkers",
+              "weight": 7
+            },
+            {
+              "value": "starforge",
+              "weight": 7
+            },
+            {
+              "value": "stormcrown",
+              "weight": 7
+            },
+            {
+              "value": "inflated_justice",
+              "weight": 7
+            },
+            {
+              "value": "raid_rock",
+              "weight": 30
+            }
+          ]
         },
-        { "level": 50, "pool": [
-          { "value": "gilded_chest", "weight": 100 },
-          { "value": "gilded_chest_big", "weight": 100 },
-          { "value": "ornate_chest", "weight": 100 },
-          { "value": "ornate_chest_big", "weight": 100 },
-          { "value": "living_chest", "weight": 100 },
-          { "value": "living_chest_big", "weight": 100 },
-          { "value": "wooden_chest", "weight": 100 },
-          { "value": "wooden_chest_big", "weight": 100 },
-          { "value": "coin_pile", "weight": 100 },
-          { "value": "coin_pile_big", "weight": 100 },
-          { "value": "rare_helmet", "weight": 40 },
-          { "value": "rare_chestplate", "weight": 40 },
-          { "value": "rare_leggings", "weight": 40 },
-          { "value": "rare_boots", "weight": 40 },
-          { "value": "rare_sword", "weight": 40 },
-          { "value": "rare_axe", "weight": 40 },
-          { "value": "rare_shield", "weight": 40 },
-          { "value": "rare_focus", "weight": 40 },
-          { "value": "rare_wand", "weight": 40 },
-          { "value": "jewel_pouch", "weight": 100 },
-          { "value": "pyretic_focus", "weight": 50 },
-          { "value": "empowered_chaotic_focus", "weight": 70 },
-          { "value": "resource_booster_pack", "weight": 50 },
-          { "value": "arcane_booster_pack", "weight": 30 },
-          { "value": "leg_helmet", "weight": 2 },
-          { "value": "leg_chestplate", "weight": 2 },
-          { "value": "leg_leggings", "weight": 2 },
-          { "value": "leg_boots", "weight": 2 },
-          { "value": "leg_sword", "weight": 2 },
-          { "value": "leg_axe", "weight": 2 },
-          { "value": "leg_shield", "weight": 2 },
-          { "value": "leg_wand", "weight": 2 },
-          { "value": "leg_focus", "weight": 2 },
-          { "value": "castle_chestplate", "weight": 2 },
-          { "value": "warbound_helmet", "weight": 2 },
-          { "value": "inferno_reach", "weight": 2 },
-          { "value": "frozen_orb", "weight": 2 },
-          { "value": "grim_shield", "weight": 2 },
-          { "value": "swarmwalkers", "weight": 2 },
-          { "value": "starforge", "weight": 2 },
-          { "value": "stormcrown", "weight": 2 },
-          { "value": "inflated_justice", "weight": 2 },
-          { "value": "raid_rock", "weight": 40 }
+        {
+          "level": 50,
+          "pool": [
+            {
+              "value": "gilded_chest",
+              "weight": 100
+            },
+            {
+              "value": "gilded_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "ornate_chest",
+              "weight": 100
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "living_chest",
+              "weight": 100
+            },
+            {
+              "value": "living_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "wooden_chest",
+              "weight": 100
+            },
+            {
+              "value": "wooden_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "coin_pile",
+              "weight": 90
+            },
+            {
+              "value": "coin_pile_big",
+              "weight": 80
+            },
+            {
+              "value": "rare_helmet",
+              "weight": 42
+            },
+            {
+              "value": "rare_chestplate",
+              "weight": 42
+            },
+            {
+              "value": "rare_leggings",
+              "weight": 42
+            },
+            {
+              "value": "rare_boots",
+              "weight": 42
+            },
+            {
+              "value": "rare_sword",
+              "weight": 42
+            },
+            {
+              "value": "rare_axe",
+              "weight": 42
+            },
+            {
+              "value": "rare_shield",
+              "weight": 42
+            },
+            {
+              "value": "rare_focus",
+              "weight": 42
+            },
+            {
+              "value": "rare_wand",
+              "weight": 42
+            },
+            {
+              "value": "jewel_pouch",
+              "weight": 60
+            },
+            {
+              "value": "pyretic_focus",
+              "weight": 60
+            },
+            {
+              "value": "empowered_chaotic_focus",
+              "weight": 60
+            },
+            {
+              "value": "resource_booster_pack",
+              "weight": 50
+            },
+            {
+              "value": "arcane_booster_pack",
+              "weight": 40
+            },
+            {
+              "value": "leg_helmet",
+              "weight": 8
+            },
+            {
+              "value": "leg_chestplate",
+              "weight": 8
+            },
+            {
+              "value": "leg_leggings",
+              "weight": 8
+            },
+            {
+              "value": "leg_boots",
+              "weight": 8
+            },
+            {
+              "value": "leg_sword",
+              "weight": 8
+            },
+            {
+              "value": "leg_axe",
+              "weight": 8
+            },
+            {
+              "value": "leg_shield",
+              "weight": 8
+            },
+            {
+              "value": "leg_wand",
+              "weight": 8
+            },
+            {
+              "value": "leg_focus",
+              "weight": 8
+            },
+            {
+              "value": "castle_chestplate",
+              "weight": 7
+            },
+            {
+              "value": "warbound_helmet",
+              "weight": 7
+            },
+            {
+              "value": "inferno_reach",
+              "weight": 7
+            },
+            {
+              "value": "frozen_orb",
+              "weight": 7
+            },
+            {
+              "value": "grim_shield",
+              "weight": 7
+            },
+            {
+              "value": "swarmwalkers",
+              "weight": 7
+            },
+            {
+              "value": "starforge",
+              "weight": 7
+            },
+            {
+              "value": "stormcrown",
+              "weight": 7
+            },
+            {
+              "value": "inflated_justice",
+              "weight": 7
+            },
+            {
+              "value": "raid_rock",
+              "weight": 30
+            }
           ]
         }
       ]
@@ -1297,34 +1871,118 @@
     "xmark": {
       "type": "pool",
       "levels": [
-        { "level": 0, "pool": [
-          { "value": "gilded_chest_big", "weight": 130 },
-          { "value": "ornate_chest_big", "weight": 130 },
-          { "value": "living_chest_big", "weight": 130 },
-          { "value": "wooden_chest_big", "weight": 130 },
-          { "value": "coin_pile_big", "weight": 130 },
-          { "value": "jewel_pouch", "weight": 60 },
-          { "value": "cryonic_focus", "weight": 6 },
-          { "value": "pyretic_focus", "weight": 6 },
-          { "value": "echo_gem_big", "weight": 18 },
-          { "value": "manabloom", "weight": 4 },
-          { "value": "iskallibur", "weight": 4 },
-          { "value": "annmari", "weight": 4 },
-          { "value": "ivy", "weight": 4 }
-        ] },
-        { "level": 50, "pool": [
-          { "value": "gilded_chest_big", "weight": 130 },
-          { "value": "ornate_chest_big", "weight": 130 },
-          { "value": "living_chest_big", "weight": 130 },
-          { "value": "wooden_chest_big", "weight": 130 },
-          { "value": "coin_pile_big", "weight": 130 },
-          { "value": "cryonic_focus", "weight": 6 },
-          { "value": "pyretic_focus", "weight": 6 },
-          { "value": "echo_gem_big", "weight": 18 },
-          { "value": "manabloom", "weight": 4 },
-          { "value": "iskallibur", "weight": 4 },
-          { "value": "annmari", "weight": 4 },
-          { "value": "ivy", "weight": 4 }
+        {
+          "level": 0,
+          "pool": [
+            {
+              "value": "gilded_chest_big",
+              "weight": 120
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 120
+            },
+            {
+              "value": "living_chest_big",
+              "weight": 120
+            },
+            {
+              "value": "wooden_chest_big",
+              "weight": 120
+            },
+            {
+              "value": "coin_pile_big",
+              "weight": 120
+            },
+            {
+              "value": "jewel_pouch",
+              "weight": 70
+            },
+            {
+              "value": "cryonic_focus",
+              "weight": 10
+            },
+            {
+              "value": "pyretic_focus",
+              "weight": 10
+            },
+            {
+              "value": "echo_gem_big",
+              "weight": 26
+            },
+            {
+              "value": "manabloom",
+              "weight": 7
+            },
+            {
+              "value": "iskallibur",
+              "weight": 7
+            },
+            {
+              "value": "annmari",
+              "weight": 7
+            },
+            {
+              "value": "ivy",
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "pool": [
+            {
+              "value": "gilded_chest_big",
+              "weight": 120
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 120
+            },
+            {
+              "value": "living_chest_big",
+              "weight": 120
+            },
+            {
+              "value": "wooden_chest_big",
+              "weight": 120
+            },
+            {
+              "value": "coin_pile_big",
+              "weight": 120
+            },
+            {
+              "value": "jewel_pouch",
+              "weight": 70
+            },
+            {
+              "value": "cryonic_focus",
+              "weight": 10
+            },
+            {
+              "value": "pyretic_focus",
+              "weight": 10
+            },
+            {
+              "value": "echo_gem_big",
+              "weight": 26
+            },
+            {
+              "value": "manabloom",
+              "weight": 7
+            },
+            {
+              "value": "iskallibur",
+              "weight": 7
+            },
+            {
+              "value": "annmari",
+              "weight": 7
+            },
+            {
+              "value": "ivy",
+              "weight": 7
+            }
           ]
         }
       ]
@@ -1332,21 +1990,65 @@
     "positive_lab": {
       "type": "pool",
       "levels": [
-        { "level": 0, "pool": [
-          { "value": "gilded_chest_big", "weight": 100 },
-          { "value": "ornate_chest_big", "weight": 100 },
-          { "value": "living_chest_big", "weight": 100 },
-          { "value": "coin_pile_big", "weight": 100 },
-          { "value": "cryonic_focus", "weight": 80 },
-          { "value": "empowered_chaotic_focus", "weight": 40 },
-          { "value": "pestilence_wall", "weight": 4 },
-          { "value": "jester", "weight": 4 },
-          { "value": "crystalplate", "weight": 4 },
-          { "value": "crashguards", "weight": 4 },
-          { "value": "chainlash", "weight": 4 },
-          { "value": "pacifist_sandals", "weight": 4 },
-          { "value": "kaleidoscope", "weight": 8 },
-          { "value": "baguette", "weight": 20 }
+        {
+          "level": 0,
+          "pool": [
+            {
+              "value": "gilded_chest_big",
+              "weight": 120
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 120
+            },
+            {
+              "value": "living_chest_big",
+              "weight": 120
+            },
+            {
+              "value": "coin_pile_big",
+              "weight": 120
+            },
+            {
+              "value": "cryonic_focus",
+              "weight": 100
+            },
+            {
+              "value": "empowered_chaotic_focus",
+              "weight": 50
+            },
+            {
+              "value": "pestilence_wall",
+              "weight": 7
+            },
+            {
+              "value": "jester",
+              "weight": 7
+            },
+            {
+              "value": "crystalplate",
+              "weight": 7
+            },
+            {
+              "value": "crashguards",
+              "weight": 7
+            },
+            {
+              "value": "chainlash",
+              "weight": 7
+            },
+            {
+              "value": "pacifist_sandals",
+              "weight": 7
+            },
+            {
+              "value": "kaleidoscope",
+              "weight": 14
+            },
+            {
+              "value": "baguette",
+              "weight": 21
+            }
           ]
         }
       ]
@@ -1354,27 +2056,78 @@
     "success_memory": {
       "type": "pool",
       "levels": [
-        { "level": 0, "pool": [
-          { "value": "gilded_chest_big", "weight": 100 },
-          { "value": "ornate_chest_big", "weight": 100 },
-          { "value": "living_chest_big", "weight": 100 },
-          { "value": "coin_pile_big", "weight": 100 },
-          { "value": "frostwarden", "weight": 10 },
-          { "value": "quickstone", "weight": 10 },
-          { "value": "ender_rings", "weight": 10 },
-          { "value": "broodmother", "weight": 10 }
-
-        ] },
-        { "level": 50, "pool": [
-          { "value": "gilded_chest_big", "weight": 100 },
-          { "value": "ornate_chest_big", "weight": 100 },
-          { "value": "living_chest_big", "weight": 100 },
-          { "value": "coin_pile_big", "weight": 100 },
-          { "value": "frostwarden", "weight": 10 },
-          { "value": "quickstone", "weight": 10 },
-          { "value": "ender_rings", "weight": 10 },
-          { "value": "broodmother", "weight": 10 }
-
+        {
+          "level": 0,
+          "pool": [
+            {
+              "value": "gilded_chest_big",
+              "weight": 170
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 170
+            },
+            {
+              "value": "living_chest_big",
+              "weight": 170
+            },
+            {
+              "value": "coin_pile_big",
+              "weight": 170
+            },
+            {
+              "value": "frostwarden",
+              "weight": 7
+            },
+            {
+              "value": "quickstone",
+              "weight": 7
+            },
+            {
+              "value": "ender_rings",
+              "weight": 7
+            },
+            {
+              "value": "broodmother",
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "pool": [
+            {
+              "value": "gilded_chest_big",
+              "weight": 170
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 170
+            },
+            {
+              "value": "living_chest_big",
+              "weight": 170
+            },
+            {
+              "value": "coin_pile_big",
+              "weight": 170
+            },
+            {
+              "value": "frostwarden",
+              "weight": 7
+            },
+            {
+              "value": "quickstone",
+              "weight": 7
+            },
+            {
+              "value": "ender_rings",
+              "weight": 7
+            },
+            {
+              "value": "broodmother",
+              "weight": 7
+            }
           ]
         }
       ]
@@ -1389,8 +2142,14 @@
         {
           "level": 0,
           "pool": [
-            { "value": "rare_focus", "weight": 100 },
-            { "value": "ornate_chest_big", "weight": 100 }
+            {
+              "value": "rare_focus",
+              "weight": 100
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 100
+            }
           ]
         }
       ]
@@ -1398,40 +2157,94 @@
     "positive_wildwest": {
       "type": "pool",
       "levels": [
-        { "level": 0, "pool": [
-          { "value": "gilded_chest_big", "weight": 100 },
-          { "value": "ornate_chest_big", "weight": 100 },
-          { "value": "living_chest_big", "weight": 100 },
-          { "value": "coin_pile_big", "weight": 100 }
-        ] }
+        {
+          "level": 0,
+          "pool": [
+            {
+              "value": "gilded_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "living_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "coin_pile_big",
+              "weight": 100
+            }
+          ]
+        }
       ]
     },
     "positive_temple": {
       "type": "pool",
       "levels": [
-        { "level": 0, "pool": [
-          { "value": "gilded_chest_big", "weight": 100 },
-          { "value": "ornate_chest_big", "weight": 100 },
-          { "value": "living_chest_big", "weight": 100 },
-          { "value": "coin_pile_big", "weight": 100 }
-        ] }
+        {
+          "level": 0,
+          "pool": [
+            {
+              "value": "gilded_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "ornate_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "living_chest_big",
+              "weight": 100
+            },
+            {
+              "value": "coin_pile_big",
+              "weight": 100
+            }
+          ]
+        }
       ]
     },
     "negative_temple": {
       "type": "pool",
       "levels": [
-        { "level": 0, "pool": [
-          { "value": "add_low_level_guardians", "weight": 100 }
-        ] },
-        { "level": 20, "pool": [
-          { "value": "add_low_2_level_guardians", "weight": 100 }
-        ] },
-        { "level": 50, "pool": [
-          { "value": "add_guardians", "weight": 100 }
-        ] },
-        { "level": 90, "pool": [
-          { "value": "add_high_level_guardians", "weight": 100 }
-        ] }
+        {
+          "level": 0,
+          "pool": [
+            {
+              "value": "add_low_level_guardians",
+              "weight": 100
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "pool": [
+            {
+              "value": "add_low_2_level_guardians",
+              "weight": 100
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "pool": [
+            {
+              "value": "add_guardians",
+              "weight": 100
+            }
+          ]
+        },
+        {
+          "level": 90,
+          "pool": [
+            {
+              "value": "add_high_level_guardians",
+              "weight": 100
+            }
+          ]
+        }
       ]
     }
   }
