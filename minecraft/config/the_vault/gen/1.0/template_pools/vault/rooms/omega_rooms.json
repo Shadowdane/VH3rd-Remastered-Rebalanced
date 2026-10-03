@@ -1,6 +1,6 @@
 [
   {
-    "weight": 1,
+    "weight": 3,
     "reference": "the_vault:vault/rooms/omega/digsite2"
   },
   {
@@ -8,7 +8,7 @@
     "reference": "the_vault:vault/rooms/omega/painting"
   },
   {
-    "weight": 3,
+    "weight": 4,
     "reference": "the_vault:vault/rooms/omega/mine"
   },
   {
@@ -32,7 +32,7 @@
     "reference": "the_vault:vault/rooms/omega/pixel"
   },
   {
-    "weight": 1,
+    "weight": 3,
     "reference": {
       "id": "the_vault:vault/rooms/omega/warehouse",
       "conditions": [
