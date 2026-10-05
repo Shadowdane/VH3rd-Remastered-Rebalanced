@@ -118,7 +118,7 @@
         { "weight": 8,
           "pool": [
             {
-              "weight": 96,
+              "weight": 192,
               "item": {
                 "id": "the_vault:living_rock",
                 "count": {
@@ -129,7 +129,7 @@
               }
             },
             {
-              "weight": 288,
+              "weight": 576,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
@@ -140,7 +140,7 @@
               }
             },
             {
-              "weight": 32,
+              "weight": 72,
               "item": {
                 "id": "the_vault:inscription_piece",
                 "count": {
@@ -151,7 +151,7 @@
               }
             },
             {
-              "weight": 3,
+              "weight": 6,
               "item": {
                 "id": "the_vault:vault_god_charm",
                 "nbt": {
