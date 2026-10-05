@@ -7,38 +7,39 @@
         "max": 2
       },
       "pool": [
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
-                "weight": 192,
-                "item": {
+              "weight": 192,
+              "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
                 }
+              }
             },
             {
-                "weight": 48,
-                "item": {
+              "weight": 48,
+              "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
                 }
+              }
             },
             {
               "weight": 36,
               "item": {
-              "id": "the_vault:key_piece",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "id": "the_vault:key_piece",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             },
@@ -53,17 +54,17 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
               "weight": 5,
               "item": {
-              "id": "the_vault:trinket",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "id": "the_vault:trinket",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             },
@@ -78,7 +79,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]
