@@ -7,7 +7,8 @@
         "max": 2
       },
       "pool": [
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
               "weight": 32,
@@ -20,28 +21,28 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
               "weight": 128,
               "item": {
-              "id": "the_vault:mystery_egg",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "id": "the_vault:mystery_egg",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             },
             {
               "weight": 256,
               "item": {
-              "id": "the_vault:inscription_piece",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "id": "the_vault:inscription_piece",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             },
@@ -50,13 +51,13 @@
               "item": {
                 "id": "the_vault:vault_god_charm",
                 "nbt": {
-                    "the_vault:gear_roll_type_pool": "charms_dungeons"
-                  },
+                  "the_vault:gear_roll_type_pool": "charms_dungeons"
+                },
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -70,7 +71,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]

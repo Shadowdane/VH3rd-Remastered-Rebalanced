@@ -7,29 +7,30 @@
         "max": 2
       },
       "pool": [
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
-                "weight": 200,
-                "item": {
+              "weight": 200,
+              "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
                 }
+              }
             },
             {
-                "weight": 50,
-                "item": {
+              "weight": 50,
+              "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
                 }
+              }
             },
             {
               "weight": 184,
@@ -42,17 +43,17 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
               "weight": 5,
               "item": {
-              "id": "the_vault:trinket",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "id": "the_vault:trinket",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             }
