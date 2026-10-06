@@ -131,7 +131,7 @@
               }
             },
             {
-              "weight": 12,
+              "weight": 14,
               "item": {
                 "id": "the_vault:vault_essence",
                 "count": {
@@ -142,7 +142,7 @@
               }
             },
             {
-              "weight": 12,
+              "weight": 14,
               "item": {
                 "id": "the_vault:silver_scrap",
                 "count": {

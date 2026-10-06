@@ -147,7 +147,7 @@
               }
             },
             {
-              "weight": 11,
+              "weight": 12,
               "item": {
                 "id": "the_vault:gilded_chest_scroll",
                 "count": {
@@ -158,7 +158,7 @@
               }
             },
             {
-              "weight": 75,
+              "weight": 90,
               "item": {
                 "id": "the_vault:magnet",
                 "nbt": {
