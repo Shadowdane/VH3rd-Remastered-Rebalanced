@@ -143,41 +143,13 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 4,
-        "max": 4
+        "min": 2,
+        "max": 2
       },
       "pool": [
         {
           "weight": 1,
           "pool": [
-            {
-              "weight": 16,
-              "item": {
-                "id": "the_vault:sword",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 16,
-              "item": {
-                "id": "the_vault:axe",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
             {
               "weight": 16,
               "item": {
@@ -224,6 +196,48 @@
               "weight": 16,
               "item": {
                 "id": "the_vault:boots",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roll": {
+        "type": "uniform",
+        "min": 2,
+        "max": 2
+      },
+      "pool": [
+        {
+          "weight": 1,
+          "pool": [
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:sword",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:axe",
                 "nbt": {
                   "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
                 },

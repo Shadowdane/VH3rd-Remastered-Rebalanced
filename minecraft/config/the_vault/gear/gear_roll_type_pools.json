@@ -372,6 +372,25 @@
         ]
       }
     ],
+    "gear_completion_common_plus": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Common",
+            "weight": 64
+          },
+          {
+            "value": "Rare",
+            "weight": 16
+          },
+          {
+            "value": "Epic",
+            "weight": 1
+          }
+        ]
+      }
+    ],
     "gear_completion_crate_mono": [
       {
         "level": 0,
