@@ -3,7 +3,7 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 1,
+        "min": 2,
         "max": 3
       },
       "pool": [

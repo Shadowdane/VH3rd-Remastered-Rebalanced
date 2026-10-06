@@ -297,11 +297,11 @@
         "rollTypeOutcomes": [
           {
             "value": "Scrappy",
-            "weight": 80
+            "weight": 72
           },
           {
             "value": "Common",
-            "weight": 10
+            "weight": 12
           },
           {
             "value": "Rare",
@@ -324,7 +324,7 @@
         "rollTypeOutcomes": [
           {
             "value": "Scrappy",
-            "weight": 50
+            "weight": 48
           },
           {
             "value": "Common",
@@ -351,7 +351,7 @@
         "rollTypeOutcomes": [
           {
             "value": "Scrappy",
-            "weight": 50
+            "weight": 48
           },
           {
             "value": "Common",
@@ -368,6 +368,25 @@
           {
             "value": "Omega",
             "weight": 2
+          }
+        ]
+      }
+    ],
+    "gear_completion_common_plus": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Common",
+            "weight": 64
+          },
+          {
+            "value": "Rare",
+            "weight": 16
+          },
+          {
+            "value": "Epic",
+            "weight": 1
           }
         ]
       }
@@ -511,7 +530,7 @@
             "value": "Omega",
             "weight": 1
           }
-         ]
+        ]
       }
     ],
     "jewel_high": [
