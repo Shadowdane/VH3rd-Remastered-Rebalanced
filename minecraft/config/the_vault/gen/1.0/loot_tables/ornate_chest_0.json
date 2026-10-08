@@ -98,7 +98,7 @@
           "weight": 8,
           "pool": [
             {
-              "weight": 12,
+              "weight": 10,
               "item": {
                 "id": "the_vault:amplifying_focus",
                 "count": {
@@ -125,7 +125,7 @@
           "weight": 2,
           "pool": [
             {
-              "weight": 4,
+              "weight": 5,
               "item": {
                 "id": "the_vault:vault_necklace",
                 "count": {
@@ -136,7 +136,7 @@
               }
             },
             {
-              "weight": 16,
+              "weight": 17,
               "item": {
                 "id": "the_vault:ornate_chest_scroll",
                 "count": {
@@ -203,7 +203,7 @@
               }
             },
             {
-              "weight": 64,
+              "weight": 58,
               "item": {
                 "id": "the_vault:sword",
                 "nbt": {
@@ -217,7 +217,7 @@
               }
             },
             {
-              "weight": 64,
+              "weight": 58,
               "item": {
                 "id": "the_vault:axe",
                 "nbt": {
@@ -231,7 +231,7 @@
               }
             },
             {
-              "weight": 56,
+              "weight": 50,
               "item": {
                 "id": "the_vault:shield",
                 "nbt": {
@@ -245,7 +245,7 @@
               }
             },
             {
-              "weight": 56,
+              "weight": 50,
               "item": {
                 "id": "the_vault:wand",
                 "nbt": {
@@ -259,7 +259,7 @@
               }
             },
             {
-              "weight": 56,
+              "weight": 50,
               "item": {
                 "id": "the_vault:focus",
                 "nbt": {
