@@ -3,21 +3,54 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 2,
-        "max": 3
+        "min": 5,
+        "max": 9
       },
       "pool": [
         {
-          "weight": 70,
+          "weight": 80,
           "pool": [
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:chromatic_iron_ingot",
+                "count": {
+                  "type": "uniform",
+                  "min": 9,
+                  "max": 18
+                }
+              }
+            },
+            {
+              "weight": 9,
+              "item": {
+                "id": "the_vault:carbon_nugget",
+                "count": {
+                  "type": "uniform",
+                  "min": 9,
+                  "max": 18
+                }
+              }
+            },
             {
               "weight": 8,
               "item": {
-                "id": "the_vault:knowledge_star_essence",
+                "id": "the_vault:vault_plating",
                 "count": {
                   "type": "uniform",
-                  "min": 5,
-                  "max": 7
+                  "min": 9,
+                  "max": 18
+                }
+              }
+            },
+            {
+              "weight": 7,
+              "item": {
+                "id": "the_vault:mod_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             }
@@ -27,13 +60,35 @@
           "weight": 20,
           "pool": [
             {
-              "weight": 8,
+              "weight": 10,
               "item": {
-                "id": "the_vault:knowledge_star_essence",
+                "id": "the_vault:vault_catalyst_fragment",
                 "count": {
                   "type": "uniform",
-                  "min": 8,
-                  "max": 11
+                  "min": 10,
+                  "max": 20
+                }
+              }
+            },
+            {
+              "weight": 9,
+              "item": {
+                "id": "the_vault:silver_scrap",
+                "count": {
+                  "type": "uniform",
+                  "min": 10,
+                  "max": 20
+                }
+              }
+            },
+            {
+              "weight": 7,
+              "item": {
+                "id": "the_vault:mod_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             }
@@ -43,34 +98,20 @@
           "weight": 8,
           "pool": [
             {
-              "weight": 14,
+              "weight": 10,
               "item": {
-                "id": "the_vault:knowledge_star_essence",
+                "id": "the_vault:vault_essence",
                 "count": {
                   "type": "uniform",
-                  "min": 12,
-                  "max": 16
+                  "min": 11,
+                  "max": 22
                 }
               }
             },
             {
-              "weight": 4,
+              "weight": 7,
               "item": {
-                "id": "the_vault:inscription_piece",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 2,
-              "item": {
-                "id": "the_vault:vault_god_charm",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "strong_rare"
-                },
+                "id": "the_vault:mod_box",
                 "count": {
                   "type": "uniform",
                   "min": 1,
@@ -84,74 +125,35 @@
           "weight": 2,
           "pool": [
             {
-              "weight": 20,
+              "weight": 1,
               "item": {
-                "id": "the_vault:knowledge_star_essence",
+                "id": "the_vault:wooden_chest_scroll",
                 "count": {
                   "type": "uniform",
-                  "min": 17,
-                  "max": 22
+                  "min": 1,
+                  "max": 1
                 }
               }
             },
             {
               "weight": 16,
               "item": {
-                "id": "the_vault:mystery_egg",
+                "id": "the_vault:mod_box",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 1
+                  "max": 2
                 }
               }
             },
             {
-              "weight": 3,
+              "weight": 24,
               "item": {
-                "id": "the_vault:living_chest_scroll",
+                "id": "the_vault:chromatic_steel_ingot",
                 "count": {
                   "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-                "id": "the_vault:inscription_piece",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 12,
-              "item": {
-                "id": "the_vault:vault_god_charm",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "strong_epic"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 4,
-              "item": {
-                "id": "the_vault:inscription",
-                "nbt": {
-                  "pool": "the_vault:random"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
+                  "min": 5,
+                  "max": 9
                 }
               }
             }
