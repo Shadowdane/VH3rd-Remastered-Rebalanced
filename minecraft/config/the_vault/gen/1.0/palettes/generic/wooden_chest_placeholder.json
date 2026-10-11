@@ -8,8 +8,7 @@
           "level": 0,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl0\"}": 1,
-            "the_vault:wooden_barrel{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl0\"}": 1
           },
           "failure": {
             "minecraft:air": 1
@@ -19,8 +18,7 @@
           "level": 20,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl0\"}": 1,
-            "the_vault:wooden_barrel{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl20\"}": 1
           },
           "failure": {
             "minecraft:air": 1
@@ -30,7 +28,50 @@
           "level": 30,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl0\"}": 1,
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 50,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30\"}": 135,
+            "the_vault:wooden_barrel{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 65,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30\"}": 130,
+            "the_vault:wooden_barrel{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 80,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30\"}": 125,
+            "the_vault:wooden_barrel{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 100,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30\"}": 120,
             "the_vault:wooden_barrel{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
           },
           "failure": {
@@ -47,8 +88,7 @@
           "level": 0,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest[waterlogged=true]{LootTable:\"the_vault:wooden_chest_lvl0\"}": 1,
-            "the_vault:wooden_barrel[waterlogged=true]{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
+            "the_vault:wooden_chest[waterlogged=true]{LootTable:\"the_vault:wooden_chest_lvl0\"}": 1
           },
           "failure": {
             "minecraft:water": 1
@@ -58,8 +98,7 @@
           "level": 20,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest[waterlogged=true]{LootTable:\"the_vault:wooden_chest_lvl0\"}": 1,
-            "the_vault:wooden_barrel[waterlogged=true]{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
+            "the_vault:wooden_chest[waterlogged=true]{LootTable:\"the_vault:wooden_chest_lvl20\"}": 1
           },
           "failure": {
             "minecraft:water": 1
@@ -69,7 +108,50 @@
           "level": 30,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest[waterlogged=true]{LootTable:\"the_vault:wooden_chest_lvl0\"}": 1,
+            "the_vault:wooden_chest[waterlogged=true]{LootTable:\"the_vault:wooden_chest_lvl30\"}": 1
+          },
+          "failure": {
+            "minecraft:water": 1
+          }
+        },
+        {
+          "level": 50,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest[waterlogged=true]{LootTable:\"the_vault:wooden_chest_lvl30\"}": 135,
+            "the_vault:wooden_barrel[waterlogged=true]{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
+          },
+          "failure": {
+            "minecraft:water": 1
+          }
+        },
+        {
+          "level": 65,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest[waterlogged=true]{LootTable:\"the_vault:wooden_chest_lvl30\"}": 130,
+            "the_vault:wooden_barrel[waterlogged=true]{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
+          },
+          "failure": {
+            "minecraft:water": 1
+          }
+        },
+        {
+          "level": 80,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest[waterlogged=true]{LootTable:\"the_vault:wooden_chest_lvl30\"}": 125,
+            "the_vault:wooden_barrel[waterlogged=true]{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
+          },
+          "failure": {
+            "minecraft:water": 1
+          }
+        },
+        {
+          "level": 100,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest[waterlogged=true]{LootTable:\"the_vault:wooden_chest_lvl30\"}": 120,
             "the_vault:wooden_barrel[waterlogged=true]{LootTable:\"the_vault:wooden_barrel_lvl50\"}": 1
           },
           "failure": {
