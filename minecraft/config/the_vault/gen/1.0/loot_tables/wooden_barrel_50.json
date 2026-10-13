@@ -1,0 +1,165 @@
+{
+  "entries": [
+    {
+      "roll": {
+        "type": "uniform",
+        "min": 5,
+        "max": 9
+      },
+      "pool": [
+        {
+          "weight": 80,
+          "pool": [
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:chromatic_iron_ingot",
+                "count": {
+                  "type": "uniform",
+                  "min": 9,
+                  "max": 18
+                }
+              }
+            },
+            {
+              "weight": 9,
+              "item": {
+                "id": "the_vault:carbon_nugget",
+                "count": {
+                  "type": "uniform",
+                  "min": 9,
+                  "max": 18
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:vault_plating",
+                "count": {
+                  "type": "uniform",
+                  "min": 9,
+                  "max": 18
+                }
+              }
+            },
+            {
+              "weight": 7,
+              "item": {
+                "id": "the_vault:mod_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "pool": [
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:vault_catalyst_fragment",
+                "count": {
+                  "type": "uniform",
+                  "min": 10,
+                  "max": 20
+                }
+              }
+            },
+            {
+              "weight": 9,
+              "item": {
+                "id": "the_vault:silver_scrap",
+                "count": {
+                  "type": "uniform",
+                  "min": 10,
+                  "max": 20
+                }
+              }
+            },
+            {
+              "weight": 7,
+              "item": {
+                "id": "the_vault:mod_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 8,
+          "pool": [
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:vault_essence",
+                "count": {
+                  "type": "uniform",
+                  "min": 11,
+                  "max": 22
+                }
+              }
+            },
+            {
+              "weight": 7,
+              "item": {
+                "id": "the_vault:mod_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "pool": [
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:wooden_chest_scroll",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:mod_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 24,
+              "item": {
+                "id": "the_vault:chromatic_steel_ingot",
+                "count": {
+                  "type": "uniform",
+                  "min": 5,
+                  "max": 9
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

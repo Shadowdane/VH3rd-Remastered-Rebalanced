@@ -172,7 +172,7 @@
           "weight": 2,
           "pool": [
             {
-              "weight": 210,
+              "weight": 144,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
@@ -183,7 +183,7 @@
               }
             },
             {
-              "weight": 96,
+              "weight": 64,
               "item": {
                 "id": "the_vault:inscription_piece",
                 "count": {
@@ -194,7 +194,7 @@
               }
             },
             {
-              "weight": 248,
+              "weight": 152,
               "item": {
                 "id": "the_vault:mystery_egg",
                 "count": {
@@ -205,7 +205,7 @@
               }
             },
             {
-              "weight": 224,
+              "weight": 100,
               "item": {
                 "id": "the_vault:vault_moss",
                 "count": {
@@ -216,7 +216,7 @@
               }
             },
             {
-              "weight": 20,
+              "weight": 12,
               "item": {
                 "id": "the_vault:living_chest_scroll",
                 "count": {
@@ -227,7 +227,7 @@
               }
             },
             {
-              "weight": 14,
+              "weight": 10,
               "item": {
                 "id": "the_vault:vault_god_charm",
                 "nbt": {
@@ -241,7 +241,7 @@
               }
             },
             {
-              "weight": 10,
+              "weight": 6,
               "item": {
                 "id": "the_vault:inscription",
                 "nbt": {
