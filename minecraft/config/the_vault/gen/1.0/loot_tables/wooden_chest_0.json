@@ -93,13 +93,13 @@
               }
             },
             {
-              "weight": 12,
+              "weight": 10,
               "item": {
                 "id": "the_vault:driftwood",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 2
+                  "max": 3
                 }
               }
             },

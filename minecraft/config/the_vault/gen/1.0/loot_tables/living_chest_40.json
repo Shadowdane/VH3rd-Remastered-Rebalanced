@@ -55,7 +55,7 @@
               }
             },
             {
-              "weight": 8,
+              "weight": 12,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
@@ -120,7 +120,7 @@
           "weight": 8,
           "pool": [
             {
-              "weight": 192,
+              "weight": 96,
               "item": {
                 "id": "the_vault:living_rock",
                 "count": {
@@ -131,7 +131,7 @@
               }
             },
             {
-              "weight": 576,
+              "weight": 272,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
@@ -142,7 +142,7 @@
               }
             },
             {
-              "weight": 72,
+              "weight": 36,
               "item": {
                 "id": "the_vault:inscription_piece",
                 "count": {
@@ -153,7 +153,7 @@
               }
             },
             {
-              "weight": 6,
+              "weight": 2,
               "item": {
                 "id": "the_vault:vault_god_charm",
                 "nbt": {
@@ -172,7 +172,7 @@
           "weight": 2,
           "pool": [
             {
-              "weight": 144,
+              "weight": 176,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
@@ -183,18 +183,18 @@
               }
             },
             {
-              "weight": 64,
+              "weight": 56,
               "item": {
                 "id": "the_vault:inscription_piece",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 1
+                  "max": 2
                 }
               }
             },
             {
-              "weight": 152,
+              "weight": 160,
               "item": {
                 "id": "the_vault:mystery_egg",
                 "count": {
@@ -205,7 +205,7 @@
               }
             },
             {
-              "weight": 100,
+              "weight": 56,
               "item": {
                 "id": "the_vault:vault_moss",
                 "count": {
@@ -227,7 +227,7 @@
               }
             },
             {
-              "weight": 10,
+              "weight": 9,
               "item": {
                 "id": "the_vault:vault_god_charm",
                 "nbt": {
