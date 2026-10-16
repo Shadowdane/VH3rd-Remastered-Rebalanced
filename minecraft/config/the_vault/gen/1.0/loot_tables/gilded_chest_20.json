@@ -147,7 +147,7 @@
               }
             },
             {
-              "weight": 16,
+              "weight": 21,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -164,7 +164,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 2
+                  "max": 3
                 }
               }
             },
@@ -194,7 +194,7 @@
               }
             },
             {
-              "weight": 5,
+              "weight": 6,
               "item": {
                 "id": "the_vault:trinket",
                 "count": {

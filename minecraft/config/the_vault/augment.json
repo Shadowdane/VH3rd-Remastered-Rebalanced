@@ -1,5 +1,5 @@
 {
-  "dropChance": 0.35,
+  "dropChance": 0.25,
   "drops": {
     "the_vault:classic_vault_ice": {
       "the_vault:augment{theme:\"the_vault:classic_vault_ice\"}": 5,

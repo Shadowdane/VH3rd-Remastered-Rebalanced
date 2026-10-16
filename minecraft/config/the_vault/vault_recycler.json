@@ -4,7 +4,7 @@
         "SCRAPPY": 0.01,
         "COMMON": 0.1,
         "RARE": 0.2,
-        "EPIC": 0.4,
+        "EPIC": 0.5,
         "OMEGA": 0.8
     },
     "recyclingOutput": {
@@ -84,7 +84,7 @@
             },
             "extraOutput2": {
                 "conditionalOutputs": {},
-                "chance": 1.0,
+                "chance": 0.0,
                 "stack": {
                     "item": "minecraft:air"
                 },
@@ -263,7 +263,7 @@
                             "isLegendary": null
                         },
                         {
-                            "chance": 0.4,
+                            "chance": 0.5,
                             "stack": {
                                 "item": "the_vault:adaptive_focus"
                             },
@@ -272,7 +272,7 @@
                         }
                     ]
                 ],
-                "chance": 0.2,
+                "chance": 0.25,
                 "stack": {
                     "item": "the_vault:faceted_focus"
                 },
