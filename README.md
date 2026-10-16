@@ -87,7 +87,9 @@ These are very rare Wooden Barrels that spawn after level 50, with an increased 
 - Increased the Relic, Particle & Ancient Relic drop chance by 20%.
 
 ## Mob Changes
-- Reduced all Guardian Mobs attack damage by 20% and maximum health by 10%.
+- Reduced all Guardian mob attack damage by 20%, maximum health by 10%, and attack reach by 30%.
+- Reduced Dragon Goblin maximum health by 20%.
+- Ported mob health and attack damage changes for White Wraith & Yellow Wraith from v3.0.1 to v2.0.4 configs.
 
 ## Vault Item Changes
 - Increased the minimum uses for Charms to 10.
