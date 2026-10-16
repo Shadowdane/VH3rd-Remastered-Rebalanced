@@ -316,7 +316,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 24,
+            "weight": 20,
             "value": {
               "flag": true
             }
@@ -511,7 +511,7 @@
           {
             "minLevel": 0,
             "maxLevel": 29,
-            "weight": 9,
+            "weight": 10,
             "value": {
               "min": 1,
               "max": 1,
@@ -521,7 +521,7 @@
           {
             "minLevel": 30,
             "maxLevel": 44,
-            "weight": 18,
+            "weight": 12,
             "value": {
               "min": 1,
               "max": 1,
@@ -531,7 +531,7 @@
           {
             "minLevel": 45,
             "maxLevel": 69,
-            "weight": 20,
+            "weight": 13,
             "value": {
               "min": 1,
               "max": 1,
@@ -541,7 +541,7 @@
           {
             "minLevel": 70,
             "maxLevel": 76,
-            "weight": 22,
+            "weight": 14,
             "value": {
               "min": 1,
               "max": 1,
@@ -551,7 +551,7 @@
           {
             "minLevel": 76,
             "maxLevel": -1,
-            "weight": 24,
+            "weight": 15,
             "value": {
               "min": 1,
               "max": 1,
