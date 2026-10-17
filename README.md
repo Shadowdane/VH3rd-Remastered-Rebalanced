@@ -1,8 +1,8 @@
 # VH3rd-Remastered-Rebalanced
 
-This configuration package is a Rebalance of the Vault Hunters 3rd Ed - Remastered Modpack.
+This configuration package is a Rebalance of the Vault Hunters 3rd Edition - Remastered Modpack.
 
-The tuned configuration files target the v2.0.4 build and I'll be working on an update for the newly released v3.0.0 build.
+This rebalance targets the v3.0.1 version of Vault Hunters Remastered.   Additionally also provided is releases for v2.0.4 as development of the balance changes started on that version.  Future balancing changes on this will be targetting the v3.0.1 version.
 
 ## Loot Balance Changes
 
@@ -59,24 +59,32 @@ These are very rare Wooden Barrels that spawn after level 50, with an increased 
 ### Coin Piles
 - Vault Coins: 33% average increase for Bronze, Silver & Gold
 
-## Elixir Objective
+### Completion Crates
+- Rebalanced Completion Crates to provide more consistent rewards and reduce the chance of low-value or empty reward rolls.
+- Adjusted Vault Gear rewards split up some pools that had 2 or more rolls into seperate pools for armor and weapons.
+- Added a small amount of guaranteed Vault Bronze to early-game Completion Crates.
+- Added a chance for Magnets to appear in Completion Crates.
+- Slightly increased the amount of Vault Gold received.
+
+### Elixir Objective
 - Vault Chests: Increased the chance of higher Elixir rewards from Wooden, Living, Gilded, and Ornate chests.
 - Coin Piles: Increased Elixir rewards across all levels, adding higher reward tiers of up to 5 rolls.
 - Vault Ores: Increased the chance of higher Elixir rewards from mining ores.
 - Vault Dwellers: Increased the chance of higher Elixir rewards from killing Dweller mobs.
 
-## Bingo Objective Changes
+### Bingo Objective Changes
 - Decreased Loot Chest and Mine Block objective requirements by 15%
 - Decreased Discover Omega Room objective requirements for all difficulty levels.
 - Increased all Timed objectives (Average weighted increase for all timed objectives is ~73%)
 
-## Hunt the Runes Objective Changes
+### Hunt the Runes Objective Changes
 - Increased attack cooldowns for every Vault Boss mob.
 - Increased the thresholds for the Rune Boss Shielded ability to 30 runes, Wave Blast ability to 45 runes and Revive ability to 60 runes.
 - Increased roll range for the Vault Boss Rune Modifiers, health can roll 5% to 50%, damage can roll 2% to 60%.
 
-## General Vault Changes
+### General Vault Changes
 - Scavenger Vault: Reduce the Scavenger Item requirements by 30%.
+- Reduced the frequency of the special Holiday themes, so they weren't so heavily weighted in October and December.
 - Increased the drop chance of Catalyst Fragments, they can also very rarely drop from Gilded, Living or Ornate chests.
 - Increased drop chance of some items in Challenge Rooms rewards.
 - Increased the ore spawning slightly in alt theme Vaults.
@@ -86,19 +94,19 @@ These are very rare Wooden Barrels that spawn after level 50, with an increased 
 - Increased Augment drop rate to 25% from Completion Crates.
 - Increased the Relic, Particle & Ancient Relic drop chance by 20%.
 
-## Mob Changes
+### Mob Changes
 - Reduced all Guardian mob attack damage by 20%, maximum health by 10%, and attack reach by 30%.
 - Reduced Dragon Goblin maximum health by 20%.
 - Ported mob health and attack damage changes for White Wraith & Yellow Wraith from v3.0.1 to v2.0.4 configs.
 
-## Vault Item Changes
+### Vault Item Changes
 - Increased the minimum uses for Charms to 10.
 - Increased the minimum uses from 12 to 15 for Crafted Trinkets.
 - Added a few mod items to Mob Boxes from Powah and increased the drop chance on a few rare items.
 
-## Other Changes
+### Other Changes
 - Increased output chances and quantity for the Vault Recycler. 
 - Increased the drop chance of some of the rarer Catalysts in the Shop Pedestal & Black Market.
 - Small tweaks to Black Market item prices.
 - Minor adjustments to the Bounty Rewards items pools.
-- Reduced the chances of rolling Hammer Size modifier on jewels.
+- Minor adjustments to the chances of rolling Hammer Size modifier on jewels.
