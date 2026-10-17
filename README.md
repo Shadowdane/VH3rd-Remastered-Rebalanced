@@ -1,8 +1,8 @@
 # VH3rd-Remastered-Rebalanced
 
-This configuration package is a Rebalance of the Vault Hunters 3rd Ed - Remastered Modpack.
+This configuration package is a Rebalance of the Vault Hunters 3rd Edition - Remastered Modpack.
 
-The tuned configuration files target the v2.0.4 build and I'll be working on an update for the newly released v3.0.0 build.
+This rebalance targets the v3.0.1 version of Vault Hunters Remastered.   Additionally also provided is releases for v2.0.4 as development of the balance changes started on that version.  Future balancing changes on this will be targetting the v3.0.1 version.
 
 ## Loot Balance Changes
 
