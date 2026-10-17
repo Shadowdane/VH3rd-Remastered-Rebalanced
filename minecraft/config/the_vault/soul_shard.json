@@ -2245,6 +2245,11 @@
         "min": 60,
         "max": 140,
         "chance": 1.0
+    },
+    "the_vault:healer": {
+        "min": 0,
+        "max": 0,
+        "chance": 0.0
     }
   }
 }

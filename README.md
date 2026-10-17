@@ -77,6 +77,7 @@ These are very rare Wooden Barrels that spawn after level 50, with an increased 
 
 ## General Vault Changes
 - Scavenger Vault: Reduce the Scavenger Item requirements by 30%.
+- Reduced the frequency of the special Holiday themes, so they weren't so heavily weighted in October and December.
 - Increased the drop chance of Catalyst Fragments, they can also very rarely drop from Gilded, Living or Ornate chests.
 - Increased drop chance of some items in Challenge Rooms rewards.
 - Increased the ore spawning slightly in alt theme Vaults.
@@ -101,4 +102,4 @@ These are very rare Wooden Barrels that spawn after level 50, with an increased 
 - Increased the drop chance of some of the rarer Catalysts in the Shop Pedestal & Black Market.
 - Small tweaks to Black Market item prices.
 - Minor adjustments to the Bounty Rewards items pools.
-- Reduced the chances of rolling Hammer Size modifier on jewels.
+- Minor adjustments to the chances of rolling Hammer Size modifier on jewels.
