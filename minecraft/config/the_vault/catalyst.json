@@ -296,7 +296,7 @@
               "model": 6,
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -310,7 +310,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -325,7 +325,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -340,7 +340,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -355,7 +355,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -370,7 +370,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -385,7 +385,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -400,7 +400,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -415,7 +415,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -430,7 +430,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "model": 10,
@@ -439,13 +439,13 @@
                 "the_vault:challenge_stack"
               ]
             },
-            "weight": 12.0
+            "weight": 9.0
           },
           {
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "model": 11,
@@ -454,13 +454,13 @@
                 "the_vault:challenge_stack"
               ]
             },
-            "weight": 12.0
+            "weight": 9.0
           },
           {
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "model": 12,
@@ -469,13 +469,13 @@
                 "the_vault:challenge_stack"
               ]
             },
-            "weight": 12.0
+            "weight": 9.0
           },
           {
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "model": 13,
@@ -484,13 +484,13 @@
                 "the_vault:challenge_stack"
               ]
             },
-            "weight": 12.0
+            "weight": 9.0
           },
           {
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "model": 14,
@@ -499,7 +499,7 @@
                 "the_vault:challenge_stack"
               ]
             },
-            "weight": 15.0
+            "weight": 18.0
           }
         ]
       }
@@ -513,7 +513,7 @@
               "model": 6,
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -527,7 +527,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -542,7 +542,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -557,7 +557,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -572,7 +572,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -587,7 +587,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -602,7 +602,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -617,7 +617,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -632,7 +632,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "modifiers": [
@@ -647,7 +647,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 10,
+                "max": 9,
                 "type": "uniform"
               },
               "model": 14,
@@ -656,7 +656,7 @@
                 "the_vault:challenge_stack"
               ]
             },
-            "weight": 15.0
+            "weight": 18.0
           }
         ]
       }
@@ -813,7 +813,7 @@
                 "the_vault:challenge_stack"
               ]
             },
-            "weight": 12.0
+            "weight": 9.0
           },
           {
             "value": {
@@ -828,7 +828,7 @@
                 "the_vault:challenge_stack"
               ]
             },
-            "weight": 12.0
+            "weight": 9.0
           },
           {
             "value": {
@@ -843,7 +843,7 @@
                 "the_vault:challenge_stack"
               ]
             },
-            "weight": 12.0
+            "weight": 9.0
           },
           {
             "value": {
@@ -858,7 +858,7 @@
                 "the_vault:challenge_stack"
               ]
             },
-            "weight": 12.0
+            "weight": 9.0
           },
           {
             "value": {
@@ -873,7 +873,7 @@
                 "the_vault:challenge_stack"
               ]
             },
-            "weight": 15.0
+            "weight": 18.0
           }
         ]
       }
