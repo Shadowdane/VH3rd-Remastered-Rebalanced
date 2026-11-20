@@ -172,7 +172,7 @@
           },
           {
             "value": "Omega",
-            "weight": 20
+            "weight": 10
           }
         ]
       }
@@ -259,15 +259,19 @@
         "rollTypeOutcomes": [
           {
             "value": "Common",
-            "weight": 64
+            "weight": 100
           },
           {
             "value": "Rare",
-            "weight": 16
+            "weight": 20
           },
           {
             "value": "Epic",
-            "weight": 4
+            "weight": 5
+          },
+          {
+            "value": "Omega",
+            "weight": 1
           }
         ]
       }
@@ -278,15 +282,15 @@
         "rollTypeOutcomes": [
           {
             "value": "Rare",
-            "weight": 16
+            "weight": 20
           },
           {
             "value": "Epic",
-            "weight": 8
+            "weight": 5
           },
           {
             "value": "Omega",
-            "weight": 4
+            "weight": 2
           }
         ]
       }
@@ -297,11 +301,11 @@
         "rollTypeOutcomes": [
           {
             "value": "Scrappy",
-            "weight": 72
+            "weight": 80
           },
           {
             "value": "Common",
-            "weight": 12
+            "weight": 10
           },
           {
             "value": "Rare",
@@ -324,7 +328,7 @@
         "rollTypeOutcomes": [
           {
             "value": "Scrappy",
-            "weight": 48
+            "weight": 50
           },
           {
             "value": "Common",
@@ -351,7 +355,7 @@
         "rollTypeOutcomes": [
           {
             "value": "Scrappy",
-            "weight": 48
+            "weight": 50
           },
           {
             "value": "Common",
@@ -368,25 +372,6 @@
           {
             "value": "Omega",
             "weight": 2
-          }
-        ]
-      }
-    ],
-    "gear_completion_common_plus": [
-      {
-        "level": 0,
-        "rollTypeOutcomes": [
-          {
-            "value": "Common",
-            "weight": 64
-          },
-          {
-            "value": "Rare",
-            "weight": 16
-          },
-          {
-            "value": "Epic",
-            "weight": 1
           }
         ]
       }
@@ -530,7 +515,7 @@
             "value": "Omega",
             "weight": 1
           }
-        ]
+         ]
       }
     ],
     "jewel_high": [
@@ -571,6 +556,48 @@
           {
             "value": "Omega",
             "weight": 1
+          }
+        ]
+      }
+    ],
+    "jewel_found": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Rare",
+            "weight": 70
+          },
+          {
+            "value": "Epic",
+            "weight": 22
+          },
+          {
+            "value": "Omega",
+            "weight": 8
+          }
+        ]
+      }
+    ],
+    "jewel_pouch": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Rare",
+            "weight": 690
+          },
+          {
+            "value": "Epic",
+            "weight": 217
+          },
+          {
+            "value": "Omega",
+            "weight": 79
+          },
+          {
+            "value": "Unique",
+            "weight": 15
           }
         ]
       }

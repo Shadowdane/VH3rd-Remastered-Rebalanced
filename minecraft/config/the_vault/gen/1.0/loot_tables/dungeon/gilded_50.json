@@ -4,47 +4,46 @@
       "roll": {
         "type": "uniform",
         "min": 1,
-        "max": 2
+        "max": 1
       },
       "pool": [
-        {
-          "weight": 1,
+        { "weight": 1,
           "pool": [
             {
-              "weight": 192,
-              "item": {
+                "weight": 18,
+                "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
+                  }
                 }
-              }
             },
             {
-              "weight": 48,
-              "item": {
-                "id": "the_vault:jewel_pouch",
+                "weight": 52,
+                "item": {
+                "id": "the_vault:gemstone",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
+                  }
                 }
-              }
             },
             {
-              "weight": 36,
+              "weight": 10,
               "item": {
-                "id": "the_vault:key_piece",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
+              "id": "the_vault:key_piece",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
                 }
               }
             },
             {
-              "weight": 168,
+              "weight": 20,
               "item": {
                 "id": "the_vault:magnet",
                 "nbt": {
@@ -54,22 +53,22 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
-              "weight": 5,
+              "weight": 2,
               "item": {
-                "id": "the_vault:trinket",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
+              "id": "the_vault:trinket",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
                 }
               }
             },
             {
-              "weight": 6,
+              "weight": 2,
               "item": {
                 "id": "the_vault:deck_socket",
                 "nbt": {
@@ -79,7 +78,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             }
           ]

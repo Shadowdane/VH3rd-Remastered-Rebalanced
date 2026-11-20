@@ -186,18 +186,6 @@
             {
                 "value": {
                     "item": {
-                        "ITEM": "the_vault:bounty_pearl",
-                        "AMOUNT": 1,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 600,
-                    "maxPrice": 1200
-                },
-                "weight": 16
-            },
-            {
-                "value": {
-                    "item": {
                         "ITEM": "minecraft:emerald",
                         "AMOUNT": 32,
                         "NBT": "{}"
@@ -217,13 +205,13 @@
                     "minPrice": 600,
                     "maxPrice": 1800
                 },
-                "weight": 32
+                "weight": 24
             },
             {
                 "value": {
                     "item": {
                         "ITEM": "the_vault:black_chromatic_steel_nugget",
-                        "AMOUNT": 6,
+                        "AMOUNT": 4,
                         "NBT": "{}"
                     },
                     "minPrice": 1200,
@@ -283,7 +271,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:chromatic_steel_ingot",
-                        "AMOUNT": 8,
+                        "AMOUNT": 6,
                         "NBT": "{}"
                     },
                     "minPrice": 1200,
@@ -317,18 +305,6 @@
                     },
                     "minPrice": 300,
                     "maxPrice": 600
-                },
-                "weight": 40
-            },
-			{
-                "value": {
-                    "item": {
-                        "ITEM": "minecraft:elytra",
-                        "AMOUNT": 1,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 700,
-                    "maxPrice": 2000
                 },
                 "weight": 40
             },
@@ -515,7 +491,7 @@
             {
                 "value": {
                     "item": {
-                        "ITEM": "the_vault:vault_catalyst_chaos",
+                        "ITEM": "the_vault:crystal_seal_chaos",
                         "AMOUNT": 1,
                         "NBT": "{}"
                     },
@@ -742,18 +718,6 @@
             {
                 "value": {
                     "item": {
-                        "ITEM": "the_vault:bounty_pearl",
-                        "AMOUNT": 1,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 600,
-                    "maxPrice": 1200
-                },
-                "weight": 16
-            },
-            {
-                "value": {
-                    "item": {
                         "ITEM": "the_vault:vault_catalyst_infused",
                         "AMOUNT": 1,
                         "NBT": "{\"pool\": \"the_vault:black_market\"}"
@@ -767,7 +731,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:black_chromatic_steel_ingot",
-                        "AMOUNT": 2,
+                        "AMOUNT": 1,
                         "NBT": "{}"
                     },
                     "minPrice": 1800,
@@ -815,7 +779,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:chromatic_steel_ingot",
-                        "AMOUNT": 8,
+                        "AMOUNT": 6,
                         "NBT": "{}"
                     },
                     "minPrice": 1200,
@@ -1107,7 +1071,7 @@
             {
                 "value": {
                     "item": {
-                        "ITEM": "the_vault:vault_catalyst_chaos",
+                        "ITEM": "the_vault:crystal_seal_chaos",
                         "AMOUNT": 1,
                         "NBT": "{}"
                     },
@@ -1120,10 +1084,10 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:jewel_pouch",
-                        "AMOUNT": 2
+                        "AMOUNT": 1
                     },
-                    "minPrice": 1400,
-                    "maxPrice": 3400
+                    "minPrice": 1200,
+                    "maxPrice": 3200
                 },
                 "weight": 48
             },
@@ -1358,30 +1322,6 @@
             {
                 "value": {
                     "item": {
-                        "ITEM": "the_vault:bounty_pearl",
-                        "AMOUNT": 1,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 600,
-                    "maxPrice": 1200
-                },
-                "weight": 16
-            },
-            {
-                "value": {
-                    "item": {
-                        "ITEM": "the_vault:bounty_pearl",
-                        "AMOUNT": 2,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 900,
-                    "maxPrice": 1500
-                },
-                "weight": 12
-            },
-            {
-                "value": {
-                    "item": {
                         "ITEM": "the_vault:vault_catalyst_infused",
                         "AMOUNT": 1,
                         "NBT": "{\"pool\": \"the_vault:black_market\"}"
@@ -1395,7 +1335,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:black_chromatic_steel_ingot",
-                        "AMOUNT": 2,
+                        "AMOUNT": 1,
                         "NBT": "{}"
                     },
                     "minPrice": 1800,
@@ -1431,7 +1371,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:chromatic_steel_ingot",
-                        "AMOUNT": 9,
+                        "AMOUNT": 7,
                         "NBT": "{}"
                     },
                     "minPrice": 1200,
@@ -1843,7 +1783,7 @@
             {
                 "value": {
                     "item": {
-                        "ITEM": "the_vault:vault_catalyst_chaos",
+                        "ITEM": "the_vault:crystal_seal_chaos",
                         "AMOUNT": 1,
                         "NBT": "{}"
                     },
@@ -1856,10 +1796,10 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:jewel_pouch",
-                        "AMOUNT": 3
+                        "AMOUNT": 1
                     },
-                    "minPrice": 1400,
-                    "maxPrice": 3400
+                    "minPrice": 1200,
+                    "maxPrice": 3200
                 },
                 "weight": 40
             },
@@ -2094,18 +2034,6 @@
             {
                 "value": {
                     "item": {
-                        "ITEM": "the_vault:bounty_pearl",
-                        "AMOUNT": 1,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 600,
-                    "maxPrice": 1200
-                },
-                "weight": 16
-            },
-            {
-                "value": {
-                    "item": {
                         "ITEM": "the_vault:vault_catalyst_infused",
                         "AMOUNT": 1,
                         "NBT": "{\"pool\":\"the_vault:black_market\"}"
@@ -2119,7 +2047,7 @@
                 "value": {
                     "item": {
                         "ITEM": "the_vault:black_chromatic_steel_ingot",
-                        "AMOUNT": 2,
+                        "AMOUNT": 1,
                         "NBT": "{}"
                     },
                     "minPrice": 1800,
@@ -2215,6 +2143,7 @@
         ]
     }
   ],
+  "championShardMultiplier": 10,
   "defaultShardDrops": {
     "min": 3,
     "max": 3,
@@ -2239,11 +2168,6 @@
     "@the_vault:assassin": {
         "min": 6,
         "max": 12,
-        "chance": 1.0
-    },
-    "@the_vault:mob_type/champion": {
-        "min": 60,
-        "max": 140,
         "chance": 1.0
     },
     "the_vault:healer": {

@@ -7,28 +7,27 @@
         "max": 15
       },
       "pool": [
-        {
-          "weight": 70,
+        { "weight": 70,
           "pool": [
             {
-              "weight": 16,
-              "item": {
+                "weight": 16,
+                "item": {
                 "id": "the_vault:living_rock",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 2
+                  }
                 }
-              }
             },
             {
               "weight": 8,
               "item": {
-                "id": "the_vault:mossy_bone",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
+              "id": "the_vault:mossy_bone",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
                 }
               }
             },
@@ -40,7 +39,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 2
-                }
+                  }
               }
             },
             {
@@ -51,7 +50,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 2
-                }
+                  }
               }
             },
             {
@@ -62,7 +61,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -73,51 +72,49 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 3
-                }
+                  }
               }
             }
           ]
         },
-        {
-          "weight": 20,
-          "pool": [
-            {
-              "weight": 100,
-              "item": {
-                "id": "the_vault:living_rock",
-                "count": {
-                  "type": "uniform",
-                  "min": 4,
-                  "max": 8
+        { "weight": 20,
+        "pool": [
+          {
+            "weight": 100,
+            "item": {
+              "id": "the_vault:living_rock",
+              "count": {
+                "type": "uniform",
+                "min": 4,
+                "max": 8
                 }
-              }
-            },
-            {
-              "weight": 100,
-              "item": {
-                "id": "the_vault:knowledge_star_essence",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 2
-                }
-              }
-            },
-            {
-              "weight": 220,
-              "item": {
-                "id": "the_vault:vault_meat",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 2
-                }
-              }
             }
-          ]
+          },
+          {
+            "weight": 100,
+            "item": {
+              "id": "the_vault:knowledge_star_essence",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 2
+                }
+            }
+          },
+          {
+            "weight": 220,
+            "item": {
+              "id": "the_vault:vault_meat",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 2
+                }
+            }
+          }
+        ]
         },
-        {
-          "weight": 8,
+        { "weight": 8,
           "pool": [
             {
               "weight": 60,
@@ -127,60 +124,22 @@
                   "type": "uniform",
                   "min": 4,
                   "max": 8
-                }
+                  }
               }
             },
             {
-              "weight": 70,
+              "weight": 80,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
                   "type": "uniform",
-                  "min": 2,
-                  "max": 3
-                }
-              }
-            }
-          ]
-        },
-        {
-          "weight": 2,
-          "pool": [
-            {
-              "weight": 160,
-              "item": {
-                "id": "the_vault:knowledge_star_essence",
-                "count": {
-                  "type": "uniform",
-                  "min": 2,
-                  "max": 4
-                }
-              }
-            },
-            {
-              "weight": 64,
-              "item": {
-                "id": "the_vault:inscription_piece",
-                "count": {
-                  "type": "uniform",
                   "min": 1,
-                  "max": 1
-                }
+                  "max": 2
+                  }
               }
             },
             {
-              "weight": 60,
-              "item": {
-                "id": "the_vault:mystery_egg",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
+              "weight": 28,
               "item": {
                 "id": "the_vault:living_chest_scroll",
                 "count": {
@@ -189,16 +148,53 @@
                   "max": 1
                 }
               }
+            }
+        ]
+        },
+        { "weight": 2,
+          "pool": [
+            {
+                "weight": 20,
+                "item": {
+                  "id": "the_vault:knowledge_star_essence",
+                  "count": {
+                    "type": "uniform",
+                    "min": 2,
+                    "max": 3
+                    }
+                }
             },
             {
-              "weight": 32,
+              "weight": 8,
+              "item": {
+                "id": "the_vault:inscription_piece",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 3,
+              "item": {
+                "id": "the_vault:mystery_egg",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 1,
               "item": {
                 "id": "the_vault:vault_moss",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             }
           ]

@@ -125,12 +125,30 @@
               {
                 "from": "10-01",
                 "to": "10-31",
-                "weight": 0
+                "weight": 100
               },
               {
                 "from": "10-30",
                 "to": "10-31",
-                "weight": 0
+                "weight": 5000
+              }
+            ]
+          },
+          "the_vault:classic_vault_easter_egg": {
+            "ranges": [
+              {
+                "from": "03-20",
+                "to": "04-30",
+                "weight": 50
+              }
+            ]
+          },
+          "the_vault:classic_vault_easter_pastel": {
+            "ranges": [
+              {
+                "from": "03-20",
+                "to": "04-30",
+                "weight": 50
               }
             ]
           },
@@ -139,12 +157,12 @@
               {
                 "from": "12-01",
                 "to": "12-30",
-                "weight": 0
+                "weight": 100
               },
               {
                 "from": "12-24",
                 "to": "12-26",
-                "weight": 0
+                "weight": 5000
               }
             ]
           }
@@ -268,12 +286,30 @@
               {
                 "from": "10-01",
                 "to": "10-31",
-                "weight": 6
+                "weight": 100
               },
               {
                 "from": "10-30",
                 "to": "10-31",
-                "weight": 12
+                "weight": 5000
+              }
+            ]
+          },
+          "the_vault:classic_vault_easter_egg": {
+            "ranges": [
+              {
+                "from": "03-20",
+                "to": "04-30",
+                "weight": 50
+              }
+            ]
+          },
+          "the_vault:classic_vault_easter_pastel": {
+            "ranges": [
+              {
+                "from": "03-20",
+                "to": "04-30",
+                "weight": 50
               }
             ]
           },
@@ -282,12 +318,12 @@
               {
                 "from": "12-01",
                 "to": "12-30",
-                "weight": 6
+                "weight": 100
               },
               {
                 "from": "12-24",
                 "to": "12-26",
-                "weight": 12
+                "weight": 5000
               }
             ]
           }
@@ -298,7 +334,7 @@
         "pool": [
           {
             "value": "the_vault:classic_vault_sweet",
-            "weight": 10
+            "weight": 0
           },
           {
             "value": "the_vault:classic_vault_ice",
@@ -406,19 +442,15 @@
           },
           {
             "value": "the_vault:classic_vault_easter_egg",
-            "weight": 5
+            "weight": 0
           },
           {
             "value": "the_vault:classic_vault_easter_pastel",
-            "weight": 5
+            "weight": 0
           },
           {
             "value": "the_vault:classic_vault_blood_moon",
             "weight": 10
-          },
-          {
-            "value": "the_vault:classic_vault_flesh",
-            "weight": 0
           },
           {
             "value": "the_vault:classic_vault_blood",
@@ -459,12 +491,30 @@
               {
                 "from": "10-01",
                 "to": "10-31",
-                "weight": 10
+                "weight": 100
               },
               {
                 "from": "10-30",
                 "to": "10-31",
-                "weight": 38
+                "weight": 5000
+              }
+            ]
+          },
+          "the_vault:classic_vault_easter_egg": {
+            "ranges": [
+              {
+                "from": "03-20",
+                "to": "04-30",
+                "weight": 50
+              }
+            ]
+          },
+          "the_vault:classic_vault_easter_pastel": {
+            "ranges": [
+              {
+                "from": "03-20",
+                "to": "04-30",
+                "weight": 50
               }
             ]
           },
@@ -473,12 +523,12 @@
               {
                 "from": "12-01",
                 "to": "12-30",
-                "weight": 10
+                "weight": 100
               },
               {
                 "from": "12-24",
                 "to": "12-26",
-                "weight": 38
+                "weight": 5000
               }
             ]
           }
@@ -489,7 +539,7 @@
         "pool": [
           {
             "value": "the_vault:classic_vault_sweet",
-            "weight": 10
+            "weight": 0
           },
           {
             "value": "the_vault:classic_vault_ice",
@@ -609,19 +659,15 @@
           },
           {
             "value": "the_vault:classic_vault_easter_egg",
-            "weight": 5
+            "weight": 0
           },
           {
             "value": "the_vault:classic_vault_easter_pastel",
-            "weight": 5
+            "weight": 0
           },
           {
             "value": "the_vault:classic_vault_blood_moon",
             "weight": 20
-          },
-          {
-            "value": "the_vault:classic_vault_flesh",
-            "weight": 0
           },
           {
             "value": "the_vault:classic_vault_blood",
@@ -662,12 +708,30 @@
               {
                 "from": "10-01",
                 "to": "10-31",
-                "weight": 56
+                "weight": 100
               },
               {
                 "from": "10-30",
                 "to": "10-31",
-                "weight": 168
+                "weight": 5000
+              }
+            ]
+          },
+          "the_vault:classic_vault_easter_egg": {
+            "ranges": [
+              {
+                "from": "03-20",
+                "to": "04-30",
+                "weight": 50
+              }
+            ]
+          },
+          "the_vault:classic_vault_easter_pastel": {
+            "ranges": [
+              {
+                "from": "03-20",
+                "to": "04-30",
+                "weight": 50
               }
             ]
           },
@@ -676,12 +740,12 @@
               {
                 "from": "12-01",
                 "to": "12-30",
-                "weight": 56
+                "weight": 100
               },
               {
                 "from": "12-24",
                 "to": "12-26",
-                "weight": 168
+                "weight": 5000
               }
             ]
           }
@@ -693,7 +757,7 @@
         "level": 0,
         "pool": [
           {
-            "value": "the_vault:classic_vault_beach",
+            "value": "the_vault:classic_vault_greed_mixed",
             "weight": 1
           }
         ]
@@ -2200,6 +2264,22 @@
         }
       }
     ],
+    "the_vault:crystal_seal_chaos": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "chaos",
+          "objective_probability": 1.0
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_chaos"
+        }
+      }
+    ],
     "the_vault:crystal_seal_vault_royale": [
       {
         "level": 0,
@@ -2227,6 +2307,39 @@
             }
           ],
           "random_modifiers": false
+        }
+      }
+    ],
+    "the_vault:crystal_seal_vessel": [
+      {
+        "level": 0,
+        "exhausted": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "rebirth",
+          "rematch": true
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_greed_trial"
+        },
+        "layout": {
+          "type": "rebirth"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "the_vault:greed_trial",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        },
+        "time": {
+          "type": "infinite"
         }
       }
     ]
@@ -2972,6 +3085,25 @@
           }
         ],
         "randomModifiers": false
+      }
+    ],
+    "the_vault:vessel_effigy": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objectives": [
+          "rebirth"
+        ],
+        "modifiers": [
+          {
+            "modifier": "the_vault:vessel_effigy",
+            "count": 1
+          }
+        ],
+        "randomModifiers": false,
+        "fitsExhaustedCrystals": true
       }
     ]
   }
