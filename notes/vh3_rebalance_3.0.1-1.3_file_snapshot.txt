@@ -1,0 +1,105 @@
+# VH3 Remastered Rebalanced — final v3.0.1 release file snapshot
+# Source: https://github.com/Shadowdane/VH3rd-Remastered-Rebalanced/releases/tag/Rebalance-3.0.1-1.3
+# Tag: Rebalance-3.0.1-1.3
+# Commit: 179a9bbdd322efc45d9c9314c6897d901ec7d829
+# Total tracked files: 96
+# the_vault configuration files: 89
+# gen/1.0/loot_tables files: 45
+# Paths are relative to repository root.
+
+.gitattributes
+LICENSE
+README.md
+VH3rd-Remastered-Rebalanced.code-workspace
+minecraft/config/the_vault/augment.json
+minecraft/config/the_vault/bingo.json
+minecraft/config/the_vault/bounty/rewards.json
+minecraft/config/the_vault/catalyst.json
+minecraft/config/the_vault/challenge/actions.json
+minecraft/config/the_vault/charm.json
+minecraft/config/the_vault/companion_relics.json
+minecraft/config/the_vault/elixir.json
+minecraft/config/the_vault/gear/gear_roll_type_pools.json
+minecraft/config/the_vault/gear_modifiers/jewel.json
+minecraft/config/the_vault/gen/1.0/loot_tables/base_crate_0.json
+minecraft/config/the_vault/gen/1.0/loot_tables/base_crate_20.json
+minecraft/config/the_vault/gen/1.0/loot_tables/base_crate_2_0.json
+minecraft/config/the_vault/gen/1.0/loot_tables/base_crate_2_20.json
+minecraft/config/the_vault/gen/1.0/loot_tables/base_crate_2_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/base_crate_3_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/base_crate_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/brazier_crate_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/cardboard_box.json
+minecraft/config/the_vault/gen/1.0/loot_tables/cardboard_box_dull.json
+minecraft/config/the_vault/gen/1.0/loot_tables/champion_loot_lvl0.json
+minecraft/config/the_vault/gen/1.0/loot_tables/champion_loot_lvl20.json
+minecraft/config/the_vault/gen/1.0/loot_tables/champion_loot_lvl50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/coin_pile_0.json
+minecraft/config/the_vault/gen/1.0/loot_tables/coin_pile_30.json
+minecraft/config/the_vault/gen/1.0/loot_tables/coin_pile_treasure.json
+minecraft/config/the_vault/gen/1.0/loot_tables/dungeon/dungeon_mob.json
+minecraft/config/the_vault/gen/1.0/loot_tables/dungeon/gilded.json
+minecraft/config/the_vault/gen/1.0/loot_tables/dungeon/gilded_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/dungeon/living.json
+minecraft/config/the_vault/gen/1.0/loot_tables/dungeon/living_40.json
+minecraft/config/the_vault/gen/1.0/loot_tables/dungeon/living_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/dungeon/ornate.json
+minecraft/config/the_vault/gen/1.0/loot_tables/dungeon/ornate_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/gilded_chest_0.json
+minecraft/config/the_vault/gen/1.0/loot_tables/gilded_chest_20.json
+minecraft/config/the_vault/gen/1.0/loot_tables/gilded_chest_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/gilded_strongbox_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/living_chest_0.json
+minecraft/config/the_vault/gen/1.0/loot_tables/living_chest_10.json
+minecraft/config/the_vault/gen/1.0/loot_tables/living_chest_20.json
+minecraft/config/the_vault/gen/1.0/loot_tables/living_chest_30.json
+minecraft/config/the_vault/gen/1.0/loot_tables/living_chest_40.json
+minecraft/config/the_vault/gen/1.0/loot_tables/living_strongbox_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/ornate_chest_0.json
+minecraft/config/the_vault/gen/1.0/loot_tables/ornate_chest_20.json
+minecraft/config/the_vault/gen/1.0/loot_tables/ornate_chest_30.json
+minecraft/config/the_vault/gen/1.0/loot_tables/ornate_chest_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/ornate_chest_65.json
+minecraft/config/the_vault/gen/1.0/loot_tables/ornate_strongbox_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/ornate_strongbox_65.json
+minecraft/config/the_vault/gen/1.0/loot_tables/wooden_barrel_50.json
+minecraft/config/the_vault/gen/1.0/loot_tables/wooden_chest_0.json
+minecraft/config/the_vault/gen/1.0/loot_tables/wooden_chest_20.json
+minecraft/config/the_vault/gen/1.0/loot_tables/wooden_chest_30.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/gilded_chest_placeholder.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/living_chest_placeholder.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_blood_moon.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_nether.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_void.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_white.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_blood_moon.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_deepcrag.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_nether.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_sandsworn.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_snowfell.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_void.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ore_placeholder_white.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/ornate_chest_placeholder.json
+minecraft/config/the_vault/gen/1.0/palettes/generic/wooden_chest_placeholder.json
+minecraft/config/the_vault/gen/1.0/template_pools/vault/rooms/chaos_rooms.json
+minecraft/config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms.json
+minecraft/config/the_vault/gen/loot_tables.json
+minecraft/config/the_vault/imbuement_altar.json
+minecraft/config/the_vault/loot_info.json
+minecraft/config/the_vault/mod_box.json
+minecraft/config/the_vault/omega_soul_shard.json
+minecraft/config/the_vault/scavenger.json
+minecraft/config/the_vault/shop_pedestal.json
+minecraft/config/the_vault/soul_shard.json
+minecraft/config/the_vault/trinket.json
+minecraft/config/the_vault/vault_boss.json
+minecraft/config/the_vault/vault_chest_meta.json
+minecraft/config/the_vault/vault_crystal.json
+minecraft/config/the_vault/vault_mobs.json
+minecraft/config/the_vault/vault_recycler.json
+minecraft/config/the_vault/vault_rune_boss.json
+notes/bingo changes.txt
+notes/scavenger changes.txt
+notes/vault_mobs changes.txt
