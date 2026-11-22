@@ -322,21 +322,21 @@
         ]
       }
     ],
-    "common_plus": [
+    "rare_plus": [
       {
         "level": 0,
         "rollTypeOutcomes": [
-          {
-            "value": "Common",
-            "weight": 32
-          },
           {
             "value": "Rare",
             "weight": 12
           },
           {
             "value": "Epic",
-            "weight": 4
+            "weight": 6
+          },
+          {
+            "value": "Omega",
+            "weight": 1
           }
         ]
       }
