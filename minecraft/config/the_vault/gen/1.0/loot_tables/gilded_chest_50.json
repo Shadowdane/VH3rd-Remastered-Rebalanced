@@ -147,7 +147,7 @@
           "weight": 2,
           "pool": [
             {
-              "weight": 148,
+              "weight": 180,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -158,7 +158,7 @@
               }
             },
             {
-              "weight": 74,
+              "weight": 90,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -216,7 +216,7 @@
               }
             },
             {
-              "weight": 56,
+              "weight": 48,
               "item": {
                 "id": "the_vault:magnet",
                 "nbt": {

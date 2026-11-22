@@ -194,7 +194,7 @@
               }
             },
             {
-              "weight": 62,
+              "weight": 50,
               "item": {
                 "id": "the_vault:magnet",
                 "nbt": {
