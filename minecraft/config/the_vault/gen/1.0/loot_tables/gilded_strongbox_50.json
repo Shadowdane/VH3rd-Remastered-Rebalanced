@@ -11,6 +11,17 @@
           "weight": 80,
           "pool": [
             {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:gemstone",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 4
+                }
+              }
+            },
+            {
               "weight": 2,
               "item": {
                 "id": "the_vault:jewel_pouch",
@@ -117,7 +128,7 @@
               }
             },
             {
-              "weight": 12,
+              "weight": 64,
               "item": {
                 "id": "the_vault:gilded_chest_scroll",
                 "count": {
@@ -153,7 +164,7 @@
               }
             },
             {
-              "weight": 10,
+              "weight": 11,
               "item": {
                 "id": "the_vault:trinket",
                 "count": {

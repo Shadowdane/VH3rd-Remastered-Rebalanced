@@ -60,7 +60,7 @@
                 "id": "the_vault:carbon_nugget",
                 "count": {
                   "type": "uniform",
-                  "min": 1,
+                  "min": 2,
                   "max": 3
                 }
               }
@@ -88,7 +88,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 2,
-                  "max": 4
+                  "max": 5
                 }
               }
             }
@@ -136,7 +136,7 @@
               }
             },
             {
-              "weight": 24,
+              "weight": 19,
               "item": {
                 "id": "the_vault:vault_necklace",
                 "count": {

@@ -4,10 +4,13 @@
 			"path": "."
 		},
 		{
-			"path": "../../Minecraft/VaultHunters3/the_vault (vh3 remaster v2.0.4 org config)"
+			"path": "../../Minecraft/VaultHunters3/the_vault (vh3 remaster v3.0.1 org config)"
 		},
 		{
-			"path": "../../Minecraft/VaultHunters3/the_vault (vh3 remaster v3.0.1 org config)"
+			"path": "../../Minecraft/VaultHunters3/the_vault (vh3 remaster v4.0.0 org config)"
+		},
+		{
+			"path": "../../Minecraft/VaultHunters3/VH3-Rebalance-3.0.1-1.3"
 		}
 	],
 	"settings": {}

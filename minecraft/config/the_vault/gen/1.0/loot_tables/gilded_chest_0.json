@@ -87,7 +87,7 @@
           "weight": 800,
           "pool": [
             {
-              "weight": 16,
+              "weight": 36,
               "item": {
                 "id": "the_vault:vault_diamond",
                 "count": {
@@ -98,20 +98,20 @@
               }
             },
             {
-              "weight": 4,
+              "weight": 5,
               "item": {
-                "id": "the_vault:gilded_chest_scroll",
+                "id": "the_vault:gemstone",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 1
+                  "max": 2
                 }
               }
             },
             {
-              "weight": 3,
+              "weight": 8,
               "item": {
-                "id": "the_vault:gemstone",
+                "id": "the_vault:gilded_chest_scroll",
                 "count": {
                   "type": "uniform",
                   "min": 1,
@@ -125,7 +125,18 @@
           "weight": 522,
           "pool": [
             {
-              "weight": 564,
+              "weight": 810,
+              "item": {
+                "id": "the_vault:jewel_pouch",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 405,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -142,7 +153,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 1
+                  "max": 3
                 }
               }
             },

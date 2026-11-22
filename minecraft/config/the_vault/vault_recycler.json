@@ -2,11 +2,11 @@
     "processingTickTime": 20,
     "greedCoinsPerEtchingTier": 0.5,
     "additionalOutputRarityChances": {
-        "SCRAPPY": 0.0,
-        "COMMON": 0.0,
+        "SCRAPPY": 0.01,
+        "COMMON": 0.1,
         "RARE": 0.2,
-        "EPIC": 0.4,
-        "OMEGA": 0.6
+        "EPIC": 0.5,
+        "OMEGA": 0.8
     },
     "recyclingOutput": {
         "the_vault:augment": {
@@ -43,8 +43,8 @@
                 "stack": {
                     "item": "the_vault:inscription_piece"
                 },
-                "minCount": 2,
-                "maxCount": 4
+                "minCount": 3,
+                "maxCount": 6
             },
             "extraOutput1": {
                 "conditionalOutputs": {},
@@ -71,8 +71,8 @@
                 "stack": {
                     "item": "the_vault:vault_scrap"
                 },
-                "minCount": 4,
-                "maxCount": 8
+                "minCount": 8,
+                "maxCount": 10
             },
             "extraOutput1": {
                 "conditionalOutputs": {},
@@ -99,8 +99,8 @@
                 "stack": {
                     "item": "the_vault:silver_scrap"
                 },
-                "minCount": 5,
-                "maxCount": 8
+                "minCount": 7,
+                "maxCount": 10
             },
             "extraOutput1": {
                 "conditionalOutputs": {},
@@ -155,8 +155,8 @@
                 "stack": {
                     "item": "the_vault:vault_scrap"
                 },
-                "minCount": 4,
-                "maxCount": 8
+                "minCount": 6,
+                "maxCount": 10
             },
             "extraOutput1": {
                 "conditionalOutputs": [
@@ -176,16 +176,16 @@
                         }
                     ]
                 ],
-                "chance": 0.2,
+                "chance": 0.45,
                 "stack": {
                     "item": "minecraft:netherite_scrap"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 2
             },
             "extraOutput2": {
                 "conditionalOutputs": {},
-                "chance": 0.0,
+                "chance": 0.15,
                 "stack": {
                     "item": "the_vault:faceted_focus"
                 },
@@ -199,8 +199,8 @@
                 "stack": {
                     "item": "the_vault:vault_catalyst_fragment"
                 },
-                "minCount": 4,
-                "maxCount": 6
+                "minCount": 6,
+                "maxCount": 8
             },
             "extraOutput1": {
                 "conditionalOutputs": {},
@@ -227,8 +227,8 @@
                 "stack": {
                     "item": "the_vault:vault_scrap"
                 },
-                "minCount": 4,
-                "maxCount": 8
+                "minCount": 6,
+                "maxCount": 10
             },
             "extraOutput1": {
                 "conditionalOutputs": [
@@ -248,21 +248,21 @@
                         }
                     ]
                 ],
-                "chance": 0.2,
+                "chance": 0.45,
                 "stack": {
                     "item": "minecraft:netherite_scrap"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 2
             },
             "extraOutput2": {
                 "conditionalOutputs": {},
-                "chance": 0.0,
+                "chance": 0.15,
                 "stack": {
                     "item": "the_vault:faceted_focus"
                 },
-                "minCount": 0,
-                "maxCount": 0
+                "minCount": 1,
+                "maxCount": 1
             }
         }
     }

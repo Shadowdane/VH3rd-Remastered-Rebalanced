@@ -301,6 +301,11 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/wooden_chest_30.json"
     },
     {
+      "id": "the_vault:wooden_barrel_lvl50",
+      "name": "Wooden Barrel lvl50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/wooden_barrel_50.json"
+    },
+    {
       "id": "the_vault:boss_ornate",
       "name": "Herald's Ornate",
       "1.0": "config/the_vault/gen/1.0/loot_tables/boss_ornate.json"

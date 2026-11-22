@@ -126,10 +126,10 @@
                     "value": {
                         "item": {
                             "ITEM": "the_vault:jewel_pouch",
-                            "AMOUNT": 1
+                            "AMOUNT": 2
                         },
-                        "minPrice": 1200,
-                        "maxPrice": 2400
+                        "minPrice": 1400,
+                        "maxPrice": 2600
                     },
                     "weight": 20
                 },
@@ -332,7 +332,7 @@
                 {
                     "value": {
                         "item": {
-                            "ITEM": "the_vault:crystal_seal_chaos",
+                            "ITEM": "the_vault:vault_catalyst_chaos",
                             "AMOUNT": 1,
                             "NBT": "{}"
                         },
@@ -345,10 +345,10 @@
                     "value": {
                         "item": {
                             "ITEM": "the_vault:jewel_pouch",
-                            "AMOUNT": 1
+                            "AMOUNT": 2
                         },
-                        "minPrice": 1600,
-                        "maxPrice": 3200
+                        "minPrice": 1800,
+                        "maxPrice": 3400
                     },
                     "weight": 24
                 },
@@ -695,7 +695,7 @@
                 {
                     "value": {
                         "item": {
-                            "ITEM": "the_vault:crystal_seal_chaos",
+                            "ITEM": "the_vault:vault_catalyst_chaos",
                             "AMOUNT": 1,
                             "NBT": "{}"
                         },
@@ -708,10 +708,10 @@
                     "value": {
                         "item": {
                             "ITEM": "the_vault:jewel_pouch",
-                            "AMOUNT": 1
+                            "AMOUNT": 3
                         },
-                        "minPrice": 1600,
-                        "maxPrice": 3200
+                        "minPrice": 1800,
+                        "maxPrice": 3400
                     },
                     "weight": 20
                 },
@@ -1178,7 +1178,7 @@
                 {
                     "value": {
                         "item": {
-                            "ITEM": "the_vault:crystal_seal_chaos",
+                            "ITEM": "the_vault:vault_catalyst_chaos",
                             "AMOUNT": 1,
                             "NBT": "{}"
                         },
@@ -1191,10 +1191,10 @@
                     "value": {
                         "item": {
                             "ITEM": "the_vault:jewel_pouch",
-                            "AMOUNT": 1
+                            "AMOUNT": 4
                         },
-                        "minPrice": 1600,
-                        "maxPrice": 3200
+                        "minPrice": 2000,
+                        "maxPrice": 3600
                     },
                     "weight": 20
                 },
@@ -1513,6 +1513,17 @@
                     "maxPrice": 12000
                 },
                 "weight": 10
+            },
+			{
+				"value": {
+					"item": {
+						"ITEM": "the_vault:jewel_pouch",
+						"AMOUNT": 5
+					},
+					"minPrice": 3000,
+					"maxPrice": 6500
+				},
+				"weight": 15
             },
             {
                 "value": {
