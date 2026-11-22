@@ -117,7 +117,7 @@
           ]
         },
         {
-          "weight": 80,
+          "weight": 84,
           "pool": [
             {
               "weight": 10,
@@ -153,7 +153,7 @@
               }
             },
             {
-              "weight": 60,
+              "weight": 58,
               "item": {
                 "id": "the_vault:wooden_chest_scroll",
                 "count": {
@@ -166,10 +166,10 @@
           ]
         },
         {
-          "weight": 3,
+          "weight": 4,
           "pool": [
             {
-              "weight": 10,
+              "weight": 3,
               "item": {
                 "id": "the_vault:mod_box",
                 "count": {
