@@ -76,12 +76,12 @@
             },
             "extraOutput1": {
                 "conditionalOutputs": {},
-                "chance": 0.0,
+                "chance": 0.05,
                 "stack": {
                     "item": "minecraft:netherite_scrap"
                 },
                 "minCount": 1,
-                "maxCount": 1
+                "maxCount": 3
             },
             "extraOutput2": {
                 "conditionalOutputs": {},
@@ -176,16 +176,16 @@
                         }
                     ]
                 ],
-                "chance": 0.45,
+                "chance": 0.05,
                 "stack": {
                     "item": "minecraft:netherite_scrap"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 3
             },
             "extraOutput2": {
                 "conditionalOutputs": {},
-                "chance": 0.15,
+                "chance": 0.025,
                 "stack": {
                     "item": "the_vault:faceted_focus"
                 },
@@ -248,16 +248,16 @@
                         }
                     ]
                 ],
-                "chance": 0.45,
+                "chance": 0.05,
                 "stack": {
                     "item": "minecraft:netherite_scrap"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 3
             },
             "extraOutput2": {
                 "conditionalOutputs": {},
-                "chance": 0.15,
+                "chance": 0.025,
                 "stack": {
                     "item": "the_vault:faceted_focus"
                 },
