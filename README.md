@@ -10,10 +10,11 @@ Integrated the previous v3.0.1 rebalance changes into the updated v4.0.1 modpack
 
 ## Vault Recycler
 
-The stock v4 modpack removed the drop chance for Netherite Scrap & Faceted Focus from the Vault Recycler.  The Rebalanced config retained the drop chance, but kept it a very rare bonus drop.
+The stock v4 modpack removed the drop chance for Netherite Scrap & Faceted Focus from the Vault Recycler.  The Rebalanced config restores the bonus drop chance for both with adjusted rates based on gear rarity. Higher-rarity gear has a greater chance of receiving bonus rewards, with Omega gear having the highest chance.
 
-- Netherite Scrap has a 5% drop chance from Magnets, Vault God Charms and Vault Gear
-- Faceted Focus has a 2.5% drop chance from Non-Legendary Vault Gear
+- Netherite Scrap: 0.005% to 0.4% drop chance
+- Faceted Focus (Non-Legendary Gear): 0.25% to 60% drop chance
+- Faceted Focus (Legendary Gear): 1% to 80% drop chance
 
 ## Champions Loot Table
 
