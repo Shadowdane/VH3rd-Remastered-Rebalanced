@@ -4,7 +4,7 @@
     "additionalOutputRarityChances": {
         "SCRAPPY": 0.01,
         "COMMON": 0.1,
-        "RARE": 0.2,
+        "RARE": 0.25,
         "EPIC": 0.5,
         "OMEGA": 0.8
     },
@@ -71,17 +71,17 @@
                 "stack": {
                     "item": "the_vault:vault_scrap"
                 },
-                "minCount": 8,
-                "maxCount": 10
+                "minCount": 7,
+                "maxCount": 12
             },
             "extraOutput1": {
                 "conditionalOutputs": {},
-                "chance": 0.05,
+                "chance": 0.005,
                 "stack": {
                     "item": "minecraft:netherite_scrap"
                 },
                 "minCount": 1,
-                "maxCount": 3
+                "maxCount": 1
             },
             "extraOutput2": {
                 "conditionalOutputs": {},
@@ -100,7 +100,7 @@
                     "item": "the_vault:silver_scrap"
                 },
                 "minCount": 7,
-                "maxCount": 10
+                "maxCount": 12
             },
             "extraOutput1": {
                 "conditionalOutputs": {},
@@ -155,8 +155,8 @@
                 "stack": {
                     "item": "the_vault:vault_scrap"
                 },
-                "minCount": 6,
-                "maxCount": 10
+                "minCount": 7,
+                "maxCount": 12
             },
             "extraOutput1": {
                 "conditionalOutputs": [
@@ -176,16 +176,32 @@
                         }
                     ]
                 ],
-                "chance": 0.05,
+                "chance": 0.005,
                 "stack": {
                     "item": "minecraft:netherite_scrap"
                 },
                 "minCount": 1,
-                "maxCount": 3
+                "maxCount": 1
             },
             "extraOutput2": {
-                "conditionalOutputs": {},
-                "chance": 0.025,
+                "conditionalOutputs": [
+                    [
+                        {
+                            "rarity": "OMEGA",
+                            "isCrafted": null,
+                            "isLegendary": null
+                        },
+                        {
+                            "chance": 0.75,
+                            "stack": {
+                                "item": "the_vault:faceted_focus"
+                            },
+                            "minCount": 1,
+                            "maxCount": 1
+                        }
+                    ]
+                ],
+                "chance": 0.25,
                 "stack": {
                     "item": "the_vault:faceted_focus"
                 },
@@ -199,8 +215,8 @@
                 "stack": {
                     "item": "the_vault:vault_catalyst_fragment"
                 },
-                "minCount": 6,
-                "maxCount": 8
+                "minCount": 7,
+                "maxCount": 9
             },
             "extraOutput1": {
                 "conditionalOutputs": {},
@@ -227,8 +243,8 @@
                 "stack": {
                     "item": "the_vault:vault_scrap"
                 },
-                "minCount": 6,
-                "maxCount": 10
+                "minCount": 7,
+                "maxCount": 12
             },
             "extraOutput1": {
                 "conditionalOutputs": [
@@ -248,16 +264,32 @@
                         }
                     ]
                 ],
-                "chance": 0.05,
+                "chance": 0.005,
                 "stack": {
                     "item": "minecraft:netherite_scrap"
                 },
                 "minCount": 1,
-                "maxCount": 3
+                "maxCount": 1
             },
             "extraOutput2": {
-                "conditionalOutputs": {},
-                "chance": 0.025,
+                "conditionalOutputs": [
+                    [
+                        {
+                            "rarity": "OMEGA",
+                            "isCrafted": null,
+                            "isLegendary": null
+                        },
+                        {
+                            "chance": 0.75,
+                            "stack": {
+                                "item": "the_vault:faceted_focus"
+                            },
+                            "minCount": 1,
+                            "maxCount": 1
+                        }
+                    ]
+                ],
+                "chance": 0.25,
                 "stack": {
                     "item": "the_vault:faceted_focus"
                 },

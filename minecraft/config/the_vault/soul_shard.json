@@ -71,7 +71,7 @@
                             "AMOUNT": 1
                         },
                         "minPrice": 1200,
-                        "maxPrice": 3200
+                        "maxPrice": 3000
                     },
                     "weight": 20
                 },
@@ -519,8 +519,8 @@
                             "ITEM": "the_vault:jewel_pouch",
                             "AMOUNT": 1
                         },
-                        "minPrice": 1600,
-                        "maxPrice": 3200
+                        "minPrice": 1200,
+                        "maxPrice": 3000
                     },
                     "weight": 32
                 },
@@ -930,11 +930,11 @@
                     "value": {
                         "item": {
                             "ITEM": "the_vault:mod_box",
-                            "AMOUNT": 1,
+                            "AMOUNT": 2,
                             "NBT": "{}"
                         },
-                        "minPrice": 1200,
-                        "maxPrice": 2400
+                        "minPrice": 2200,
+                        "maxPrice": 4800
                     },
                     "weight": 32
                 },
@@ -1100,8 +1100,8 @@
                             "ITEM": "the_vault:jewel_pouch",
                             "AMOUNT": 2
                         },
-                        "minPrice": 1400,
-                        "maxPrice": 3400
+                        "minPrice": 2400,
+                        "maxPrice": 6000
                     },
                     "weight": 48
                 },
@@ -1619,11 +1619,11 @@
                     "value": {
                         "item": {
                             "ITEM": "the_vault:mod_box",
-                            "AMOUNT": 1,
+                            "AMOUNT": 3,
                             "NBT": "{}"
                         },
-                        "minPrice": 1200,
-                        "maxPrice": 2400
+                        "minPrice": 5400,
+                        "maxPrice": 9800
                     },
                     "weight": 32
                 },
@@ -1813,8 +1813,8 @@
                             "ITEM": "the_vault:jewel_pouch",
                             "AMOUNT": 3
                         },
-                        "minPrice": 1400,
-                        "maxPrice": 3400
+                        "minPrice": 3600,
+                        "maxPrice": 8400
                     },
                     "weight": 40
                 },
