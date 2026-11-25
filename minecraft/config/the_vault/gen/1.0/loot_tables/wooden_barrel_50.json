@@ -91,6 +91,17 @@
                   "max": 1
                 }
               }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:wooden_chest_scroll",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
             }
           ]
         },
@@ -98,7 +109,7 @@
           "weight": 8,
           "pool": [
             {
-              "weight": 10,
+              "weight": 8,
               "item": {
                 "id": "the_vault:vault_essence",
                 "count": {
@@ -125,18 +136,7 @@
           "weight": 2,
           "pool": [
             {
-              "weight": 1,
-              "item": {
-                "id": "the_vault:wooden_chest_scroll",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 16,
+              "weight": 7,
               "item": {
                 "id": "the_vault:mod_box",
                 "count": {
@@ -147,7 +147,7 @@
               }
             },
             {
-              "weight": 24,
+              "weight": 14,
               "item": {
                 "id": "the_vault:chromatic_steel_ingot",
                 "count": {

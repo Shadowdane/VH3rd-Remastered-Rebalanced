@@ -511,7 +511,7 @@
     "frozen_heart": {
       "type": "floating_item_reward",
       "textColor": -1213660,
-      "name": "Echoflare",
+      "name": "Frozen Heart",
       "item": {
         "id": "the_vault:jewel",
         "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:frozen_heart\",\"the_vault:gear_roll_type\":\"Unique\"}",
@@ -640,18 +640,6 @@
       "color1": "0xFFED7B24",
       "color2": "0xFFe2a631"
     },
-    "pax": {
-      "type": "floating_item_reward",
-      "textColor": -1213660,
-      "name": "Pax Jewel",
-      "item": {
-        "id": "the_vault:jewel",
-        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:pax\",\"the_vault:gear_roll_type\":\"Unique\"}",
-        "count": 1
-      },
-      "color1": "0xFFED7B24",
-      "color2": "0xFFe2a631"
-    },
     "baguette": {
       "type": "floating_item_reward",
       "textColor": -1213660,
@@ -671,6 +659,42 @@
       "item": {
         "id": "the_vault:sword",
         "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:iskallibur\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+    "tempest_blade": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Tempest Blade",
+      "item": {
+        "id": "the_vault:sword",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:tempest_blade\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+    "sweetheart": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "The Sweetheart",
+      "item": {
+        "id": "the_vault:chestplate",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:sweetheart\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+    "crystal_double_blade": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Crystal Double Blade",
+      "item": {
+        "id": "the_vault:sword",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:crystal_double_blade\",\"the_vault:gear_roll_type\":\"Unique\"}",
         "count": 1
       },
       "color1": "0xFFED7B24",
@@ -719,18 +743,6 @@
       "item": {
         "id": "the_vault:boots",
         "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:pacifist_sandals\",\"the_vault:gear_roll_type\":\"Unique\"}",
-        "count": 1
-      },
-      "color1": "0xFFED7B24",
-      "color2": "0xFFe2a631"
-    },
-    "kaleidoscope": {
-      "type": "floating_item_reward",
-      "textColor": -1213660,
-      "name": "Kaleidoscope Jewel",
-      "item": {
-        "id": "the_vault:jewel",
-        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:kaleidoscope\",\"the_vault:gear_roll_type\":\"Unique\"}",
         "count": 1
       },
       "color1": "0xFFED7B24",
@@ -910,7 +922,8 @@
         "id": "the_vault:healer",
         "Tags": [
           "no_champion",
-          "ethereal_immune"
+          "ethereal_immune",
+          "soul_shards"
         ],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
@@ -1648,42 +1661,6 @@
               "weight": 8
             },
             {
-              "value": "castle_chestplate",
-              "weight": 7
-            },
-            {
-              "value": "warbound_helmet",
-              "weight": 7
-            },
-            {
-              "value": "inferno_reach",
-              "weight": 7
-            },
-            {
-              "value": "frozen_orb",
-              "weight": 7
-            },
-            {
-              "value": "grim_shield",
-              "weight": 7
-            },
-            {
-              "value": "swarmwalkers",
-              "weight": 7
-            },
-            {
-              "value": "starforge",
-              "weight": 7
-            },
-            {
-              "value": "stormcrown",
-              "weight": 7
-            },
-            {
-              "value": "inflated_justice",
-              "weight": 7
-            },
-            {
               "value": "raid_rock",
               "weight": 30
             }
@@ -1825,42 +1802,6 @@
               "weight": 8
             },
             {
-              "value": "castle_chestplate",
-              "weight": 7
-            },
-            {
-              "value": "warbound_helmet",
-              "weight": 7
-            },
-            {
-              "value": "inferno_reach",
-              "weight": 7
-            },
-            {
-              "value": "frozen_orb",
-              "weight": 7
-            },
-            {
-              "value": "grim_shield",
-              "weight": 7
-            },
-            {
-              "value": "swarmwalkers",
-              "weight": 7
-            },
-            {
-              "value": "starforge",
-              "weight": 7
-            },
-            {
-              "value": "stormcrown",
-              "weight": 7
-            },
-            {
-              "value": "inflated_justice",
-              "weight": 7
-            },
-            {
               "value": "raid_rock",
               "weight": 30
             }
@@ -1911,10 +1852,6 @@
               "weight": 26
             },
             {
-              "value": "manabloom",
-              "weight": 7
-            },
-            {
               "value": "iskallibur",
               "weight": 7
             },
@@ -1924,6 +1861,10 @@
             },
             {
               "value": "ivy",
+              "weight": 7
+            },
+            {
+              "value": "crystal_double_blade",
               "weight": 7
             }
           ]
@@ -1968,10 +1909,6 @@
               "weight": 26
             },
             {
-              "value": "manabloom",
-              "weight": 7
-            },
-            {
               "value": "iskallibur",
               "weight": 7
             },
@@ -1981,6 +1918,10 @@
             },
             {
               "value": "ivy",
+              "weight": 7
+            },
+            {
+              "value": "crystal_double_blade",
               "weight": 7
             }
           ]
@@ -2016,38 +1957,94 @@
             {
               "value": "empowered_chaotic_focus",
               "weight": 50
-            },
+            }
+          ]
+        }
+      ]
+    },
+    "lab_uniques": {
+      "type": "pool",
+      "levels": [
+        {
+          "level": 0,
+          "pool": [
             {
               "value": "pestilence_wall",
-              "weight": 7
+              "weight": 4
             },
             {
               "value": "jester",
-              "weight": 7
+              "weight": 4
             },
             {
               "value": "crystalplate",
-              "weight": 7
+              "weight": 4
             },
             {
               "value": "crashguards",
-              "weight": 7
+              "weight": 4
             },
             {
               "value": "chainlash",
-              "weight": 7
+              "weight": 4
             },
             {
               "value": "pacifist_sandals",
-              "weight": 7
+              "weight": 4
             },
             {
-              "value": "kaleidoscope",
-              "weight": 14
+              "value": "tempest_blade",
+              "weight": 4
             },
             {
               "value": "baguette",
-              "weight": 21
+              "weight": 4
+            }
+          ]
+        }
+      ]
+    },
+    "raid_uniques": {
+      "type": "pool",
+      "levels": [
+        {
+          "level": 0,
+          "pool": [
+            {
+              "value": "castle_chestplate",
+              "weight": 1
+            },
+            {
+              "value": "warbound_helmet",
+              "weight": 1
+            },
+            {
+              "value": "inferno_reach",
+              "weight": 1
+            },
+            {
+              "value": "frozen_orb",
+              "weight": 1
+            },
+            {
+              "value": "grim_shield",
+              "weight": 1
+            },
+            {
+              "value": "starforge",
+              "weight": 1
+            },
+            {
+              "value": "swarmwalkers",
+              "weight": 1
+            },
+            {
+              "value": "stormcrown",
+              "weight": 1
+            },
+            {
+              "value": "inflated_justice",
+              "weight": 1
             }
           ]
         }
@@ -2090,6 +2087,10 @@
             {
               "value": "broodmother",
               "weight": 7
+            },
+            {
+              "value": "sweetheart",
+              "weight": 7
             }
           ]
         },
@@ -2126,6 +2127,10 @@
             },
             {
               "value": "broodmother",
+              "weight": 7
+            },
+            {
+              "value": "sweetheart",
               "weight": 7
             }
           ]

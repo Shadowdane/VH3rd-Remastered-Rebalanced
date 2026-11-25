@@ -460,27 +460,6 @@
           },
           {
             "type": "kill_entity",
-            "filter": "@the_vault:mob_type/champion",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 1,
-                "max": 2
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Kill Champion",
-              "icon": "the_vault:textures/gui/bingo/killchampion.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "kill_entity",
             "filter": "@the_vault:mob_type/dungeon_boss",
             "counter": {
               "type": "target",
@@ -694,32 +673,6 @@
               }
             ],
             "weight": 100.0
-          },
-          {
-            "type": "take_no_damage",
-            "children": [
-              {
-                "type": "kill_entity",
-                "filter": "@the_vault:mob_type/champion",
-                "counter": {
-                  "type": "target",
-                  "target": {
-                    "type": "uniform",
-                    "min": 2,
-                    "max": 2
-                  },
-                  "variables": {
-                    "targetPlayerContribution": 0.25
-                  }
-                },
-                "renderer": {
-                  "type": "bingo",
-                  "name": "Flawlessly Kill Champions",
-                  "icon": "the_vault:textures/gui/bingo/nodamagechampion.png"
-                }
-              }
-            ],
-            "weight": 20.0
           },
           {
             "type": "take_no_damage",
@@ -2235,7 +2188,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -2266,7 +2218,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -4685,7 +4636,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -4716,7 +4666,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -7135,7 +7084,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -7166,7 +7114,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -7812,27 +7759,6 @@
           },
           {
             "type": "kill_entity",
-            "filter": "@the_vault:mob_type/champion",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 1,
-                "max": 3
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Kill Champion",
-              "icon": "the_vault:textures/gui/bingo/killchampion.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "kill_entity",
             "filter": "@the_vault:mob_type/dungeon_boss",
             "counter": {
               "type": "target",
@@ -8046,32 +7972,6 @@
               }
             ],
             "weight": 100.0
-          },
-          {
-            "type": "take_no_damage",
-            "children": [
-              {
-                "type": "kill_entity",
-                "filter": "@the_vault:mob_type/champion",
-                "counter": {
-                  "type": "target",
-                  "target": {
-                    "type": "uniform",
-                    "min": 2,
-                    "max": 2
-                  },
-                  "variables": {
-                    "targetPlayerContribution": 0.25
-                  }
-                },
-                "renderer": {
-                  "type": "bingo",
-                  "name": "Flawlessly Kill Champions",
-                  "icon": "the_vault:textures/gui/bingo/nodamagechampion.png"
-                }
-              }
-            ],
-            "weight": 50.0
           },
           {
             "type": "take_no_damage",
@@ -9587,7 +9487,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -9618,7 +9517,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -12037,7 +11935,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -12068,7 +11965,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -14487,7 +14383,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -14518,7 +14413,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -15164,27 +15058,6 @@
           },
           {
             "type": "kill_entity",
-            "filter": "@the_vault:mob_type/champion",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 2,
-                "max": 4
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Kill Champion",
-              "icon": "the_vault:textures/gui/bingo/killchampion.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "kill_entity",
             "filter": "@the_vault:mob_type/dungeon_boss",
             "counter": {
               "type": "target",
@@ -15394,32 +15267,6 @@
                   "type": "bingo",
                   "name": "Flawlessly Mine Ores",
                   "icon": "the_vault:textures/gui/bingo/nodamageores.png"
-                }
-              }
-            ],
-            "weight": 100.0
-          },
-          {
-            "type": "take_no_damage",
-            "children": [
-              {
-                "type": "kill_entity",
-                "filter": "@the_vault:mob_type/champion",
-                "counter": {
-                  "type": "target",
-                  "target": {
-                    "type": "uniform",
-                    "min": 2,
-                    "max": 2
-                  },
-                  "variables": {
-                    "targetPlayerContribution": 0.25
-                  }
-                },
-                "renderer": {
-                  "type": "bingo",
-                  "name": "Flawlessly Kill Champions",
-                  "icon": "the_vault:textures/gui/bingo/nodamagechampion.png"
                 }
               }
             ],
@@ -16939,7 +16786,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -16970,7 +16816,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -19389,7 +19234,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -19420,7 +19264,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -21839,7 +21682,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -21870,7 +21712,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -22516,27 +22357,6 @@
           },
           {
             "type": "kill_entity",
-            "filter": "@the_vault:mob_type/champion",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 3,
-                "max": 5
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Kill Champion",
-              "icon": "the_vault:textures/gui/bingo/killchampion.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "kill_entity",
             "filter": "@the_vault:mob_type/dungeon_boss",
             "counter": {
               "type": "target",
@@ -22746,32 +22566,6 @@
                   "type": "bingo",
                   "name": "Flawlessly Mine Ores",
                   "icon": "the_vault:textures/gui/bingo/nodamageores.png"
-                }
-              }
-            ],
-            "weight": 100.0
-          },
-          {
-            "type": "take_no_damage",
-            "children": [
-              {
-                "type": "kill_entity",
-                "filter": "@the_vault:mob_type/champion",
-                "counter": {
-                  "type": "target",
-                  "target": {
-                    "type": "uniform",
-                    "min": 3,
-                    "max": 3
-                  },
-                  "variables": {
-                    "targetPlayerContribution": 0.25
-                  }
-                },
-                "renderer": {
-                  "type": "bingo",
-                  "name": "Flawlessly Kill Champions",
-                  "icon": "the_vault:textures/gui/bingo/nodamagechampion.png"
                 }
               }
             ],
@@ -24291,7 +24085,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -24322,7 +24115,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -26741,7 +26533,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -26772,7 +26563,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -29191,7 +28981,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -29222,7 +29011,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -29868,27 +29656,6 @@
           },
           {
             "type": "kill_entity",
-            "filter": "@the_vault:mob_type/champion",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 4,
-                "max": 8
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Kill Champion",
-              "icon": "the_vault:textures/gui/bingo/killchampion.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "kill_entity",
             "filter": "@the_vault:mob_type/dungeon_boss",
             "counter": {
               "type": "target",
@@ -30098,32 +29865,6 @@
                   "type": "bingo",
                   "name": "Flawlessly Mine Ores",
                   "icon": "the_vault:textures/gui/bingo/nodamageores.png"
-                }
-              }
-            ],
-            "weight": 100.0
-          },
-          {
-            "type": "take_no_damage",
-            "children": [
-              {
-                "type": "kill_entity",
-                "filter": "@the_vault:mob_type/champion",
-                "counter": {
-                  "type": "target",
-                  "target": {
-                    "type": "uniform",
-                    "min": 4,
-                    "max": 5
-                  },
-                  "variables": {
-                    "targetPlayerContribution": 0.25
-                  }
-                },
-                "renderer": {
-                  "type": "bingo",
-                  "name": "Flawlessly Kill Champions",
-                  "icon": "the_vault:textures/gui/bingo/nodamagechampion.png"
                 }
               }
             ],
@@ -31643,7 +31384,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -31674,7 +31414,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -34093,7 +33832,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -34124,7 +33862,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -36543,7 +36280,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -36574,7 +36310,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -37220,27 +36955,6 @@
           },
           {
             "type": "kill_entity",
-            "filter": "@the_vault:mob_type/champion",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 6,
-                "max": 12
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Kill Champion",
-              "icon": "the_vault:textures/gui/bingo/killchampion.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "kill_entity",
             "filter": "@the_vault:mob_type/dungeon_boss",
             "counter": {
               "type": "target",
@@ -37450,32 +37164,6 @@
                   "type": "bingo",
                   "name": "Flawlessly Mine Ores",
                   "icon": "the_vault:textures/gui/bingo/nodamageores.png"
-                }
-              }
-            ],
-            "weight": 100.0
-          },
-          {
-            "type": "take_no_damage",
-            "children": [
-              {
-                "type": "kill_entity",
-                "filter": "@the_vault:mob_type/champion",
-                "counter": {
-                  "type": "target",
-                  "target": {
-                    "type": "uniform",
-                    "min": 5,
-                    "max": 6
-                  },
-                  "variables": {
-                    "targetPlayerContribution": 0.25
-                  }
-                },
-                "renderer": {
-                  "type": "bingo",
-                  "name": "Flawlessly Kill Champions",
-                  "icon": "the_vault:textures/gui/bingo/nodamagechampion.png"
                 }
               }
             ],
@@ -38995,7 +38683,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -39026,7 +38713,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -41445,7 +41131,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -41476,7 +41161,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"
@@ -43895,7 +43579,6 @@
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/vendor1",
-              "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
               "the_vault:vault/rooms/omega/pixel1",
               "the_vault:vault/rooms/omega/warehouse"
@@ -43926,7 +43609,6 @@
                 "the_vault:vault/rooms/omega/mine2",
                 "the_vault:vault/rooms/omega/painting1",
                 "the_vault:vault/rooms/omega/vendor1",
-                "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
                 "the_vault:vault/rooms/omega/pixel1",
                 "the_vault:vault/rooms/omega/warehouse"

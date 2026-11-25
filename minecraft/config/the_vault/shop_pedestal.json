@@ -852,17 +852,6 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:lost_bounty"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 24,
-            "MAX_COST": 44
-          },
-          "weight": 26
-        },
-        {
-          "value": {
-            "OFFER": {
               "item": "the_vault:capstone_dungeon_hunter"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -1349,17 +1338,6 @@
             "MAX_COST": 12
           },
           "weight": 86
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:lost_bounty"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 48
-          },
-          "weight": 27
         },
         {
           "value": {

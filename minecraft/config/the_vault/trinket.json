@@ -3,7 +3,7 @@
     "the_vault:carapace": {
       "weight": 10,
       "name": "Carapace",
-      "effectText": "Grants Immunity to all negative effects except Time Acceleration",
+      "effectText": "Grants immunity to fire and to harmful effects, except Time Acceleration, Bleed and Levitation",
       "color": 3304444,
       "minCraftedUses": 15,
       "maxCraftedUses": 15,
@@ -196,7 +196,7 @@
     "the_vault:gluttony_pendant": {
       "weight": 10,
       "name": "Gluttony Pendant",
-      "effectText": "Grants instant eating, and potion consuming speed.",
+      "effectText": "Grants instant eating and 2 more Vault Potion charges.",
       "color": 3304444,
       "minCraftedUses": 15,
       "maxCraftedUses": 15,
@@ -369,14 +369,14 @@
     "the_vault:healing_salve": {
       "weight": 10,
       "name": "Healing Salve",
-      "effectText": "Extra 50% healing efficiency",
+      "effectText": "50% more healing from every source, on top of your Healing Efficiency",
       "color": 16534066,
       "minCraftedUses": 15,
       "maxCraftedUses": 15,
       "minUses": 20,
       "maxUses": 30,
       "config": {
-        "key": "the_vault:healing_effectiveness",
+        "key": "the_vault:healing_effectiveness_percentile",
         "value": 0.5,
         "curiosSlot": "red_trinket"
       }

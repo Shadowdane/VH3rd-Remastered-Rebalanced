@@ -60,7 +60,7 @@
                 "id": "the_vault:carbon_nugget",
                 "count": {
                   "type": "uniform",
-                  "min": 1,
+                  "min": 2,
                   "max": 3
                 }
               }
@@ -88,7 +88,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 2,
-                  "max": 4
+                  "max": 5
                 }
               }
             }
@@ -118,6 +118,17 @@
                   "max": 1
                 }
               }
+            },
+            {
+              "weight": 4,
+              "item": {
+                "id": "the_vault:ornate_chest_scroll",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
             }
           ]
         },
@@ -136,20 +147,9 @@
               }
             },
             {
-              "weight": 13,
+              "weight": 14,
               "item": {
                 "id": "the_vault:fundamental_focus",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 17,
-              "item": {
-                "id": "the_vault:ornate_chest_scroll",
                 "count": {
                   "type": "uniform",
                   "min": 1,

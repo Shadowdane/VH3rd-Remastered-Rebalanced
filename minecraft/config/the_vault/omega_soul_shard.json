@@ -172,18 +172,6 @@
                 {
                     "value": {
                         "item": {
-                            "ITEM": "the_vault:bounty_pearl",
-                            "AMOUNT": 5,
-                            "NBT": "{}"
-                        },
-                        "minPrice": 1000,
-                        "maxPrice": 1800
-                    },
-                    "weight": 16
-                },
-                {
-                    "value": {
-                        "item": {
                             "ITEM": "the_vault:bitter_lemon",
                             "AMOUNT": 1,
                             "NBT": "{}"
@@ -483,18 +471,6 @@
                         "maxPrice": 6000
                     },
                     "weight": 2
-                },
-                {
-                    "value": {
-                        "item": {
-                            "ITEM": "the_vault:bounty_pearl",
-                            "AMOUNT": 5,
-                            "NBT": "{}"
-                        },
-                        "minPrice": 1000,
-                        "maxPrice": 1800
-                    },
-                    "weight": 20
                 },
                 {
                     "value": {
@@ -858,18 +834,6 @@
                         "maxPrice": 6000
                     },
                     "weight": 2
-                },
-                {
-                    "value": {
-                        "item": {
-                            "ITEM": "the_vault:bounty_pearl",
-                            "AMOUNT": 5,
-                            "NBT": "{}"
-                        },
-                        "minPrice": 1000,
-                        "maxPrice": 1800
-                    },
-                    "weight": 20
                 },
                 {
                     "value": {
@@ -1353,18 +1317,6 @@
                         "maxPrice": 6000
                     },
                     "weight": 2
-                },
-                {
-                    "value": {
-                        "item": {
-                            "ITEM": "the_vault:bounty_pearl",
-                            "AMOUNT": 5,
-                            "NBT": "{}"
-                        },
-                        "minPrice": 1000,
-                        "maxPrice": 1800
-                    },
-                    "weight": 20
                 },
                 {
                     "value": {
