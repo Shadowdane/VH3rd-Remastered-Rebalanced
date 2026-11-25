@@ -32,10 +32,11 @@ Items with smaller changes are not listed, as their expected drop rates remain m
 - Drift Wood: 15% increase
 - Vault Plating: 24% increase
 - Vault Essence: 14% increase
+- Silver Scrap: 14% increase
 - Magic Silk: 19% increase
 - Carbon Nugget: 19% increase
 - Shulker Shell: 31% decrease
-- Mod Box: 49% increase
+- Mod Box: 42% increase
 
 ### Wooden Barrel (Level 50+ ~0.78% chance, or about ~1 in 128 Wooden Chests can spawn as a Wooden Barrel)
 
