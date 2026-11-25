@@ -11,7 +11,7 @@
           "weight": 80,
           "pool": [
             {
-              "weight": 6,
+              "weight": 48,
               "item": {
                 "id": "the_vault:gemstone",
                 "count": {
@@ -22,7 +22,7 @@
               }
             },
             {
-              "weight": 2,
+              "weight": 16,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -33,13 +33,24 @@
               }
             },
             {
-              "weight": 1,
+              "weight": 8,
               "item": {
                 "id": "the_vault:vault_essence",
                 "count": {
                   "type": "uniform",
                   "min": 2,
                   "max": 4
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:gilded_chest_scroll",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             }
@@ -120,17 +131,6 @@
               "weight": 52,
               "item": {
                 "id": "the_vault:jewel_pouch",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 64,
-              "item": {
-                "id": "the_vault:gilded_chest_scroll",
                 "count": {
                   "type": "uniform",
                   "min": 1,
