@@ -125,7 +125,7 @@
           "weight": 522,
           "pool": [
             {
-              "weight": 810,
+              "weight": 900,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -136,7 +136,7 @@
               }
             },
             {
-              "weight": 405,
+              "weight": 450,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
