@@ -85,7 +85,7 @@
             },
             "extraOutput2": {
                 "conditionalOutputs": {},
-                "chance": 0.0,
+                "chance": 0.25,
                 "stack": {
                     "item": "the_vault:faceted_focus"
                 },
@@ -192,7 +192,7 @@
                             "isLegendary": null
                         },
                         {
-                            "chance": 0.75,
+                            "chance": 0.8,
                             "stack": {
                                 "item": "the_vault:faceted_focus"
                             },
@@ -201,7 +201,7 @@
                         }
                     ]
                 ],
-                "chance": 0.25,
+                "chance": 0.5,
                 "stack": {
                     "item": "the_vault:faceted_focus"
                 },
@@ -280,7 +280,7 @@
                             "isLegendary": null
                         },
                         {
-                            "chance": 0.75,
+                            "chance": 0.8,
                             "stack": {
                                 "item": "the_vault:faceted_focus"
                             },
@@ -289,7 +289,7 @@
                         }
                     ]
                 ],
-                "chance": 0.25,
+                "chance": 0.5,
                 "stack": {
                     "item": "the_vault:faceted_focus"
                 },
