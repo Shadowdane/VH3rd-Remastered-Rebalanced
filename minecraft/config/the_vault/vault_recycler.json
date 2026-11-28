@@ -2,11 +2,11 @@
     "processingTickTime": 20,
     "greedCoinsPerEtchingTier": 0.5,
     "additionalOutputRarityChances": {
-        "SCRAPPY": 0.01,
-        "COMMON": 0.1,
-        "RARE": 0.25,
-        "EPIC": 0.5,
-        "OMEGA": 0.8
+        "SCRAPPY": 0.025,
+        "COMMON": 0.25,
+        "RARE": 0.5,
+        "EPIC": 0.8,
+        "OMEGA": 1.0
     },
     "recyclingOutput": {
         "the_vault:augment": {
@@ -44,7 +44,7 @@
                     "item": "the_vault:inscription_piece"
                 },
                 "minCount": 3,
-                "maxCount": 6
+                "maxCount": 7
             },
             "extraOutput1": {
                 "conditionalOutputs": {},
@@ -72,7 +72,7 @@
                     "item": "the_vault:vault_scrap"
                 },
                 "minCount": 7,
-                "maxCount": 12
+                "maxCount": 14
             },
             "extraOutput1": {
                 "conditionalOutputs": {},
@@ -85,7 +85,7 @@
             },
             "extraOutput2": {
                 "conditionalOutputs": {},
-                "chance": 0.25,
+                "chance": 0.5,
                 "stack": {
                     "item": "the_vault:faceted_focus"
                 },
@@ -100,7 +100,7 @@
                     "item": "the_vault:silver_scrap"
                 },
                 "minCount": 7,
-                "maxCount": 12
+                "maxCount": 14
             },
             "extraOutput1": {
                 "conditionalOutputs": {},
@@ -156,7 +156,7 @@
                     "item": "the_vault:vault_scrap"
                 },
                 "minCount": 7,
-                "maxCount": 12
+                "maxCount": 14
             },
             "extraOutput1": {
                 "conditionalOutputs": [
@@ -167,7 +167,7 @@
                             "isLegendary": true
                         },
                         {
-                            "chance": 1,
+                            "chance": 1.0,
                             "stack": {
                                 "item": "the_vault:faceted_focus"
                             },
@@ -184,23 +184,7 @@
                 "maxCount": 1
             },
             "extraOutput2": {
-                "conditionalOutputs": [
-                    [
-                        {
-                            "rarity": "OMEGA",
-                            "isCrafted": null,
-                            "isLegendary": null
-                        },
-                        {
-                            "chance": 0.8,
-                            "stack": {
-                                "item": "the_vault:faceted_focus"
-                            },
-                            "minCount": 1,
-                            "maxCount": 1
-                        }
-                    ]
-                ],
+                "conditionalOutputs": {},
                 "chance": 0.5,
                 "stack": {
                     "item": "the_vault:faceted_focus"
@@ -244,7 +228,7 @@
                     "item": "the_vault:vault_scrap"
                 },
                 "minCount": 7,
-                "maxCount": 12
+                "maxCount": 14
             },
             "extraOutput1": {
                 "conditionalOutputs": [
@@ -272,23 +256,7 @@
                 "maxCount": 1
             },
             "extraOutput2": {
-                "conditionalOutputs": [
-                    [
-                        {
-                            "rarity": "OMEGA",
-                            "isCrafted": null,
-                            "isLegendary": null
-                        },
-                        {
-                            "chance": 0.8,
-                            "stack": {
-                                "item": "the_vault:faceted_focus"
-                            },
-                            "minCount": 1,
-                            "maxCount": 1
-                        }
-                    ]
-                ],
+                "conditionalOutputs": {},
                 "chance": 0.5,
                 "stack": {
                     "item": "the_vault:faceted_focus"

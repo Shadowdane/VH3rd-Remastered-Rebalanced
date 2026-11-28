@@ -179,7 +179,7 @@
         }
       ]
     },
-        {
+    {
       "roll": {
         "type": "uniform",
         "min": 1,
